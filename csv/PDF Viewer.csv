@@ -1,0 +1,403 @@
+×Ö¶Î1
+Support for Pdf files Specification not checked by pdfjs (should redirect to correct plugin instead)
+pdf view prints in wrong order
+Scrolling accross page boundaries only paints the new page
+"pdf viewer selected text highlight too tall, overlaps with next line"
+Non-showing or unreadable fonts in PDF.js documents.
+Bad page rendering (bug page filled with website and source)
+Include PDFium and make it the default PDF viewer
+Memory usage 30x+ of page-size
+"PDF Viewer does no preload unvisible pages, reloads on scrolling back"
+Firefox shows a separate PDF and Portable Document Format option and refuses to open a PDF file
+large area covered by green quad on specific pdf
+"browser slow, may be browser's pdf.js"
+PDFs do not load correctly
+Title and target fields aren't applied
+PDF.js doesn't scroll page into view if I try to navigate to the same anchor
+pdf.js does not keep read position in document if FF crashed
+pdfjs.enablePrintAutoRotate doesn't work
+firefox-56.0.1/modules/pdfium/pdfium/core/fpdfapi/edit/fpdf_edit_create.cpp:1424: bas assert ?
+PDF.js user interface doesn't align to the new photon user experience
+Opening PDF files in arch creates unending tabs
+Specific PDF  page takes 10s to render (200% cpu)
+Pressing ctrl key during inertial scrolling sometimes causes PDF reader to zoom
+Firefox hangs up when downloading a certain pdf
+Recurring canvas permission popup in pdf viewer
+Firefox 58.0b8 64 bit download button does not work for PDF
+Mac: Restore previous session leaves pdf displayed corrupted
+pdf.js: PDF viewer hangs on rendering some documents
+pdf doc prints black pages when 2-up
+pdf.js doesn't render document correctly
+The web site should be able to suggest that Firefox not to use the built-in PDF viewer
+pdf jsviewer incompatibility printing Royal Mail Online Postage
+No possibility to print PDF online invoices by Firefox PDF Viewer
+Integrated PDF viewer does not print rotated sheets
+font hinting problem
+PDF Viewer Mangles Equations When Printing
+[pdf.js] PDF file making Firefox unresponsive
+PDF viewer ignores files from appcache
+Firefox can't open pdf documents in the file system in old profiles
+inline pdf is not shown using firefox
+Shows blank PDF when file is hosted in a directory protected by NTLM
+Etsy PDF Label Misprinting
+pdf.js renders black box instead of text in EasyJet boarding pass
+"pdf.js hangs browser navigation, ignores back/forward to pdf only"
+pdf clipboard put ever word on a separate line
+[PDF Viewer] pdf.js has a unsupported layer problem
+"Problem pdf.js, printing, mail - why using Adobe"
+PDFJS crashes firefox in Samsung tab e
+"PDF file is printed with wrongly positioned glyphs, barely readable"
+"PDF.js doesn't honor ""/ViewerPreferences <</PrintScaling /None>> in Catalog"
+PDF viewer font rendering inconsistent spacing
+Poor PDF font rendering with ArialNarrow substitution
+"pdf displays as garbage, slices of stuff - e.g. http://www.garponline.com/7idanl.pdf"
+Document structure in PDF viewer doesn't highlight the current paragraph
+Wrong rendering of shadings
+Logo missing in a PDF document under Linux (displays correctly in other viewers and under Mac)
+Crashes with internal pdf viewer using external tools
+Parts of text of PDF file not displayed when Firefox built with internal copy of Cairo
+PDF embedded SHREE-DEV-7 font not getting rendered properly with HWA disabled
+PDF Viewer is not using print.print_margin
+Msg about incorrect showing PDF with JS for autoprint
+"PDF Viewer renders unviewable renderings when High Contrast is enabled or ""allow pages to set their own colors"" is disabled and background is not white"
+embedded pdf is not displayed
+Direct printing pdf files is chaotic
+built-in PDF Viewer does not show page layout specified in initial view in pdf document properties
+stream endstream not supported in inline pdf viewer
+Firefox PDF viewer saves pdf files with extension do instead of pdf
+"¡°Open with another PDF viewer¡± does not propose plug-in, and writes a mysterious file"
+The title?¡°PDF.js viewer¡± stays instead of going away
+put all of pdfjs controls on top if enough room remains
+Page down button doesn't scroll PDF downwards
+"A separate content process should be used for each pdf.js tab, or perhaps shared between all pdf.js tabs"
+Getting permission denied contentwindow.document
+[PDF Viewer] Letter not displayed correctly
+stack exhaustion loading pdf
+No zoom in PDF Presentation mode
+Character spacing wrong when zoomed
+Can't download pdf until password is entered
+Make PDF Viewer look native on Linux
+Can't fill fillable PDF forms with PDF Viewer
+The pdf.js automated tests fail if acrobat is installed on the machine
+Test: Performance regression (Talos)
+[Meta] pdf.js - Feature: Printing
+Download and other buttons of PDF.js not discoverable enough
+"""Open With Different Viewer"" saves, does not open viewer (button for potentially incorrectly displayed PDFs) ¡ß [x] Do this automatically for files like this from now on"
+"PDF.js: ""Current view (copy or open in new window)"" bookmark button tooltip is unclear"
+LibreOffice shows spaces copied from PDFs grey/gray
+Empty/blank space in PDF is the page beginning for selection
+Firefox cannot display FDF files in the PDF viewer
+Add ability to report pdfs displayed incorrectly to pdf.js developers
+Should be able to view PDFs even if the response HTTP headers include Content-Disposition:attachment
+document.contentType returns text/html when a PDF is displayed with PDF.js
+"add telemetry to find out what things are triggering the ""unsupported feature"" banner most often"
+Zoom commands not sent to pdf viewer if pdf viewer doesn't have focus (focus in locationbar)
+Associate *.pdf with Firefox
+"Link hover ""tooltip"" can remain after loading pdf.js"
+Pdf.js still has rendering bugs
+Weird thumbnail sizing in documents with different page orientation
+"Printing from pdf.js rescales/resizes/shrinks output, and very poor print quality"
+Add rendering test for PDF.js
+pdf viewer automaticely ask to print pdf form instead of open it
+PDF text gets scrambled
+Support Blob for PDF view activity
+cannot use / to quick search in pdfjs
+PDF viewer not showing some lines in a PDF file
+"pdf.js, font rendering is jaggy when HWA off"
+"Vertical Scroll Bar Down-Arrow visible but hidden to Mouse in PDF Viewer, 'right grab' (ReSize) on Down Arrow available."
+When it displays pdf files directly (as opposed to downloading to disk) they are wrong
+Investigate importance of PDF Viewer two-page view
+Switch PDF Viewer to use CSS Font Loading API instead of data-URIs
+"cannot load any more PDF files, getting NS_ERROR_XPC_SECURITY_MANAGER_VETO"
+when printing encoded pdf all the spaces are filled with !
+Remove Adobe CMAP License
+pdf.js font rendering is very poor when run inside RDP / Remote Desktop session
+[HiDPI] Inline pdf controls are blurry on HiDPI devices
+pdf.js can't render selected characters properly
+Selecting a text from a PDF on Mac OS X 10.6
+"[tracking] move PDF.js into a web extension, ship as a system add-on"
+print pdf with both orientations
+ctrl + up/down keys works on reverse order both on PDF Document and Print-preview mode
+[Meta] Mortar performance and stability issues - PDF
+MimeTypeArray is missing 'application/pdf' in 48.0 on Linux
+The attached PDF file does not load
+[PDF Viewer] Text on the map does not appear
+"After selecting a zoom level, navigation keys scroll through zoom levels, not through pages"
+Incorrect rendering: semicolons render as commas
+broken text rendering in specific PDF
+PDF Viewer points Internal links (pdf created from powerpoint) to wrong page
+[Intermittent] Print Preview output shows poor rendering
+pdf text containing english chinese and pinyin is badly spaced
+pdfjs printing in Hebrew/Arabic is messed up
+PDF does not show when opening a link to pdf
+"PDFjs should stop using XHR.responseType=""moz-chunked-arraybuffer"""
+"ppapi-runtime.jsm should stop using XHR.responseType=""moz-chunked-arraybuffer"""
+Password Manager pop-up appears for every single page while reading PDF
+PDF Viewer scans words on different rows of a table as one word
+Incorrect title bar for a pdf file
+The built in pdf viewer shows misaligned glyphs in Unicode code charts.
+Reduce message size for PExternalHelperAppChild::SendOnDataAvailable
+PDF with annotations is incorrectly printed from Win XP
+[Mortar] Fix eslint issues in mortar
+"Dialog for ""Always Ask"" for handling pdfs should show ""Preview in Nightly"" as an option"
+Highlighting from Find remains after closing Find bar
+Caret browsing mode in PDF Viewer
+"PDF Viewer should be offered as an option to ""Open with"""
+PDF cannot be displayed in internal viewer (JPX with 2 components is not supported)
+"[Linux] PDF.js renders imelven's ""evolving web security model"" slides as mostly blank"
+wrong images when printing PDF from Firefox
+"PDFs print on open if the text ""print()"" appears anywhere in document javascript"
+Firefox gets stuck in Print Preview while trying to print a certain pdf file
+Unable to print PDF from within the PDF viewer
+Graphic in PDF is completely ommited
+pdf.js display blank page
+Count matches wrong for pdfjs
+mozilla print blank PDF files
+[PDF Viewer] Bad rendering of the print when printing PDF in a tab that was not active during a moment
+Error printing when trying to print a pdf file after exiting 'Presentation Mode'
+Add automated test for PDF navigation
+"Printing PDF Causes ""Unexpected Error"" (Affected By Zoom Level)"
+Bad text rendering in PDF
+Intermittent browser_pdfjs_main.js | Test timed out -
+Intermittent e10s browser_pdfjs_views.js | Test timed out
+Intermittent e10s browser_pdfjs_zoom.js | Test timed out
+[Mortar][Meta] Add telemetry probes
+[Mortar] Add crash ping for reporting pdf viewer or pdfium binary crash.
+[Mortar] mozbuild for PDFium and its Pepper layer from Chromium
+[Mortar][l20n] Reuse pdf.js localized strings
+"[Mortar] Overwrite default ""Preview in Firefox"" option in Application panel when pdfium is enabled"
+[Mortar] List generated output files to .hgignore and .gitignore
+"[Mortar][UI] Implement ""search selected text"" in context menu"
+[Mortar][UI] show a pop-up warning when encounting script
+[Mortar][UI] Implement find-string feature
+Port PDF.js to jsplugin
+[Mortar] The jsplugin window won't be focused by default
+Links in document outline jump to the wrong view when pages are rotated
+PDF Viewer is highlighting search words with increased font size and shifted placement
+"Processing http://lib.tkk.fi/Dipl/2002/urn007413.pdf is slow, and its text layer is all messed up"
+Text selection goes grey & opaque when Firefox not focused
+Increase the zoom level to correctly display large format pdfs
+Unable to select an image in PDF.js
+Add pref to disable the notification bar about the PDF file not being displayed correctly
+Firefox crashes OOM while viewing PDF when many PDF documents are opened
+Buttons in pdf.js remain in hover state after selection
+Double-click on words in PDF does not select the entire word
+pdf.js: In some PDFs parenthesis is not well positioned.
+"With pdf.js enabled, selected text doesn't stay selected after zoom"
+Searching for consecutive words is broken in pdf.js
+[PDF Viewer] Horizontal white lines appear between image chunks
+"Reenable ""Print Selection Only"" print option in Firefox PDF viewer again"
+Expose PDF.JS as a plugin navigator.plugins when enabled
+There isn't any way to resize the document structure view
+"mechanicssecretspdf1a PDF is blank when using ""Allow pages to choose their own colors"" pref"
+landscape pdfs are printed portrait with pdf.js
+pdf.js: Whitespace instead of diacritics
+Bitstream charter accented characters displayed incorrectly in PDF viewer on linux
+pdf.js shows content from hidden layer
+Built-in PDF viewer error in displaying file
+PDF Viewer does not show German umlaut
+"Firefox PDF viewer, pdf.js can not read underscore character from hyperlinks in PDF file."
+PDF renders incorrectly
+printing PDF via pdf viewer : images not rendered well
+Form field values in PDFs not displayed [Form-related: no info in console]
+crash while stressing pdf.js by scrolling in mozilla::layers::CanvasLayerD3D10::UpdateSurface
+PDF files can't be printed because they stuck in the queue with status 'processing'
+PDF of Firefox 1.0 NYT ad doesn't display properly in pdf.js [TODO:graphic state operator SMask/BM]
+unable to view a pdf which was generated from chart.io
+[PDF Viewer] Image pattern not rendered
+pdf.js performance on an ice map is not acceptable
+PDF very slow to incorrectly render
+AcroForm/XFA is not supported
+Firefox ignores ICC color profiles for images inside PDFs
+emoji doesn't honor color: transparent on Mac OS X
+The focused thumbnail should always be visible in the sidebar.
+very bad rendering of a Mozilla presentation slides
+Support tagged PDFs in pdf.js
+"PDF rendering of letter ""f"" is positioned incorrectly"
+[PDF Viewer] Space is too short between some letters
+"After cancelling a PDF print operation, Print function becomes unavailable"
+Pdf.js rasters the document in too low resolution and with antialiasing when printing
+pdf.js Character does not display
+Printing the contents of a pdf.js iframe fails
+gfx.direct2d.disabled causes issues with text not being rendered correctly
+Display in browser of pdf files no longer properly supports proper display of legacy non-unicode embedded fonts of foreign languages like Sanskrit
+Make PDF Viewer's search highlight in a higher contrast color
+"pdf works on screen, but corrupt when printed: pdf.js"
+"PDF viewer does not print ""absolute value"" signs"
+pdf.js uses too much memory
+bad pdf rendering: font corrupted  on windows machines with hardware acceleration disabled
+Firefox PDF Viewer truncates page if site is zoomed < 100%
+Bad rendering of the PDF after resetting zoom from the lowest level
+Almost impossible to select the text of a multi-line link
+Error: Permission denied to access property 'print' on Firefox 23.0.1
+Printing PDFs designed for legal size paper: bottom gets cut off
+Freeze when displaying a PDF (firefox 24 win/nux)
+PDF file incorrectly displayed
+Download button does not respond while pdf is loading
+When PDF crosses a zoom threshold an option to open just the PDF in new tab should be offered
+PDF viewer failed to print opening parenthesis characters of some PDF documents (printer output)
+Attempting to zoom a PDF using touch gestures results in the entire pdf.js chrome being zoomed
+Issue viewing a PDF in Firefox
+"""Mozilla Mountain View Outdoor Plan"" PDF extremely slow to render"
+Poor text selection behaviour in PDFs
+pdfjs makes f's and t's thicker when hitting CTRL++ twice
+Apparent incompatibility between Firefox PDF reader and Google Docs PDF creator
+"pdf.js renders a page correctly, but prints it incorrectly"
+Horizontal position should also be restored
+Offer users better way to open Download files in pdfjs without mimetypes interference
+Intermittently printed PDF comes out garbled
+PDF characters missing in pdf viewer and NULL characters appear internally in XHTML and UTF-16 strings
+Pdf with anotations doesn't print properly
+pdf.js Unknown compression method in flate stream
+"PDFs rendered slow with inappropriately high resolution [@ js::CompartmentChecker::fail(JS::Zone*, JS::Zone*)]"
+pdf.js : blurred image (screen & print)
+pdf.js: pdf displayed totally garbled
+Blank page printed before document
+Single page in PDF takes forever to display
+Black Star Coop menu displays poorly in PDFjs
+Broken rendering on very old 1.2 PDF files
+Top and bottom images are not displayed in pdf file
+Display favicon from top left corner of large images and PDFs if no domain favicon is available
+PDF increases heap-unclassified significantly
+PDF is slow to render
+preview pdf in firefox option does not show when pdf set to always ask
+pdf.js does not honor layout.scrollbar.side
+pdf.js causes memory use to spike by 2Gb
+pdf.js doesn't work with dom.storage.enabled = false
+Blurred bar code image in PDF Boarding Pass
+PDF view should default to Page Fit on large displays
+The search result is no longer displayed in view after several rotations for a pdf
+Improper glyph rendering
+Searching for the same word twice in a pdf is not working properly.
+Switching several times between print preview orientations has a significant impact performance-wise
+A blank page is added at the end of some documents when printing
+Second search searches initial text with new hightlighting
+Cannot scroll by dragging the scrollbar thumb after doing Ctrl+A (Select All)
+Search (CTRL+F) searches down only and disables navigation if not found
+Single page of specific PDF takes ~35s to render
+Chart in pdf is rendered with hundreds of horizontal lines
+pdf.js does not render background making white text on non-existing background unreadable
+clipped letters when printing PDFs
+PDF text rendering bug in Windows high contrast mode
+arabic characters doesn't print correctly
+Font renders c as o in PDF
+pdf displayed incorrectly in pdf.js
+Add support for javascript in pdf (eg: animations in pdf presentations) to pdf.js
+pdf.js marking text bug
+"pdf.js ""Open With Different Viewer"" visible if the Open Action is print"
+Poor typesetting in specific pdf file
+Bad performance with some PDF
+Reflow / scrolling performance has regressed in Firefox 36
+Slow re-rendering of schematic file and regression
+PDF Rendering badly
+error in PDF.JS (viewer.js) with self-printing PDFs
+Rendering first page of attached PDF takes 13s on fast notebook
+Bad kerning for a particular PDF document
+"Some PDFs render as 1 character per DOM element and as a result, nearly freeze the browser"
+Missing texts in certain PDF documents
+Pathologically slow pdf rendering
+Select all in pdf has strange behavior
+pdf.js cannot print notations correctly
+[UX] Improve Ui of PDF.js and image viewer
+Images have gray stripes.
+PDF Viewer: Ctrl + scroll wheel behavior is different to Ctrl + [+/-]
+bad A11Y/U7Y in PDF viewer toolbar
+Font rendering problem in pdf.js with HWA off
+Incorrect rendering of Stanley Park map
+PDF causes memory leak and huge CPU load after re- opening the URL
+Extra white space on top of the page after printing pdf
+PDFs randomly don't load their fonts in print preview or when printed
+Intermittent browser_pdfjs_zoom.js | application terminated with exit code -11
+PDF containing specific font renered ugly in firefox
+Make plugin.disable_full_page_plugin_for_types a proper default preference
+built in PDF view not consistent in caret mode for page up and page down key response
+Artifact and slow rendering with specific PDF
+"Extremely fuzzy text rendering, likely linked to Medium - 125% dpi setting"
+PDF with dashed lines is misrendered as full lines
+"Support ""application/x-pdf"" for PDF Viewer"
+pdfjs not opening embedded attachments
+PDF documents are always scrolled to the current string highlighted by findbar after I increase zoom level
+pdf duplicate rendering images and text
+[PDF Viewer] Incorrect PDF display (large portions of the map appear as black)
+Chinese character Æ÷ doesn't render correctly
+Special Latvian characters are printed as garbage
+Find dialog text is reset when switching tabs from pdf viewer to another page and back
+Investigate why printing http://www.bombmanual.com/manual/1/pdf/Bomb-Defusal-Manual_1.pdf yields incorrect results
+Printing results in odd artifacts on top right of page
+Glitches while entering in fullscreen mode using ¡°Page Fit¡± zoom level
+[PDF Viewer] Some diacritics are not displayed with HWA disabled
+PDF.js does not render image alt text.
+poor print quality from pdf
+Gradient in PDF file not rendered correctly
+PDF is printed as image
+Support whole word search for find in page
+pinch gesture changes page zoom instead of pdf zoom
+PDF viewed in Firefox does not match PDF viewed in Acrobat
+[Mortar][Meta]Implement Mortar/PDF user interface
+[Mortar] Integrate context menu from widget layer
+[jsplugins] Integrate tooltips from widget layer
+Lazily load pdf.js in the content process
+Add a test for doing print preview of a pdf.js document
+Printing particular sheet music produces inaccurate result
+[PDF] Strings in findbar is always reset to its initial value when it gains focus again
+PDF.js shouldn't load anything before opening and painting the first browser window
+PDF.js prints documents rendered as plain images
+Printing PDF to PDF results in missing glyphs
+OS X trackpad pinch gesture (or ctrl+two-finger-pan) on PDF changes zoom like crazy
+PDF background rendering incorrectly
+pdf parameters for opening
+pdf.js does not remember zoom mode
+Usability: toggle sliders button in PDF-view jumps around
+pdf signature not shown when displaying downloaded pdf inline
+Very slow rendering of PDF file compared to stand-alone PDF viewer on low performance computers
+pdf.js does not support automatic print using Adobe JavaScript > Document Actions
+PDFs don't load in PDF Viewer - When JavaScript is disabled/turned off completely using javascript.enabled
+[PDF Viewer] Boxes marking out text area are visible on gray background
+pdf.js text not clear enough when zoom is 100%
+Memory usage while reading big PDFs gradually increases until browser OOMs
+URLs in PDF file are not click-able
+Provide some sort of attribute in the HTML that allows the PDF viewer to be detected
+find functionality creates terms in pdf viewer pages
+pdf.js (PDF preview) font rendering is sometimes ugly
+cannot stop pdfjs download
+"Add an ""Add to iBooks"" button to PDF viewer on Mac"
+'This file might not be displayed properly' warning should close with ESC
+[UX] Make search more obvious in PDF viewer
+pdf files are scaled wrong on the display
+Checkbox on pdf renders as in Firefox PDF viewer as greek characters
+PDF viewer doesn't display the photos in the PDF file correct. They are with white lines
+Images in pdf.js have no useful context menu
+"PDF's current position is intermittently modified when ""Current view"" is selected"
+Link not recognised in PDF
+"Right Click on the ""Current View"" button offers the option to search for ""Current View"""
+Opening a PDF file from file:/// doesn't work
+Allow file renaming in PDF Viewer download dialog
+pdf viewer presentation mode no scrolling while zoomed in
+Opening a pdf fails to restore/activate the browser the pdf loads into
+[PDF Viewer] Wrong color in PDF (gray instead of blue)
+pdf.js in 'pdf.js is now fullscreen' must be changed to something more appropriate.
+"""Select all"" context menu option doesn't work in presentation mode using pdf.js"
+[Mortar] Implement PPB_PDF::SetContentRestriction()
+PDF files rendered with wrong color in Firefox
+[Mortar] Can not cut/copy/paste string from pdf form
+[Mortar]  Can't render some traditional Chinese characters when type in on pdf form
+copy copies more than what user sees in PDFs
+Create a browser chrome test that checks if embedded pdfs are loaded correctly
+Hyperlinked PNGs with transparency in PDFs have a yellow scan line that follows the cursor when hovering over it
+"""Automatic zoom"" value is displayed for one second every time we reload the PDF file"
+"""Save page to pocket"" doesn't work for pdfs in presentation mode"
+Text highlight is not cleared when closing find bar in PDF viewer
+Intermittent browser/extensions/pdfjs/test/browser_pdfjs_zoom.js | leaked 2 window(s) until shutdown [url = http://example.com/browser/browser/extensions/pdfjs/test/file_pdfjs_test.pdf#zoom=100]
+Intermittent browser/extensions/pdfjs/test/browser_pdfjs_savedialog.js | Test timed out -
+Go to a bookmarked location of a document
+Previous/Next Page button icons remind me of undo/redo/refresh because of bending
+Poor copy & paste behavior with pdf.js
+PDF.js should be themeable.
+pdf font rendering bug
+Allow pdf.js to activate fullscreen without permission prompt
+pdf.js doesn't respect document permissions
+"very high memory usage, with high heap-unclassified"
+PDF.js Broken Forms
+Large PDF leads to crash in Print Preview
+pdf.js's controls are also affected by the zooming actions initiated from the menu
+Downloading PDF freezes the browser

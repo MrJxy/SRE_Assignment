@@ -1,0 +1,501 @@
+×Ö¶Î1
+white shading on new tab bar is ugly/hard to read if not using standard dark-on-light theme
+"gnomestripe: small ""warning"" icon isn't small size of big ""warning"" icon, it's probably winstripe icon"
+"favicon dropdown ""tooltip"" and bookmark adding context ""tooltip"" are using gtk menu"
+"Navigation toolbar resizing causing 'jump', possibly by favicon"
+URL dropdown menu should be styled after OS X context menus.
+Does not use correct font styles as defined in GTK theme in menu bar and some dialogs
+Personas don't skin open menus or windows
+If I want to change order (bookmarks above homepage icon) text in homepage does not disapear
+The Add Ons page should use the Mac OS black bar for actions
+"Outermost toolbar buttons should stick to the very edges of the screen, when window is maximized"
+Separators should be removable through Customize
+Change Toolbar button relocation drop markers to match Tab drop marker
+Personas should be used along the top edge of the window
+Transparency of themes turns black from start up
+"New tabs are in white, undesirable for vision impaired"
+Too many pinned tabs go off the tab strip
+"When all other toolbars are hidden, tabs look ugly with any addon's toolbar."
+Arabic 1025: close minimize maximize buttons on wrong side of browser
+[Linux] Improve styling of the bookmarks bar
+Persona theme with disabled menu bar clipping covers white border of caption buttons
+Cannot individuate Current Tab's transition state from tab-bar's information
+Personas for win7 and etc + special function
+"In Vista and 7, XUL links do not have a hover or focus colour"
+gui change sometimes
+"Old throbber persists in ""List all tabs"""
+Seek and loading animations should turn the same way
+No info if something is loading
+"Window buttons (maximize, minimize & close) are painted wrong when the menu bar is hidden w/'xpize' theming"
+sidebar-headers need adjustment to the new theme
+"Copy of icons etc. forward backward home refresh print are on the right side and when pressed they react, not all"
+"The ""flexible space"" item during customization should look opaque"
+Menupopup is inside in the browser window
+Increase URL bar and search bar font size
+Personas flow into History sidebar splitter
+White line/border at the top of the navigation toolbar missing (tabs-on-top)
+"Firefox tab bar ""new tab"" notification does not fit UI/unpleasant look"
+padding border width of firefox is not system default
+Default theme has white glitch at start/end of every tab
+Linux: fullscreen window controls' position (left/right) should follow the desktop theme
+Representation error in Pivot View.
+"When maximized with tabs in titlebar are filled, win7 Aero is broken -> no easy drag of titlebar, just some small places you have to hit"
+Give buttons placed in title bar look of caption buttons
+Tabs overlap Firefox button when reducing Windows Active Title Bar size
+Window size is not fixed in Mac OS
+tab close cross not simple to find
+notification after installing the theme personas
+Bookmarks-toolbar-items is not visible on Aero background
+Pinned tab alarm should set urgency ICCCM WM_HINT
+Navigation Toolbar Button Inconsistencies
+Maximized popoups and tabs on top missing top border
+No Aero blur applied on floating box borders in Firefox on Windows
+Inverted default favicon needed(When on Toolbars) when using Dark Persona Themes - due to Bug 648668
+Classic Button for Bookmarks Toolbar
+"Background Update should indicate, that new Update is ready to Apply"
+Update sidebar to match the rest of the theme
+Social toolbar buttons are not grouped using Personas on OS X
+Disable tab animations in Remote Desktop sessions to avoid slow displays
+Themes installed in PB mode should not be visible in Normal Mode
+Remove transparency from transparent menu bar?
+Bookmarks toolbar improvements
+Logo of the new Firefox About dialog is smaller than the old logo of Firefox
+Firefox 23 GUI Style Changes Menu Separator/Icon Too Low Contrast
+Show bookmarks icon stretches vertically (Australis)
+"Australis, Linux: Bad hover/active styling of buttons of ""menu"" type placed in main toolbar"
+Downloads library view doesn't obey the Windows high-contrast theme setting
+Help subview shouldn't have padding for icons
+"Closing Australis ""Customization"" can cause a short flash of black borders when Aero is used"
+Lightweight theme translucent toolbar overlay makes buttons and text blurry
+Sidebar view doesn't obey the Windows high-contrast theme setting
+Firefox needs to be packaged with a css style sheet to allow for darker themes in KDE
+"Australis, linux: disabled, checked toolbarbutton in sub-views have a incorrect styling"
+Windows Classic Look - favicons are hardly visible
+A line appears above the back button on hover
+[OS X] Title bar not accessible after starting Firefox if it was closed in fullscreen mode (when using multiple displays)
+Australis Tab Gradient is too harsh on dark color themes
+Error page should be aligned to the top
+Australis toolbar buttons render incorrectly
+Bookmark navigation bar icon not active
+"Scrollbar has low contrast, on dark pages"
+Focus is not highlighted for checkboxes when the page is zoomed in
+Top and bottom 5 pixels of URL and Search box are not clickable
+Bookmark menu button border style wrong when on bookmarks toolbar on Windows 7 aero
+[Linux]Firefox for dev (v35) icon name conflict
+favicon placeholder boxes waste horizontal space in the bookmarks toolbar
+Bookmarks read-only when other than Default theme is used
+Scrollbars look bad with GNOME/GTK+ 3.16
+"The menu associated with the ""More tools..."" chevron has poor alignment and spacing"
+Minor cosmetic issue when opening large number of sites in one go.
+Firefox Developer Edition Theme loading slow than default theme
+[Firefox Developer Edition] about:config is unreadable with custom system colors
+Black background makes some chrome pages difficult to read
+FF40 made weird changes in menubar colors
+Unresponsive script warning should not change window dimensions
+Refresh icon of leftmost dialogue box comes outside it on minimizing its length
+loading icon chrome://browser/skin/tabbrowser/loading.png is not animated under system libpng 1.6 (linux)
+Window controls are too far to the right on Windows 7 (browser windows only)
+Ugly line on top of selected tab on Windows 10
+"Preferences and Addons pages are too big because of inconsistent font sizes, require vertical scrolling"
+Low readability for favicons have transparent background in dark theme
+[10.11] (UI) Tab Bar needs more contrast in OS X 10.11 El Capitan
+[Dev Theme] Arrow .tab-drop-indicator (which appears if I drag a link between tabs) should have white icon on dark theme
+[GTK3] The sliders of progressbars are not shown
+Line between menu bar and tab bar
+"In elementary OS the URL is coming in white color, not able to see the URL. This happened after installing the lastest update in firefox browser."
+"Minimise, restore and close window buttons in full-screen mode are too close to each other"
+Black bar at top of screen in Fullscreen mode
+"""New tab"" button's icon has pale gray outline when dark lightweight theme is in use, unlike black outline of all other icons"
+"Use site's ""theme-color"" meta tag for desktop Firefox UI"
+Tab bar close button too small in large DPI text
+Placeholder color on urlbar and searchbar is different between normal window and private window in devedition theme
+In Gnome Dark Theme is a white background in the firefox about window
+"Troubleshooting Information 'Show Folder' and ""Show Update History"" buttons hover backgrounds match table background producing odd effect"
+scrollbar slider visibility
+Bookmark Toolbar Separators not consistent in appearance on mixed-DPI (custom devpixelsperpx) setup
+Selected tab color does not look good in dev theme
+[e10s] Changing themes/persona sometimes makes pages white
+please increase font size of URL that appears in the bottom-left corner when you hover over a link
+Compact theme is not working properly when opening Firefox
+Regression: The Drag&Drop indicator is no longer vertically centered when dragging Bookmarks
+Compact themes mouse hover over bug
+Some maximized windows' tabs are too short when restoring from session restore
+Change separator color in bookmark toolbar to blue in preinstalled black theme
+Fluent Design on Windows 10
+Dark theme pixel gap
+Red spell check line too thin of UHD monitor
+print preview buttons not readable on windows 7 (black font on glass border)
+UI glitches in Photon UI
+Icon looks pixelated on gnome3
+Missing pixels in the corners on maximized window on high-density monitors
+"minimize, maximize button not available"
+Developer edition theme: Buttons on tabbar don't get the theme background
+Numbers on Badge are blurry with light LWT.
+"When using Windows Classic theme in Windows 7, separators in bookmarks toolbar are invisible"
+Update bookmark panel for Photon
+4 different styles of folder icons on Windows
+Icons for feed items in Live Bookmarks are not in Photon style
+Badges of toolbar buttons with a `value` don't honour border-radius
+Home screen - textbox color
+Bookmarks toolbar item height is greater than other buttons height
+[Photon] Inconsistent appearance of checkbox type items in overflow menu
+Glitch on tab loading animation
+Close icon on a tab should only be visible when the tab is hovered
+Revisit styling of Firefox account row in the hamburger panel
+"When there are no bookmarks in the Bookmarks bar, it shrinks vertically and doesn't stay the same height"
+Sometimes Firefox title bar font color differs from Windows 10 calculated font color
+[macOS] Feature Request: Add space above the Tab Strip when a window is in macOS Full Screen
+Firefox UI - Window buttons are not showing up properly in Dark themes
+Inconsistent padding/spacing on bottom of bookmarks toolbar
+Firefox should not create its own titlebar on Win10 but respect the system's one
+"Firefox themes cause close, minimise and maximise buttons to look awful"
+Style next and previous buttons in the find panel consistent with Photon
+"Update styling of alert(), confirm(), prompt()"
+"Add a test to verify that the space above tabs is consistent across PB, LWT and sizemode (where appropriate)"
+Use optipng (fork of pngcrush) to optimize pngs
+Private window's chrome is no longer darkened on Mac OSX 10.10
+Use platform colors for the find bar
+Product plan: remove support for heavyweight themes
+need more height in textfield/location bar to fully display non-base-level characters
+Menus and toolbar buttons not clickable from leftmost pixel on screen (Fitts' law)
+Default color of visited links should be closer to purple/magenta and not #551A8B
+Don't hard code the color of glyphs used in buttons
+Blue highlight overflows line in Preferences | Applications
+"The currently-selected tab should have a radio button instead of an icon in the All Tabs menu, to match the Back/Forward history drop-down"
+Show a generic search engine icon in search bar while customizing
+Use GTK+ stock items when possible
+Library's clear buttons should use pointer cursor
+URL of the web-based protocol handler hardly readable on Mac
+Adjust whitespace above/below title/url in location bar auto complete for all platforms
+Invisible close/restore/minimize icons on fullscreen toolbar when using High Contrast theme
+Don't hardcode Security Update color on Update History
+OS X theme lacks a drop down arrow to select live titles in library
+"Go button is way too small compared to other buttons (e.g., Star and RSS icons)"
+A gap between resize grip and window border
+Applications pref panel in Mac Firefox shouldn't use native dropdown menus
+Offline data storage notification icon
+Category sorting arrow in right pane of library is jagged and difficult to see (refresh the treecol sort arrows)
+Short text boxes have messed up scroll bar
+"Use 3D Objects foreground color for status bar, toolbar, and tabs"
+"section_expanded/section_collapsed should be themed, platform specific"
+Consider scaling back the use of menu icons in the Tango theme
+"Drop down arrows in the bookmarks toolbar are native, but they appear too large for the toolbar size"
+Assign special icons for different bookmarks schemes
+Progressive disclosure controls in Library are not native and pointing the wrong way.
+Clear Recent History dialog needs unified margins for ui elements
+Create consistent padding on all sides/margins of the contextual bookmarks dialog/panel
+"Gtk arrows have a very inconsistent visual size, impacting the Firefox theme's level of polish"
+Add a hit state for the folder drop down arrow on OS X?
+Right clicking in the padding area surrounding text in the location or search bar does not open the inputbox context menu
+heights of status and find bars changes when lightweight theme is applied
+Zone Alarm Toolbar causes conflict with lightweight themes applied
+personas -moz-lwtheme toolbar CSS applies to extension toolbars
+Personas / lwthemes shouldn't set color before image loads
+menu-button's always have the vertical separator between the button and menu button
+The forward button's border and glow doesn't fade on hover
+when firefox is in background menu items go grey but still work
+Other text fields that should also be transparent when using Glass
+Resize lightweight theme images to fit chrome height
+aboutSupport.css rules .pref-name and .pref-value do not have desired effect of splitting table 70-30
+Firefox broken with mozilla.widget.disable-native-theme=true
+Add native themes for Windows and Linux (like Firefox 3.x themes).
+[Linux] Adaptive Toolbar Glyphs
+Adjust Bookmarks Button styling and icons to match mockups
+Remove workarounds for bug 579776 when it's fixed
+bookmark toolbar too tall by 6px
+Doorhanger notification icons should visually integrate with the identity button
+un-Italicize the 'Edit' label in the Firefox menu button
+about:support styled to match other about pages
+Improve theming of Sync wizards
+Persona theme with disabled menu bar covers the glow of the caption butons
+Experiment with pattern on Linux
+Make menubar a popup anchored to the menu button
+Persistent Firefox menu button rendering artifact
+Style to-be-restored tabs
+"App tab title change notification is sometimes hard to see, especially with aero glass/basic"
+Move certain style rules for the new About Window for Firefox 4 to the skin provider
+Persona background is drawn too high in titlebar (maximised window)
+Update Bookmarks & Identity panel styles in winstripe theme
+Library window's toolbar design doesn't similar to main window's one
+Navigation toolbar border disappears when hidden menu bar is shown
+first app-tab looks selected even though no apptab actually is selected
+Personas cause clipping of aero caption buttons when the window width is small
+Bookmarks menu button always shows text when on bookmarks toolbar
+Gnomestripe - Remove bottom square on blacklist_favicon.png
+"With tabs on top, don't move window when dragging toolbar"
+Graphical glitch at the bottom of tabs when using darker Personas with tabs on top
+Setting persona in Fullscreen mode makes nav bar inaccessible
+two (duplicate) Full Screen buttons appear in fullscreen mode
+add single pixel of chrome around the content area
+Arrows in History Dropdown List are still Firefox 3.x style
+Titlebar overlaps Persona when not using Aero
+Notification bar has an extra thick right border and should match content area and toolbar style
+RSS button in Toolbar should be colored orange when RSS available
+Small space above tabs looks cut off when using persona
+Full screen mode on Windows should show the normal window controls
+The font substitution at Application Title bar is wrong
+Persona background visible as line beside content area
+center the Options dialog section headers
+Update Print preview toolbar style for aero glass theme
+Home button overlaps nav bar border in windows with small width
+simpler tab close and add appearance for Linux
+cut copy paste right click menu items should be grayed out when actions not available
+Hovering the Reload button inside the Location bar highlight the down arrow next to it
+drop down tab arrow hard to spot with dark OS theme
+Status panel is hard to see when the page has lots of text
+"When ""Tabs on top"" on top is disabled, the presence of a (disabled) third-party toolbar breaks the tabbar background and makes it blue."
+adjust Close Button Size/Positioning in Tab Strip
+One pixel from personas theme is seen above the panorama UI when menubar is hidden
+Removing/adding toolbar buttons animation
+menubuttons and menu items have different heights in Firefox menu
+move Firefox button two pixels to the left
+Bookmarks Toolbar Items near-invisible in Menu Bar with Ubuntu Radiance Gnome theme
+Tab bar looks weird with GTK Murrine engine
+Odd line appears on maximized window with tabs on top
+Option for 1px border for aero snap or alternative implementation
+Menu bar has Aero effect applied to it making the text difficult to read
+Dragging bookmarks onto a folder on bookmarks toolbar causes folder to temporarily lose radii
+Addon buttons break the tabs when put in the top right 'toolbar' area.
+Extend window-draggable area to match visual extension of file bar
+Allow Lightweight Themes and Complete Themes to change how about: pages appear to users
+Thick gray border in glass without toolbars enabled when firefox is maximized
+Vertical align both text and icon in default snippets
+[10.7] Update Firefox Theme for Mac OS X 10.7 Lion
+Firefox button is almost invisible with classic theme (nightly channel)
+"Add Lion Toolbar Texture to Tabs, NavBar, BookmarksBar and Additional Toolbars"
+HTTPS indicator is too pale / invisible
+"Inverted Icons needed for Close Buttons(Add-on Bar, Find Bar and [class="".tabs-closebutton""] on Tab Bar, History and Bookmark Sidebars) are hard to see on mildly dark backgrounds (personas, glass, third-party OS themes)"
+[10.7] Improve focus ring style for urlbar & search field
+Location bar height increases by 1px on pages with EV SSL
+FF8.0b1 shows some small bookmark icons as little gray boxes
+Special-case bookmarklets to not draw no-favicon icon
+Firefox stock icons in the default theme does not use the GTK icon theme
+[UX] style unloaded background tabs differently from loaded background tabs
+Window border width is different (too thick) when not drawing in the title bar
+"Style of ""close"" button is not similar to other tab bar buttons (new tab, panorama)."
+Implement the new Australis styling for the navbar
+Hit area for tab close button is too small when using touchscreen
+Snippets text is hard to read
+[10.7] Remove focus ring from selected tab
+"Lion: .toolbarbutton-1[type=""menu-button""] icons not semi-transparent"
+Use a patterned background for transparent images in standalone view
+The History and Bookmarks sidebars are still styled in the Firefox 3.x theme
+Latest location bar tweaks make URL too small
+"Starting in Firefox 17, long notification bars force-resize the window"
+New windows don't open
+Move #appcontent { -moz-appearance: -moz-win-exclude-glass; } to /content/
+Unfocused windows show glass next to fogged glass in the window-controls area with Australis tabs
+find a way to disable animated personas
+Long page title laps over on private-window icon in titlebar (OS X)
+Clean up usage of windows-compositor in browser(-aero).css
+Tab Bar isn't moving into Title Bar
+Australis tabs performance tracking
+"When using a persona in HTML5 full screen, chrome is visible at the top and element size is smaller than screen size"
+"Tab bar buttons have hover state, but no active/pressed state"
+Make sure Private Browsing indicators are visible
+[Mac] Video freezing when scrolling or switching tabs - Both Silverlight and Flash
+Tabs are drawn wrong for win7 taskbar previews
+Favicons flickering when clearing recent history
+(Australis OS X) The bottom left and right of the customization mode should have a 2.5px border-radius.
+menupopups added to the #mainPopupSet are not offset from the top by -3px when the toolbarbutton is located on the #nav-bar
+panelUIOverlay.inc.css uses far too many descendant selectors
+Background behind selected tab leaks between its stroke and fill
+Polish the page displayed after a Firefox Reset
+Windows 7: Color difference between the bottom of the selected tab and the navbar
+Back button sliding janks
+Tidy up some branding files
+"In Linux Mint, some buttons do not obey GTK theme."
+Identity box and URL have slightly different font/baseline
+[UX] Implement a nicer replacement for the Reset Firefox dialog
+Australis should be tested also with DPI scaling
+Black strip at the bottom of About Firefox window in Aurora and Nightly
+The option to block further prompts on a page can obscure the prompt text
+Use continuous styling with the toolbox when the find bar is at the top
+Figure out what to do with Background Theme footer images once they're not visible in default UI
+Click to play doorhanger notification should not have hostname in italics
+Figure out how to improve the performance of the Australis tab curves
+Toolbar acts like regular Windows titlebar when a lightweight theme is installed and the titlebar is not enabled
+Add the separator to combined buttons outside of the #nav-bar
+Polish background tab separators where they connect to the tabstrip
+Arrow panels are visually inconsistent across the UI and look awkward
+Switch back to CSS clip-path to have proper pointer-events on the selected tab without LWT
+Update 'display:-moz-box' styling in frontend code to use CSS Flexbox
+can't drag maximized window out of maximize mode on Win 7/8
+"Australis, Aero Glass: The tab title text and change notification glow isn't very prominent on background/inactive tabs"
+Inconsistent tab outline when awesomebar popup shown
+"When the tab bar is collapsed (e.g. in popup windows), the navigation toolbar shouldn't have a white gradient in its background"
+Change top border for LWT restored windows on Windows 8
+Australis - Menu bar aligned incorrectly with Windows 7 Aero Basic Theme
+Linux pinned tab notification glow is too subtle
+Australis + Shiki Dust theme: arrows on items of Bookmark widget's menu items with submenus are of color ¡Öindistinguishable from background / invisible
+The titlebar sometimes disappears when disconnecting an external monitor with drawInTitlebar=true
+"Australis, Gnome default theme: background tabs are not dimmed, they are in Thunderbird"
+[Australis] Altering background color of the start and end of the active tab requires modifying SVG files
+[Australis] tab-background not fully overlap the tab curves when layout.css.devPixelsPerPx is not 1
+[Australis] add distinct navigation buttons to palette
+It's unclear whether the Find in page functionality is case sensitive or unsensitive
+Navbar top border color isn't consistent in fullscreen on OSX
+panel-dropmarker.png needs an @2x version for retina screens
+The separators for wide widgets don't match the spec (too tall and should disappear on mouse over)
+_adjustElementStartAndEnd should check the orientation of the scrollbox
+[UX] Visibility indicator in the tab list drop down can be confused with a scroll bar
+Australis overflow panel doesn't immediately close when clicked
+Shrunken tabs resize prematurely upon closing if mouse lands between the last tab and new tab button at top of window
+"Style type=""menu-button"" buttons properly when they're in the toolbar overflow panel"
+"For type=""menu-button"" buttons, the dropmarker can keep 'active' styling when closing the panel by clicking on web content."
+Add a transition between showing and hiding the titlebar
+Preload grid texture for customize mode transition
+Australis - Show bookmarking animation when keyboard shortcut (or menu item) is used.
+Search and URL bar is 2px too high leaving least canvas area of all three main browsers for platform
+Two close buttons in one information popup
+[UX] Australis - Add CSS transitions to Panel menu footer
+Identity panel arrow wrong color when panel popping up rather than down
+Reduce number of things using border-radius during customize mode transition
+Customization: Items dropped on the left side of the tab strip appear in the wrong place
+Window controls overlap menu and/or tab controls when tabsintitlebar is used in small windows
+"with lightweight themes, focus effect for address bar and search bar different for Linux; icon colors are dimmed"
+Windows 8.x theme issues in Firefox
+Australis - Use Windows 8 style icons for Toolbar-inverted.png (on Windows 8)
+Australis - Make panel multiview anchor styling Windows 8 friendly
+Pinned tab separators and overflow borders appear below the nav-bar border when there is tab overflow and a theme
+"Change ""reload browser"" icon to be different to ""reload page"" icon"
+UITour Info panels look really unbalanced and have different paddings for each side
+Australis - Create a subview for share panel
+"create lightweight theme clearly identifying Firefox for conferences, etc."
+[Australis][Mac] Window button position lags during fullscreen transition
+Private browsing indicator slightly misaligned in Windows 8
+[Australis] Text is zoomed when clicking on Bookmarks widget while in Customize mode
+Australis widget consistency - Styling work
+[OS X] Cleanup a -moz-any specificity workaround and a comment related to the removal of the add-on bar
+[UX] Design - Update bookmark folder icons
+Make window modal dialogs anchor to bottom of titlebar with LWT's and in private browsing mode
+[UX] Design - RSS feed menu doesn't use the new bookmark menu style
+Make Australis tabs scale and connect with the nav-bar better
+Improve menubar and tabstoolbar foreground colors for high contrast themes on Windows 7 and 8
+Right tabbar-arrow is blurry and too large
+"[Australis] Hovering the ""new tab"" plus and then switching focus leaves vertical line"
+Window briefly shows flat background color during customize mode transition when in fullscreen mode
+Notification icons are not using the correct platform styling (color palette/shading)
+Dropmarker on bookmark folders on the bookmark toolbar aren't inverted with dark LWT
+menu-button dropmarkers aren't inverted with dark LWT
+Customization mode tip's white border cuts through the arrow of the panel
+Background tab titles are hard to read on Linux in customization mode
+Linux: Fullscreen window controls are hard to see on dark lightweight themes
+Disabled tab overflow icon is hard to see in customization mode
+nav-bar top border doesn't match the selected tab border colour
+Australis - Update searchbox icons
+Implement Australis Style Edit Bookmark panel
+Text in the identity block of the address bar is not vertically centered/aligned
+"""Sign in to sync"" panel button text is not vertically aligned with the icon"
+Glass fog stops abruptly at the native Windows titlebar (when visible)
+Search box text vertical alignment is off
+Aero Basic tabstrip has the wrong background color with tabs outside the titlebar
+Menubar is foggy/blurry when disabled in customization mode (Windows Classic theme)
+Toolbars are missing the left/right borders in customization mode in restored windows (Windows Classic)
+Bookmark popup menus have excessive margin/padding
+Unwanted padding on UI Tour panel
+Provide core widgets/Redesign current core widgets with Australis ready styling
+"Windows 8.1 minimize, maximize, close buttons don't play nicely with dark LWT"
+Extend the URL textbox border to the left edge (around the right part of the back button)
+Re-align infobar icon and close button
+"Incorrect OS X ""focus"" styling on in-content UI buttons (e.g. netError & prefs)"
+[UX] Download Icon in the Library panel should be blue to match new glow assets
+Figure out why #downloads-indicator-counter has a different margin-bottom on Windows Vista and later than on Windows XP
+Always draw the OS X titlebar ourselves.
+"Chameleon styling rules, whatever they are, should be defined in one place"
+In content preferences: strange hover feedback in Applications pane
+toolbarbuttons.inc.css is only included @1x
+Cleanup the distinction between panelUIOverlay.css vs. menupanel.inc.css
+Make the nav-bar/tabstrip border work the same cross-platform and with/without LWT
+browser.customizemode.tip0 text decreasingly legible as screen density increases
+Subview footer in bookmarks panel not centered in Linux and Mac OS X
+Loading state not displayed for throbbers after drag&drop a tab to a new window
+Popup windows set background-color without setting color for the url bar.
+Use HiDPI icons in various about: pages
+Use HiDPI icons in the Places Library window (bookmarks/history)
+Use HiDPI icons for some various primary-UI things
+Use HiDPI icons for some various secondary-UI things
+Make Panorama work well on hidpi displays
+[Breakdown] Audit theme images without a HiDPI @2x version
+"[OSX] On dark lightweight themes, button icons don't get inverted on the tab bar"
+Determine how we want to handle HiDPI theme implementation for Windows
+Bring Windows HiDPI theme support up to parity with existing OS X work.
+Implement Windows HiDPI theme for main UI
+Lightweight themes fail to preview randomly
+Move all download related CSS files into the themes/shared/downloads directory
+[chameleon] Use Fira Sans font for inContent prefs
+Australis tab curve is blurry on Fedora
+Investigation:  4.45% CART regression for win7 on mozilla-beta from revision f7faeaf19dfa
+HiDPI support for Linux
+"When a lightweight theme is applied, tab bottom borders are transparent and show navbar border, leading to a detached look"
+[Windows hidpi] White vertical line on webrtc global indicator
+Cleanup the distinction between panelUIOverlay.css (skin) vs. panelUI.css (content)
+[10.10] Update tab highlight style for OS X Yosemite once transparent toolbar/titlebar is implemented
+[10.10] Investigate updating hover state for buttons in the tabstrip
+[Linux] Inconcistency on hovering over the global indicator for screen/device sharing
+Download complete arrow animation masked by window control buttons
+[UX] Experiment: Reduce UI animation times
+theming changes to the Windows/Linux WebRTC global sharing indicator
+update the appearance for the Mac menubar WebRTC sharing indicator
+Consider switching back to using SVGs for tab images
+Translation bar should not float on top when watching full-screen video
+Window buttons issues if Default Browser prompt is displayed with resized window
+Use image-rendering: pixelated (instead of -moz-crisp-edges) for favicons
+Consolidate typography across arrow panels
+"Inconsistent ""Preferences"" cog/gear icons in `about:home`/Preferences menu"
+"Inconsistent ""Sync"" icons in `about:home`/Preferences menu"
+"Inconsistent ""Add-ons"" icons in `about:home`/Preferences menu"
+"Inconsistent ""History"" icons in `about:home`/Preferences menu"
+OSX close/minimize/maximize buttons are blurrier in a dark lightweight theme
+[10.10] Remove Toolbar Border/Separator Highlight(s)
+DevEdition Windows menubar / TabsToolbar follow up
+Dark lightweight themes have a thin light border on the top of the window in OSX
+Forward button looks too big in unfocused windows with lwthemes
+Unable to position search bar inbetween cut/copy/paste and zoom buttons
+Automatically scroll through panel menu elements with a dragged element
+Update all about: pages to new in-content style
+DevEdition theme: inconsistent pixel height above and below awesomebar in windows
+Menubar is dark in Customize Mode with dark lightweight themes
+Implement matching the Firefox¡¯s Toolbar¡¯s gradient with the OS X Yosemite Toolbar gradient
+[devedition] light theme - toolbarbutton hover state is darker than active state
+[ux] Visual Design for server not found pages
+Fix typography in headers of nested panels
+[Windows 7/8] Window frame is slightly taller when using a lightweight theme
+Inconsistent urlbar icon tints
+Notification bars should show during fullscreen mode (sometimes!)
+Improve animation in Heartbeat infobar
+No HiDPI assets for Linux
+lw theme + windows 8 missing top border
+Update about:credits to the Project Chameleon style
+Unable to properly set toolbar icon on HiDPI Windows
+Land the new icons for the search box on Windows
+Improve the partial checkboxes in about:sessionrestore
+There should be no separators between the last pinned tab and the overflow arrow
+DevEdition dark theme: Browser find bar not changing background color when no matches are found
+about:welcomeback radio boxes should use the Project Chameleon styling
+[UX] Make bookmarks list more attractive
+CSS variable based lightweight themes
+Define CSS variables for Australis panel styling in a css file
+[10.10] Window background in customization mode should use translucent blur
+Incorrect browser window toolbar transparency after switching displays on OS X Yosemite
+Title bar color doesn't match color of window frame on Windows 7 with basic theme
+Link focusring in in-content prefs doesn't make much sense on OSX
+Firebug theme changes the Developer Edition theme to the light one
+Theme update for Windows 10
+[UX] Explore better options for full screen mode on Windows and Linux
+DevEdition theme doesn't look integrated on Linux
+[Windows 8] Firefox themes do not affect the background of minimize/maximize/close buttons
+Investigate removing  fill-rule and clip-rule attributes from theme SVGs
+Switch to SVG for reload stop go icons
+Bad accessibility/usability in network error pages
+Tab separators should use hidpi graphics on Windows
+[UX] Better styling for alert() and prompt()
+Clean up/organize icon width/height properties for HiDPI assets
+[Theme] Dark DevTheme on Win7 still has a transparent border at the bottom of toolbar
+Add HiDPI notification icons for Windows and Linux
+Add a system volume widget to the toolbar when the browser is in fullscreen mode
+Add a battery widget to the toolbar that is visible when the browser is in fullscreen
+Blank Pocket panels while mouse over Featured Themes via Add-ons Manager -> Get Add-ons tab [linux]
+[Theme] (suggestion) Add #TabsToolbar{-moz-appearance:none} for FreeBSD Firefox versions.
+Devedition dark theme on win8+ uses inverted new tab / tab list icons irrespective of whether accent color is bright or dark
+[Windows] Both buttons from the plug-in doorhanger can be displayed as selected at the same time

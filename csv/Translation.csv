@@ -1,0 +1,39 @@
+×Ö¶Î1_ÎÄ±¾
+browser.translation.ui.show should be available as a button in the translation toolbar
+Implement translation infobar
+Fade translation/original text when replacing it
+Provide Web authors a way to disable the translation bar entirely or partially
+"Detect available translations using <link rel=""alternate"" hreflang=""x""> instead of showing machine translation"
+Implement arrow pointing from the translation info bar to the URL bar icon
+Language not detected if the content is in subframes
+Infobar is not displayed as long as the throbber is still present in the tab
+Breakdown - Fade translation/original text when replacing it
+Split TranslationItem in chunks if necessary
+Optimize display timing of translation infobar and icon
+make the native CLD work well enough to compare memory use in realistic scenarios
+Improve translation tests
+Investigate if tweaking the asm.js heap size can actually save some of the memory used by cld-worker.js
+Tests for the translation engine
+Strange behavior after wrapping elements into a dropdown box
+[hidpi] translation provider image is cut on the bottom
+Implement design changes to translation provider attribution in options menu
+Implement design changes to translation provider attribution in preferences
+Dropdown elements don`t always stick back to infobar on a touch device
+translation bar will block other tips
+[Translation Experiment] container string and telemetry toolbar not translated for vi
+Submit buttons and input placeholders aren't translated
+"No ""charactersTranslatedCount"" found in Mozrtrap testcase 14014 for the ""Test the translation infobar in Nightly"""
+"""This page has been translated from"" message does not behave consistently"
+"[Translation][i18n] label=""&translateWebPages.label;."" have an unnecessary point"
+translation exceptions dialog has duplicate ids
+"The translation ""notification"" anchor should focus its infobar when used"
+Intermittent browser/components/translation/test/browser_translation_infobar.js | timeout waiting for the info bar to reappear -
+Intermittent browser/components/translation/test/browser_translation_yandex.js | A promise chain failed to handle a rejection: can't access dead object
+Intermittent browser_translation_fhr.js | 1 == 2 - JS frame :: .../browser_translation_fhr.js :: MetricsChecker.checkAdditions< :: line 62
+Intermittent browser_translation_exceptions.js | application timed out after 330 seconds with no output
+Intermittent browser_translation_infobar.js | application timed out after 330 seconds with no output
+Intermittent e10s browser_translation_telemetry.js | This test exceeded the timeout threshold. It should be rewritten or split up.
+Intermittent e10s browser_translation_yandex.js | application timed out after 330 seconds with no output
+"Intermittent browser/components/translation/test/browser_translation_telemetry.js | This test exceeded the timeout threshold. It should be rewritten or split up. If that's not possible, use requestLongerTimeout(N), but only as a last resort. -"
+Implement translation infobar tweaks to allow for better display in smaller browser windows
+Intermittent browser/components/translation/test/browser_translation_exceptions.js | Test timed out -

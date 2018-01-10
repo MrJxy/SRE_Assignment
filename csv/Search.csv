@@ -1,0 +1,438 @@
+×Ö¶Î1_ÎÄ±¾
+fast search toolbar dropdown results widget floats in midair outside of firefox as i type.
+site-specific dynamic search plugin and change of method of adding auto-discovered search plugins
+quick search box does not show complex text descenders of fonts
+Replacing a search engine/tool/plugin not user friendly
+search.json doesn't handle boolean values consistently
+Search toolbar does not produce any results when I select 'enter' or the magnifying glass icon
+can't weight the search engine addons by pref
+Restore Defaults button in Manage Search Engine UI should be Press-able after adding/removing search engine(s)
+"Toolbar Search Field is not removable, reappears upon FF restart"
+"Text in search box is automatically selected while writing ""search keyword"""
+search engines settings: by default search entries language settings are lost
+search does open when you type and when you pull it up from drop box it does not come up
+Function request: export/import search engines to a file including their order and keyword
+search websites with <tab>
+Cannot return to previous location after failed Find
+Google https search functionality regression: no search term highlighting in cached view
+Allow using keyword-searching in context menu for selected text
+[meta] Catch up to Chrome for web search integration
+Revert FF 34 to remember last used search engine like before
+"After mouse click to search bar, Firefox launches Internet traffic without any user input"
+"Non-standard percent-encoding in URLs, produced by the ""Add a Keyword for this Search..."" context menu button"
+Firefox en-GB - Google Search using .com not .co.uk
+Search results are from google.com instead of google.com.au when using Firefox from Melbourne
+"""Search with current engine"" should have a different background for hover and hover:active"
+"Improve searching with keywords in address bar (""Quick Searching"")"
+Can't add custom search plugin using the new interface
+Can't distinguish similar search plugins
+Let users group search engines
+Instant Search does not search for keyword entered after some minutes
+"CTRL+G finds text hidden in a drop down menu, but doesn't help the user to know which menu"
+Large search suggestions can hang or crash browser
+Firefox keeps forgetting keywords for searches
+Long pause/freeze/hangs when entering query into search box
+[Windows 10] Discovered a Possible Cortana Forced-Edge Workaround
+"Broken search engine options, no matter which one you choose it defaults and uses Bing."
+Allow customized search engines to be set as default
+Search in new tab only if current tab is not new tab page
+Linkedin SearchEngine doesnt work!
+Add button to clear search bar
+"[Suggestion] Move search engine management from the ""Add-on"" menu."
+Change the way search engines are added
+SEARCH BOX detailed behavior a bit illogical
+Pre-installed search engines can't be installed again after removal
+Searching with StartPage custom search results in being brought to main page instead of actually searching
+Replacing or changing search keyword URLs does not work
+Bookmark with s placeholder and One-Click Search Engine should be interlinked or joined
+Links not opening new window or going to new window
+Search Bar has two magnifier icon images ( Manjaro Linux Distro)
+"""Restore your search settings"" when I enter a web search"
+no action when using the toolbar search with google or bing all settings are the same problems came about from latest series of updates
+Redirection in blogfind manifest is not seen
+Default Search Engine configured from a web extension not migrated to 57.0.x
+Text in search field not display properly after fresh install.
+window.external.AddSearchProvider loop DoS
+Search bar is ignoring language listed in opensearch definition
+"AddSearchProvider() should accept data: URL for icons, or at least have a better error message"
+[privacy] URL bar search suggestions: UI fails to warn users about severe privacy implications
+Add a preference to open the tab with search bar results in the background
+"OpenSearch does not support XHTML application/xhtml+xml ""Url"" element"
+Searching from the new tab page adds unwanted search terms
+Whole text in url/search bar selection while changing keyboard layout
+Improve search engine management/default handling to match reality
+User should be warned when search preferences are changed by an add-on
+Remove list.txt support from search service
+Move defaultenginename pref setting into list.json
+Allow MozParam in search to be set via registry versus pref
+Installing an en-US lang pack on an en-US Firefox produces invalid codes
+Geolocation search pref (browser.search.geoSpecificDefaults) should not live in firefox-l10n.js
+Abstract autocomplete storage/retrieval strategy into a search-internal API using storage
+error_duplicate_engine_msg is confusing when the search engine is a hidden default engine
+nsSearchSuggestions.js improperly handles POST method suggestion URLs
+AddSearchProvider() should support data: urls
+"Implement update retries, backoffs and fuzzing"
+Support one-time updates
+"When browser.search.openintab == true, and you click the search magnifier instead of enter, it does not open in a new tab"
+search plugins shipped by extensions keep being re-added on each firefox update although hidden before
+misleading tooltips in search field context menu
+Replace search.json with startup cache
+search service should accept non-16x16px images if they're the only ones available
+Dragging highlighted text in the Search Field erases the un-highlighted text.
+[ubuntu] updates overwrite/erases defined keywords for default search engines
+search suggestion drop-down disappears at inconvenient times
+favicon fallback for addSearchEngine/AddSearchProvider shouldn't cause installation failures
+[Linux] Some search engines' suggestions don't work in Firefox search field
+Search service init is 1% of startup
+Add preference to allow selecting all text in the search bar with a single click
+Cannot drag search plugins into Firefox to install.
+Cmd-K when search field is hidden should focus URL field instead
+don't notify about added engines until we're done adding them
+Search Engine list should show the description of the engine
+Determine colors for each search engine
+"Make search choices ""spring back"""
+"browser_bug422590.js, browser_bug599325.js and browser_customize.js cause nsIObserverService.removeObserver failure in search.xml"
+Hover and mouse-scroll search engine's favicon to change it
+Google search field: recent searches.
+Make search engines more discoverable
+Search service should use async XHR instead of nsIDOMParser::parseFromStream
+Figure out how much people actually use Google Suggest results from the search box
+search bar show drag feedback caret only when drag enters a second time
+Investigate a manner of resetting search engines for safe mode without having to load the search service
+"Exception... ""Can't find engine in store!"" in tests browser_483086.js, browser_addEngine.js"
+"Quick access to ""Google search by image"" is needed"
+"Redirect about:home searches for ""facebook.com"" (etc) to facebook.com website, not Google search"
+"Pick the optimal search icon for opensearch, not just 16x16"
+Search with keyword does not work from the search bar
+Bidi issue in placeholder text in Firefox quick searchbox
+"Annoying ""This search engine isn't supported by Nightly and can't be installed."" alert window"
+search stops working randomly
+engines whose URLs specify a template that includes a query string in addition to <Param>s fail to properly construct the submission URI
+search service shouldn't be responsible for prompting for engine installation failures
+Focusing the search bar leaks an nsDocShell
+New windows are painted with a default search provider icon/text and then repainted with the current engine
+Search will not use local file as search engine - only http and https seem tolerated
+"DirectoryIterator used in nsSearchService.js causes ""A promise chain failed to handle a rejection."" failures"
+'Type to search' isn't remembered when pressing ctrl-F or F3
+Do not allow external software to modify the default search engine
+"Non-default search engines lost after upgrading to Firefox 27 when using ""Add to Search Bar"" extension"
+in-product search diversion remediation
+"Out-of-the box, Firefox search should offer Marketplace and Addons"
+Investigate converting about:home/about:newtab search suggestions to use the usual search autocomplete back-end
+Tests in toolkit/components/search should be independent from firefox so we can run those tests properly from comm-central.
+Icon to add search engine looks very out of place
+Goodreads Search Engine returns blank page (UTF-8 params aren't correctly URL encoded)
+"When user adds a search provider with the same domain and icon as one in their list, group them together in the providers panel"
+Make use of DuckDuckGo meta referrers instead using redirects for search results
+Drop support for insecure search plugins (require HTTPS)
+Keyboard shortcuts for search - cumbersome
+Context menu appear below search bar pop up thingy
+Some mathematical expressions in location bar fail to provide search suggestions
+"UITelemetry counts hitting return on oneoff searches as an ""unknown"" source"
+Unable to drag&drop a thumbnail into New Tab Page Search bar
+Removed default search engine is not offered when visiting that search page
+Autocomplete drop down should be expanded upward if bottom is not enough space
+absearch not enabled in all locales
+Suggestions popup doesn't update if it's open when search engine finishes loading
+Clicking scrollbar would not scroll dropdown search history
+Issues with Location bar and Yahoo! search engine. Prefs not kept. Back button not working.
+The _isDefault implementation is fragile and not really needed
+Write a test for mouse/keyboard interaction in the search panel
+"MainProcessSingleton.js, line 30: NS_ERROR_ILLEGAL_VALUE: Must have a non-null string spec or nsIFile object (addsearchprovider should validate its input)"
+[meta] Reorganize how search data is sent from client
+ensure all search partner plugins are covered by automated testing
+create central location for search plugins/configs for desktop/Android/iOS use
+Correct the markup for the Search button in the top right-hand box
+Correct aria-owns usage between search box and one-off buttons
+Engines with https submission URLs should ignore http update URLs
+Add test coverage incrementing SEARCH_COUNT using the engine id when Extended Telemetry is off
+Content one-offs do not use the correct query when a suggestion is hovered
+[Enhancement] Searching for a http(s) url should follow it instead of using the search engine
+Searchbar shows suggestions even if I no longer interact with it (when it gains focus)
+Searchbar shows a different number of suggestions/history depending on how the suggestion popup is opened
+One blank line stays in searchbar if the last/only suggestion is deleted
+Searching for a single word string in the Firefox Awesomebar displays confusing notification (due to ISP search hijacking)
+Can't add Yahoo Search To Search box if it has been removed manually.
+Create test for adding searchengine from searchbar
+Don't show search strings from one tab in other tabs' search box
+Flicker over the search suggestions when typing in the URL bar
+"If you don't specify an icon for a search engine, default icon doesn't display in default dropdown"
+About:home / About:newtab Search Suggest Pop-up Doesn't Have a Fixed Width
+"When Search Panel is hidden by resize, the search string is reset"
+Searches for filenames with extensions are misinterpreted as addresses
+"Hovering the Search Engines from the Search Suggestions menu in about:newtab or about:home does not change the ""Search for <keyword> with:"" string"
+Search Suggestions do not re-appear after the menu is dismissed
+one-click search shortcuts are off the screen with too many awesomebar results
+Be more aggressive in retrying to set browser.search.region
+Search engines without an image show a broken image on about:home
+Yandex is no longer accessible in Ukraine
+Remove the search service synchronous initialization code paths
+"The ""Search bar"" is not focused after you drag a link into it"
+"Add a search button to ""server not found"" page."
+Set a separate search engine for private browsing
+Remove NS_APP_USER_SEARCH_DIR
+browser_aboutSearchReset.js is going to permafail when the Gecko version number is bumped to 60
+browser_checkAddonCompatibility.js is going to permafail when the Gecko version number is bumped to 60
+"Intermittent browser/modules/test/browser_UsageTelemetry.js | This test exceeded the timeout threshold. It should be rewritten or split up. If that's not possible, use requestLongerTimeout(N), but only as a last resort. -"
+[UX] Figure out a way to use search suggestions with one-click buttons
+whitespace should be stripped out of search engine names
+Australis popup menus and Location bar/Search bar suggestions have wrong position after switching to fullscreen (F11) and back OR pressing F10 to show and hide Menu bar
+Search plugins with a name that's very similar to the name of plugins we ship shouldn't get installed
+Differentiate the selected string from hovered string from search suggestion
+Searchbar broken/empty on firstrun after upgrade to 46 - Services.search.currentEngine is null and more
+Pressing Delete in search bar to delete text selected with keyboard can remove history entries instead of deleting text
+Search bar popup displays clock icons incorrectly if the search history has more than 7 candidates
+Search [telemetry]: Log invocation of bookmark from Awesome Bar
+Search [telemetry]: Log usage of one-click search buttons in Search field
+Deleted search engines from a language pack reappear after an update
+One-off searches from about:home are not counted in UITelemetry
+"[One-off searches] While a one-off has focus, pressing ENTER on a bookmark/history URL from results behaves differently than pressing ENTER on a ""Switch to tab"" URL"
+"Searchbar displays wrong search engine if I accidentally hover mouse over ""Change Search Settings"" button"
+Navigating using Left/Right keys through the one-off buttons is not possible in about:home and about:newtab
+Mouse hovering  is not gray in the search panel of the about:home and about:newtab pages
+Typing in the search box in the new tab and home pages should focus the location bar
+Unknown source for one-off search: header error when clicking on search header
+Export hybrid version of follow-on search add-on to mozilla-central
+browser.search.openintab should use blank tab
+Search service should remove extension-installed search plugins when the add-on is uninstalled/blocked/disabled
+If MozParams come from multiple sources they are all added to the search string. There should be precedent
+"When dragging text to search bar, mouse over search engine should show list of search engines, and allow dropping text onto one to search that engine"
+"clear search history option can be misleading, because it also doesn't clear history"
+"Autodetect repeated use of a search field, and ask the user if they want that engine added to the browser search box"
+no way to specify queryCharset (encoding) when using addEngineWithDetails method (nsIBrowserSearchService)
+Should nsSearchService's loadListener implement nsIAuthPrompt?
+esc does nothing in search box
+changing search engines while the autocomplete popup is visible (e.g. using Ctrl+Up/Down) doesn't clear Suggest entries
+Add OpenSearch Referrer Extension support
+"use current page's favicon rather than domain's favicon.ico for ""Add engine"" menu item"
+Automatically resolve conflicts between existing user aliases and shipped/added ones
+Consider adding aliases/keywords to default/shipped search engines
+add comment to nsBrowserSearchService.idl stating that the parameters for addParam should already be uri encoded
+Search bar does not recognize an offered search engine if added to the toolbar after a Web page loaded
+Always provide the ability to add an engine for a site
+closing the engine manager dialog after multiple changes is slow with many windows open
+dragging+hovering over the search bar should cause the list of engines to popup/open
+handle loss of search engine metadata without losing default engine ordering
+search.sqlite should be removed from user profile
+"Provide equivalent to Chrome's OpenSearch-based ""Press Tab to search ..."" completion behaviour"
+nsBrowserContentHandler should use the search service's async initialization API
+Ability to remove form history/previous searches from autocomplete/suggestion popups isn't discoverable
+Mac OS X: cmd-alt-F and cmd-K do not open a new window when no window is available
+[UX] Automatically offer custom search for websites that the user visits often
+The search bar blocks the menu panel's dismissal if a search is performed with it placed there
+Data from the Search Field is lost when entering Customize Mode
+Up/Down arrow no longer opens the Search History dropdown after selecting DEL on the first element
+Placeholder icons for open search providers only show up after reload
+Let the search engine selection work per tab
+"support the ""multiple searches in a row with default engine"" search case (for shoppers and researchers)"
+Search is performed with a suggestion text on the mouse pointer instead of inputted text if mouse moves over dropdown unintentionally
+use system location APIs for search default determination on Mac/Windows
+investigate too many SEARCH_SERVICE_COUNTRY_SUCCESS zeroes
+Better telemetry for geo ip lookup failures
+Allow using a site's search provider without installing it?
+keyword-triggered searches not tracked in FHR
+Sometimes suggestions list is not updated when the default search engine is changed using keyboard
+Middle-click on a search bar completion or search engine options doesn't open new tab in foreground like location bar and bookmark
+handle relative icon paths in open search providers
+Right-click to remove added search engines
+New search box focuses every search engine between awesome bar and web page
+Suggestions take 2s to appear after pasting into search field
+[implement] Provide access to search providers in context menu selection
+Search Box searches executed with keyboard take into account mouse position
+The Search Bar's UI should have clearer tooltips
+Overridden default search engines are placed at the end of search engine list
+"Searchbar: using ""Ctrl + scroll wheel"" to change search engine causes flickering of autocomplete popup"
+Search Panel suggestion flickers when the last search term is deleted
+Search suggestions opt-in/out UI is confusing for the user
+Magnifier glass on about:home / newtab search fields should open the search panel
+Expand Windows 10 search redirection to POST plugins
+[meta] Context Search
+"Search bar suggestions cannot be hidden by clicking dropmarker (magnifier icon), if searchbar is placed in Australis menu (¡Ô)"
+Intermittent browser_yahoo_behavior.js | application terminated with exit code -11
+right-click menu on one-click buttons is missing on about:home/about:newtab
+[User Story] Based on category of information - present info / query results separated by type
+[User Story] Ability to retrieve additional information as a separate page by catagory
+[User Story] able to perform a search from the default search engine directly from the presented information
+[User Story] Able to enable/disable the Context Search feature
+"[User Story] able to retrieve information about how Firefox categorized my query, and provide corrections if I feel they are relevant to improve the quality of the results"
+[User Story] Able to specify preferred services for some types of information over the defaults
+One click search alias save issue
+"Checklist for one click engine aren't restored when ""Restore Default Engines"" is used"
+Show dropdown indicator for selecting searchengines if mouse over search bar/box or permanently (not only for icon hovering)
+Search Aliases function only in address bar
+Popup with alternate search engines doesn't show up when I press Down key in search bar (after specific steps)
+"Intermittent test_location_error.js | xpcshell return code: 0 | run_test/< - [run_test/< : 23] [0,1,0] deepEqual [1,0,0]"
+Searchbar causes 25% CPU consumption and doesn't show suggestions after specific steps (userstory)
+Mouse-over selects from search suggestions on about:home
+Lots of duplicated Bing suggestions when typing something that looks like maths
+Can't add google to list of search engines after accidentally removing it
+It's not possible to delete text with (Ctrl+)Del if one of search suggestions was accidentally selected
+Hovering over a one-off button on about:home should show the name of the search engine
+Answer to search suggestion question should be saved in sync
+Intermittent test_geodefaults.js | should_get_geo_defaults_only_once - [should_get_geo_defaults_only_once : 59] 0 == 1
+Search Bar text undo is broken after its position was changed
+Intermittent browser/base/content/test/general/browser_keywordSearch_postData.js | Test timed out -
+[One-off searches] Change of default search engine takes effect only after closing/reopening the Awesomebar
+Clean up uses of |_selectionDetails/telemetrySearchDetails | in autocomplete
+Ctrl+K shortcut should add ? in URL bar if search bar is removed
+Search engine is added without favicon if the engine in some cases
+Add a probe for the remembered suggestions in search bar
+Add any missing search bar telemetry probes
+"Intermittent browser/components/search/test/browser_searchbar_openpopup.js | Test timed out -, and more search related failures"
+Enable handoff from new tab/ about:home in-content SAP to Awesome Bar
+[userstory] Ask user why they're switching when user changes default search
+Backspace is ignored if it's quickly followed by enter in the search box with a search suggestion selected
+Change Search Settings button is not blue/orange when selected using the UP/DOWN keys
+Awesomebar search onboarding feels slow
+One-off search buttons separators don't have the same width if DPI > 100%
+Re-enable browser_urlbar_keyed_search_reflows.js for Linux and Windows debug builds
+The One-Off search 2nd line buttons are not visible in the search bar when switching OS themes
+Czech search module Heureka cannot be hidden
+"[Ubuntu][Search bar] ""Change Search Settings"" is partially displayed if the window is on half of the screen"
+Cleanup encoding in nsSearchService
+"Remove the ""addengine-icon"" binding"
+Offer to add search module uses website favicon instead the module icon
+"When absearch doesn't specify default engine, clear stored default engine attribute from the previous absearch"
+search engine cache should be invalidated when removing engines (built-In DuckDuckGo doesn't come back after uninstall of previous DuckDuckGo)
+search box should be tab-specific (content should not persist when switching tabs)
+Search bar's text should be cleared after a search is performed
+"Textbox context menu should have ""Add to Search Bar..."""
+Clear Search Button
+Want to delete a search engine via context menu
+google's search suggest should look at accepted languages
+Send relevant search plugin loading errors to the Error Console
+Allow browser search order to be set for positions beyond 1 and 2
+"when an engine update changes the engine's name, getEngineByName will only work with the old name"
+Hovering over search engine should show URL
+"Multiple ""Add new engine"" options in search bar dropdown list if page is reloaded in the background and advertised engine name changes"
+"firefox lacks hooks to properly upgrade through packging system (Was: After upgrade in ubuntu address bar sometimes triggers ""ASSERT: *** Search: _installLocation: engine has no file!"" instead of loading URL)"
+if browser.search.openintab==true and search bar is absent; search page opens in current tab
+Use a Wikipedia search icon with no white background
+Implement search service test suite
+need to ensure that updateIntervals are not negative
+"_isDefault called during from-the-web engine installation only accidentally works, breaks stuff"
+Investigation - searchbar suggestions not chosen after highlighting and pressing ENTER
+Search Provider Top Suggestion
+UX to investigate separating search and history in the Awesomebar
+Add probes to measure whether or not highlighting the search provider in the awesomebar is yielding the desired results
+Store the search engine icons more efficiently
+Evaluate additional potential search suggestion options for Yahoo search plugin.
+"Use XMLHttpRequest's responseType = ""json"" for search suggestions"
+Hitting Enter twice in SearchBar triggers installing add-on
+Robustly re-initialize nsSearchService when locale preference changes
+"Measure how many searches, for each engine, result in a final URL that can be parsed"
+Include address bar searches in local search history
+SearchSuggestionController should move remote results that are also in form history to the local results
+Add nsIBrowserSearchService.selectEngine
+implement UI for nsIBrowserSearchService.selectEngine
+"addEngine ""dataType"" parameter documentation is potentially confusing"
+"Cannot reach the New Tab Page Search Provider button via keyboard navigation, nor select a provider from the list"
+Form history dropdown does not pop up by double click/up arrow key in search field of about:home/about:newtab
+"Update localized search plugins to use rel=""searchform"""
+Change the search purpose for current search engine and aliased search engine autocomplete results
+can't order newly added default search engines
+Add telemetry probes to measure Awesomebar search suggestions usage
+Add additional search engines for the Developer Edition (formerly Aurora)
+Search suggestions are displayed in Customize Mode when browser is in Window Mode
+hidden open search providers should be offered in the list providers that can be added
+add test coverage for one-off buttons
+The new search popup shows up for a short moment and then hides
+Search suggestions dropdown is misplaced if changing device orientation
+Make it easier to do image search
+Typing a search term in the search bar and then resizing the browser window to a minimum results in an error thrown by nsSearchSuggestions.js:136
+A search engine that was set as default removed and then restored is used at searches from url bar
+Remove useless focus calls from search.xml now that the search popup doesn't disappear and reappear when searching in a separate tab
+[Windows] Search dropdown only fits 2 search engines per row at minimum width
+Hover highlight of suggestions should disappear when moving the mouse out of the suggestions area
+Add tests for the default search engine header added to the search suggestions popup
+Add tests for the opensearch discovery support in the new search bar
+Changing default search-engine with Ctrl+mousewheel closes and reopens search-panel
+closing the search panel with (shift+)<tab> doesn't revert the searchbox's text field value to what the user typed
+Overridden search engine order is not as expected
+The search panel appears above the bookmarks panel
+search dropdown appears and covers context menu
+[Implement] Navigation and Hover spec for search providers component
+"No ""engine-default"" is notified when removing a default engine"
+Search panel is not updated after deleting history items
+Left button not working in Search Bar
+Searchbar should be able to get the query string from search engine.
+BrowserUtils.jsm throws an error for trying to add search keywords to the internal search fields
+Firefox could not install the search plugin from ... because an engine with the same name already exists.
+Context menu and suggestions panel both appear when right clicking an unfocused searchbar above or below the text field
+Search bar flickers (hides and reopens) when I add new search engines
+redesign the distribution/ feature to support signing or search plugins with low startup impact
+"""One off buttons"" list doesn't update when I press Ctrl+Up/Down in Searchbar"
+There's no way to determine whether I should press Ctrl+Up or Ctrl+Down to set the desired search engine as default one
+"One-click search button right-click menu: ""search in new tab"" logic should be inverted if browser.search.openintab is true"
+[User Story] making users aware of the Context Search feature
+[User Story] Able to retrieve catagorized information relevant to the selected terms
+Awesome bar with search suggestions enabled flickers with some search engines
+Make it easy to hop to a search engine by choosing its first letter
+"On about:home, shift+backspace on a search suggestion from history should remove it from the history"
+URL Bar loses its focus in about:home during search process
+Intermittent e10s browser_ContentSearch.js | Checking message - Structures begin differing at:
+Intermittent browser_google_codes.js | Test timed out
+Allow the disabling of search history separately from other history
+2.15ms uninterruptible reflow at _rebuild@chrome://browser/content/search/search.xml:1540:15
+xpcshell tests in toolkit/component/search should use their own search engine for test
+Allow bookmark keyword searches from the search bar / integrate toolbar and bookmark keyword searches
+make Search Toolbar history easier to discover
+Allow Disabling the Installation of Search Plugins
+make it possible to rename search engine (support search plugin renaming)
+can't overwrite default/shipped search plugins/engines
+OpenSearch support doesn't honour 'pageOffset' and 'indexOffset' attributes of description
+Search <Engine> for <String> context menu option doesn't support Ctrl/Shift/Middle clicks
+Search current site with OpenSearch
+"Support ""result URLs"" for search suggestion results (OpenSearch)"
+add pref to control search suggestion timeout
+nsSearchService.restoreDefaultEngines should also restore the default order
+Need searchservice.reload()
+<ext-xpi-root>/searchplugins/ doesn't work with packed extensions
+[Theme] Search Suggestions
+clearing search bar form history doesn't provide any visible feedback
+"Search suggestion box is moved down when ""Choose What I Share"" infobar opens"
+Add test for XML serialization of extensionIDs that help track search engines added by add-ons
+"SearchSuggestionController.jsm's NS_ASSERT(this._searchString !== null, ...) can fail, resulting in ""'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions"""
+User testing for experimental Firefox Awesomebar search suggestions build
+No neterror page or any feedback displayed if a search request times out
+Consolidate search query telemetry in Toolkit
+Document the SEARCH_COUNTS telemetry probe
+Search bar suggestions don't collapse by DoubleClicking on dropmarker (magnifier icon)
+[meta] Consistency across search points in browser
+Change search settings inaccessible under search engine list load
+[UX] implement vertical scrolling of search plugins icons
+Focusing the searchbar shouldn't refetch suggestions
+Searchbar placed in Australis menu shows popup with autocomplete suggestions even when menu is closed
+[intermittent] Flicker in Default Search Engine drop-down while deleting engines via about:preferences#search
+Show default search engine in search field again
+Denial of service based on AddSearchProvider() and XML Entity billion laughs attack
+"[One off searches] Right clicking the settings gear button from Awesomebar opens a context menu with ""Search in new tab"" and ""Set as default search engine"" options"
+[meta] Add more telemetry probes for user interactions with the search and location bars
+[meta] Follow-on Search Measurement system add-on
+Searchbar context menu not disappear on subsequent paste
+Intermittent toolkit/components/search/tests/xpcshell/test_require_engines_in_cache.js | xpcshell return code: 0
+Provide a two-click (faster) way to edit the default search engine
+"Intermittent browser/components/search/test/browser_oneOffHeader.js | Header has the correct index selected when a search engine has been selected - Got 1, expected 2"
+Remove technical debt
+Clarify that browser_oneOffHeader.js fails if screen resolution is small
+Missing max width for search suggestions on about:home and about:newtab
+Convert utility functions in browser_contentSearchUI.js to generators.
+Show UI to add a search engine on websites the user repeatedly searches on
+Hide Autosuggest Search Engine behind a pref
+Half of the icons are hidden in the search results
+Add some tests for the follow-on search add-on in mozilla-central
+mochitest --repeat breaks ContentSearch
+Engine metadata should be removed when a profile search plugin is removed
+Disable GeoIP/RegionDefault Search lookup when 'privacy.resistFingerprinting' is true
+Use `keyword` purpose when using the autocomplete popup for the default search engine
+De-duplicate any entries from the autocomplete popup that differ only by purpose parameter for the default search engine
+Support middle-click paste and go behaviour on search icon
+Add system purpose to zh-TW Yahoo XML files.
+"OpenSearch ""language"" and MozSearch moz:language parameters shouldn't use UI locale"
+Draft test plan for the various search features
+[UX] No longer possible to select search engine for the next search before entering search term
+"Intermittent test_geodefaults.js | should_get_geo_defaults_only_once - [should_get_geo_defaults_only_once : 104] ""undefined"" == ""number"""
+Intermittent browser_contentSearchUI.js | Test timed out
+Ability to add custom search engines by URL (non open-search and non-amo engines)
+Location bar is not updated when deleting search suggestion entries
+suggest common domains in awesome bar

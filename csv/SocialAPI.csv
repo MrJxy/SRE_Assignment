@@ -1,0 +1,76 @@
+×Ö¶Î1
+Bookmark all tabs
+Feature Request: Keyboard shortcut for share button.
+Plus button in Share this page not working
+Social API service installation not working
+"Add support for Google Keep in ""Share this page"""
+Twitter ¡®characters remaining¡¯ count wrong for http: links
+Sharing a page : the window showing all the sharing icons is cut
+Firefox Share window disappears
+Social API - text parameter for shareURL doesn't work
+Add QR code integration into Firefox Share
+Clicking on 'view more' in the share page causes Firefox to hang
+Security documentation for Social Integration providers
+social auto-resize mutation observer living too long?
+NoScript does not interact well with the SocialAPI
+inconsistent state between two windows with social enabled
+allow opening link by a provider to reuse and activate a tab.
+hidpi support for share button/ambient notifications/chat icons
+a way to notify the social provider of changes from the main window
+"Registering an nsIContentPolicy implementation causes error ""this.docShell is null"" in the ""browser.xml"" binding"
+Can't open links using middle click
+No mechanism for zooming/changing font size in Social sidebar/popups
+move more social css into shared css
+should persist non-data url images
+Popup notifications are blocking a small area of the buttons
+"privacy comments for ""more info"" page"
+Learn More link in Addons Manager :: Services should display SUMO article
+error handler prevents appcache offline support
+handle recover from crash error page
+[meta] e10s support for Social
+email link vs. share
+canonical url may not be the best url to use for share
+running mochitest browser-chrome with a single directory browser/base/content/test/social yields timeouts
+[FR] manage all browser notifications
+ui indication of changes after activation of new providers
+update text in activation panel
+update learn more page
+Social tests don't wait for the popup to close
+refactor share button code to use CUI widget
+Don't re-prompt to enable services if services are enabled
+panel resizing seems to stop working after opening several windows
+[e10s] share/marks target element sharing fails
+[e10s] make social iframes remote
+improve the activation panel
+"The [+] icon in the ""Share this page"" bubble is confusing"
+Social button should still allow adding services while on a blank tab
+Move the socialapi-directory code on github into the mozilla group
+window.opener not set when activating a provider from the share panel
+Social's error page does not work in Find more Share services
+"Share Panel ""Pick a service"" screen needs to be redesigned to fit new panel format"
+add url to social error page
+Clean up global scope pollution from browser-social.js
+"""Share This Page"" list is mostly empty and oddly arranged"
+"The icons of ""share this page"" are not showing anymore"
+'Share this page' pop-up is dismissed if clicked on blank area with conversation window detached
+Sharing a link should display some kind of indicator once the link has been successfully delivered
+Social icons/buttons (partially) hidden
+"""Share This Page"" constantly asks to be configured"
+share this link / image does not work as expected on google search results
+Allow ESCAPE to close autocomplete
+panel state not retained when closed
+Share menuitems in context menus do not work in private mode if Share button is placed in menu (¡Ô)
+"""Share this page"" button's dropdown panel does not dismiss if the button is clicked a second time"
+"Browser hang when click ""View more"" link in Share This Page panel, with Adblock Plus installed"
+Clicking share button on http://searchfox.org/mozilla-central/source/layout/painting/nsDisplayList.cpp#5937 loops forever
+Move panel show/ hide toggle to the shared PanelFrame module
+Intermittent social/browser_blocklist.js | blocklist dialog was closed | Found an unexpected Addons:Blocklist at the end of test run
+Intermittent browser_aboutHome_activation.js | Test timed out | Found a tab
+"Intermittent browser_aboutHome_activation.js | waitForProviderLoad: provider profile was not set - undefined assertion name - Got about:blank, expected https://example.com/browser/browser/base/content/test/social/social_postActivation.html"
+"Intermittent browser_share.js | uncaught exception - Error: operation not possible on dead CPOW at | Test timed out | Found a tab | SocialUI is not enabled - Got true, expected false"
+Intermittent test_interface.py TestInterfaceUnits.test_units | UnknownException: UnknownException: Error loading page
+"Intermittent e10s social/browser_addons.js | uncaught exception - Error: operation not possible on dead CPOW at :0,  | Test timed out, etc."
+Intermittent e10s browser_social_activation.js | Test timed out
+Update socialapi tests to use PopupNotifications.getNotification()
+"""share this page"" option in FF 47 and 48 stopped working with Yahoo Mail service"
+Intermittent browser_blocklist.js | uncaught exception - Error: operation not possible on dead CPOW at :0

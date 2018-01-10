@@ -1,0 +1,501 @@
+×Ö¶Î1
+Certain gtk themes cause pages [including the bugzilla page for mozilla] to load incorrectly on amd64 systems.
+clearing cache removes symbolic link to a custom directory
+Autoscroll non-functional with two-button mouse
+Multilingual / multi-language Firefox package for MacOS X
+remeber login name (not only password)
+"When you page down, an arrow should point to the place you should resume reading"
+Sidebar to navigate site map
+Reload pages from a script
+warn users if they enter characters into a form that do not correspond to the form's declared characterset
+"""Already running"" error dialog should tell user what URL was requested (if any)"
+Image full-size toggle should fix the point under the mouse cursor
+Could someone implement support for an optional custom caret (insertion point indicator)?
+Config option to disable Page scrolling when scrolling an inner component on the page
+need better way for themes to style empty about:blank page
+Saving web pages with illegal/unwanted characters in the file name (replace/escape them) on Linux
+FF .NET browser control?
+The graphical output generator should support a BiDi-output paramer in order to facilitate BiDi reading
+Sidebar Request for Option to open sidebar links in sidebar
+"This and many more web pages can pop up while the pop-up blocker is on.  The pop-up's that get through are not on the ""allow list""."
+Googlemail will not accept formatted text from tagkeys
+No print feedback any more
+Double download for saving files
+Tooltips won't disappear / appear outside of the window
+"Selecting multiple items breaks when accessibility setting ""sticky keys"" is activated"
+Ability to mark content within a website for reference
+"""open file"" dialog shows .exe, .dll files etc"
+Save all tabs for offline use
+Low quality back and forward buttons
+"error pages should include user-recognizable element (img, text, color)"
+Weblinks appear as %-escaped code sequences instead of punycode in saved pages
+News & web clip  'drop downs' need to stay put when selecting multiple items
+No resize for window
+Move viewgroup to the toolkit.
+JSMouseEvent needs to expose tablet pressure
+mailto: links should open in Gmail if you are already logged into Gmail
+Save user inputs on Save Page As
+Cannot select text by dragging the mouse on it
+XML Tree view +/- cannot be clicked below
+"On simultaneous connections, authenticate only once"
+Show (quick) find bar inside sidebar or content where appropriate
+Need More Obvious Visual Notification When Redirected
+[feature] [XUL] Create a flag for XUL iframe and browser elements to indicate desired chrome features
+Remembering global zoom level when browser.zoom.siteSpecific set to false.
+"Add in a Business Headline feed in the empty section to the right of the ""Help"" menu."
+object titles do not display after a scroll if the scroll stops with the object under the mouse pointer
+Add an option to render page immediately without waiting CSS to load
+use gdk_window_beep() instead of gdk_beep()
+Adding allow pop-up from website (any website) ¡®this time only¡¯ function
+Side bar should have a ' slide out /in' button
+when switching between tabs and typing something into the find toolbar firefox freezes for a long time
+Implement Font finder service
+moz-border-radius == 100% CPU load when scrolling
+Menu items in Lotus Notes Domino disappear with Firefox 3
+Customized implementation of a couple of Mozilla functions
+Using Ctrl-+ to enlarge display fails to add scroll bars when content exceeds window size
+Drag and Drop of text or link should put it in address bar of a new tab (super DnD)
+3-rd party applications have no unified way of accessing Firefox cookies
+Add 'Permissions' button next to 'More Information' in security box to quickly open permissions for a page (site preferences)
+"Hebrew diacritics (""nikud"") not rendered properly in FF3 (non-spacing chars are spaced)"
+[RFE] Provide information with profile request about who is asking
+onbeforeunload is invoked twice when POSTDATA expiration confirm dialog is shown
+Ability to show text paragraphs in two columns
+Add functionality to remove cached HTTP Authentication credentials
+Dragging images in firefox3 doesn't let you see where you're dropping
+window.blur() grants focus to the wrong window
+Middle-clicking on scrollbar should start autoscroll even when autoscroll is disabled for middle-clicking elsewhere
+certificate window: add search field and customized column
+desktop background images show aliasing artifacts
+Ability to see source of tab (The Final Back Button)
+form submission of a form with target and iframe name set by script opens new tab
+Request to Add shiftLeft property compatibility
+Copied text will paste as plain text in MS word and excel 2003
+Linux: incorrect settings in Page Setup US Letter HP LJ
+Opening a new window on a second monitor results in a window height of the primary monitor
+Location based browser profiles
+Tabs reduce to favicon when too many tabs are open to fit on the screen
+Auto verify: was page saved correctly or was not
+[RFE] Option to auto-select alternate stylesheets for a site in a session
+"Add a drop-down list to the ""Save file"" value"
+Text copied from Firefox nightlies does not paste correctly in Gyazmail
+Dragging text from a field and dropping it somewhere in page (not field) deletes it.
+Text typed in text box can be lost if server throws it away
+RFE: Allow right-click on navigation arrows to open their target in new window.
+"autoscroll (middle click) - when enabled, using keyboard up and down should modify speed of autoscroll not try to move page up or down"
+Unicode characters are rendered as much higher as they are
+Moving tab on page with HTTP Authentication before loading disables button clicking
+Access stylesheet in stylesheet collection by id
+useless horizontal scroll bar
+Reloading all tabs with errors
+Capability to create cookie rules from already accepted cookies
+Export/import of cookie acceptance rules
+"Tools->""clear recent history"" dialog no longer initialized from from its counterpart in the options"
+C++ embedding API request to easily stop and restart a plugin
+"""Try Again"" works only once on POST page that failed to load"
+"BUS error, unaligned access in PropertyProvider::GetSpacingInternal on ia64/hpux"
+Printing of page with marked text should print the marked text only by default
+"Copy an image, paste to create a new file."
+Three Finger middle click.
+Since FF3 Window.console cannot be overriden in javascript
+"Launching Firefox twice quickly reproducibly gives ""Firefox is already running"" error"
+currently loaded (active) page is not changed when the request is sent; only when response comes back
+Please add option to clear text fields in webpages
+Add inteligence to Firefox to detect urls in text format (without link)
+"Compacting Right click menu & ""Accelerators"""
+A kiosk mode in firefox would be much appreciated.
+Additional annoying Javascript to block
+About:cache needs a way to download cached data directly from the cache
+Visibly indicate whether a page is valid HTML/XHTML
+"add ""copy page address"" while right-clicking on a page"
+"add ""include in a tab"" while right-clicking on a popup"
+"Enhancement to remove ""<"" and "">"" from URL entries"
+Remembered passwords no longer being auto-filled
+"When working with multiple FireFox profiles, no indication to user as to which windows are with which profile"
+"Window ID in request header wanted, to solve problem of session merging"
+Most recent upgrade to Firefox seems to kill the Javascript function __dopostback
+"Feature request: write ""english"" in address bar but ""cyrillic"" in web page"
+Add option to close children windows when closing firefox
+idea: upgrade the highlight feature
+Add support for udev; get rid of HAL
+section popup/notifier
+toolbar bookmarks don't appear on bookmarks toolbar (mac 10.5.7)
+Drag&drop links into file manager to download files
+Feature: Addons process manager
+Opening a new _emtpy_ window (i.e. about:blank) takes a really noticeable time
+Need more reporting/info in cross-domain request scenarios
+Ask whether to open browser when automatically started by other software
+Need APIs for CPU and Memory Usage
+"Can't stop scrolling when ""Confirm Setting Cookie"" dialog appears while using scrollbar"
+Broken Vowelled-Arabic Text with Mac OS 10.6 Snow Leopard
+Accesskey combo (Alt + Shift) works easily only for those who are right-handed
+Clicking on image doesnt de-select text selection
+Cookie confirmation dialog should allow specifying where the wildcard should go in the cookie's domain
+Enhancement Clipboard Security GUI
+Incomplete (truncated) and other partially corrupt recoverable images are not logged or indicated.
+Not starting (silently) when data directory is a bad symlink
+Add visible feedback (on the statusbar?) when caret browsing is on
+Loading big images changing current position of
+"Browsing to a page that resized the window, then hitting 'back' to a non-resizing window causes large grey areas around the page."
+proxys whose password is remembered should be used automatically
+Named windows lose their name upon Firefox restart
+Remember latest upload folder location per site
+Middle click on on jump list item should open in new tab
+Mouse out event cancels keyboard button press
+Auto-updating extensions: Install found updates automatically
+account chooser and extension update should not block the whole UI
+deny prefetches at site owners' option: use.txt and page markup
+Firefox does not display theme icons under openbox windows manager
+First party cookie headers not sent with range when resuming downloads unless 'Accept Third Party Cookies' is enabled
+"Toolbar disabled, no way to exit full screen (mac only)"
+in-page search with Google-like features
+browser.display.use_document_colors=false makes some non-background images disappear from page
+form field and page loading out of sync?
+"bfcache caches pages and form data and javascript state, and results in broken pages"
+"some personas make the tabs, address bar and search invisible and some time little transparent"
+Safe mode should prompt user for confirmation before to make changes and restart
+Selection box will not work after using the sort function
+comment se d¨¦barrasser ou bloquer un site g¨ºnant comme http://lo.st/
+Firefox should be able to swap tab content
+Cannot immediately navigate to top or bottom of page using scroll region on trackpad
+To be able to change directly wallpaper on KDE4
+Multiple Form tags bug while in HTTPS mode will Throw an warning if First form tag is not and HTTP and other form tag being submitted is HTTPS
+Buttons unclickable with OS File window open and a JS alert in background
+MAC Dock should contain 'recently closed windows' menu
+make middle and right mouse button available for ussge by JavaScript
+Browser freezes while uploading video on myspace.com
+Opening URl with application/json causes many tabs to open
+Entering search key on History re-orders the listings
+associate tag with Firefox panels to enable to retrieve them more easily
+Back button menu history limit 5 per domain
+"Request - options to use ""Clear Recent History"" (cache/cookies/etc) via command-line arguments a common entry point with GUI"
+Can't see the dropdown (combobox) menu on 2nd item when booking a movie
+Default right click menu appears over the custom menu uTorrent webUI (javascript application) has. Keyboard shortcuts don't work also.
+focus problem invoking firefox with createprocess
+Firefox doesn't maximize when URL is clicked in another application
+Adobe Reader Plugin won't disable manually to allow alternate reader plugin unless Adobe reader is uninstalled
+Missing possibility to observe changes of plugin disabled/enabled state.
+Firefox takes over my computer; can't restart; popup windows everywhere I move cursor
+Downloading or viewing .doc files results in an error.
+Firefox 3.6 and Java
+Notification windows appear in the wrong place using two TFTs in a Twin-View-configuration
+Pressing Escape doesn¡¯t cancel downloads of background images
+Hot key shift+command+f disappears from main menu after exiting full screen mode.
+Wrong result of screen.availWidth
+Suggestion: Enable User To Allow Discrete Cross-Site-Scripting
+Right-click in AOL Webmail Inbox Overlays Firefox Rt-Click Menu on top of AOL Rt-Click Menu
+"Possible javascript rendering and windowing problem,"
+"Click Scroll does not work in elements, only on whole page or frame"
+UML back-/forthbutton and history feature request
+Render mode for text MIME-types
+one click to copy the whole source content of a rendered XML document
+Feature Request: Editing/Deleting URL suggestions by right-click/ctrl-click etc
+Feature request:additional search engines/bookmarks next to toolbar menu
+"pastes carriage-return into Word rather than ? mark, leaving permanent space after each paragraph"
+Unable to change default program for 7z files
+Blinking vertical black strip on certain sites on Ubuntu Linux after version 3.5.5
+"using editable IFRAME, cannot edit a table within the IFRAME"
+Need network.dns.ipv6OnlyDomains for some sites
+can NOT print contents of some open windows to printers or to .pdf files
+Authentication error on URL passed authentication in img tag with multiple images.
+Right click paste text into into aol e-mail body bug
+"Small blank ""description"" box appears under pointer when mouse is inactive for a fraction of a second."
+AD/NTLM Authentication not working
+Constant 'Can't reach (google) server'
+"When called from link in email or other app, Firefox launches but does not open the URL"
+"embedded mp3 objects stop playing; works in Safari, Chrome, Opera; used to work in FF"
+"[Mac OS 10.5.8] Open ""new Window"" has a wrong behaviour, when the ""new window"" reaches the right border of the screen"
+File Download fails when running on Windows 7 within Parallels VM
+An IFRAME on top of an Adobe Flash canvas won't respond to keyboard entry when focus is applied with a mouse click
+"Web page error not trapped and when FF closed, FF process stays open"
+Request: 5 favorite download folders.
+Always Display Download percentage in header or footer
+Download unable to verify the integrity of the incremental update
+A dynamically loaded .pdf that is embedded with <embed> tag messes keyboard navigation
+Get to memorize the latest way the browse window was left.
+Save File As request
+iFrames are not being handled correctly
+identical quick launch icons while the related sites are different
+go back to previous page differs with BACKSPACE and BACK button
+save and restore contents of textareas prior to sending
+"Firefox won't close properly when I click on the ""x"" in the upper right corner"
+problems copy/paste arabic text from google translate in Firefox but works in IE
+'Stop loading'-button (X-Button) doesn't stop every action of some websites
+"javascript-restricted select only restricted in UI, not internally"
+File upload dialog firing click event behind itself
+keyboard events dont get passed to qt4 applications embedded in firefox using mozplugger
+tabs not navigable from taskbar like internet explorer
+"Viewing a Youtube video in fullscreen, then clicking another window causes FF's form elements to freeze."
+"Move ""Recently Closed Tabs"" from menu into sidebar: ""View"" ""By Last Viewed"""
+Status Bar doesn't refresh when flash movie is loaded
+"click link causes infinite tab openings w/ no apparent end - able to shut down w/ ""quit"" command"
+plug in service fails to load flash player 10.0.45
+"Tries to load images within JSON (improperly encoded), causing unnecessary 404s"
+Mouse jumps to the left when over flash - Firefox 3.6.4/Lorentz beta
+Does not use .lpoptions if silent printing is enabled
+The Languages submenu in the context menu of textareas and friends is sorted at random
+Good to have a secure mode
+stop loading page does not work proper
+Ubuntu Firefox.  Can't send attachments to Emails using NTLWorld.com (now part of virgin)
+A block with a scrollbar that is continually increased in size that is at the bottom of it's scrollable text will cause the whole page to flicker
+The site opens but does not display the start icon ( a coffee cup). Safari does fine.
+scrolling with trackpad down a page with apple's fancy javascript scroll bars breaks scroll behavior
+Local language (Malayalam) not getting compatible with my system
+Fen¨ºtre invisible sur Macintosh
+browser.link.open_newwindow is ignored.
+"nsIContentPolicy blocking external link causes firefox to open new blank tab, and new blank window"
+Removing Yahoo in Search engines won't stay
+FF right-click menu does not appear
+flash sound stops working until a restart of the browser
+"you can't copy the file name in the ""You have chosen to open"" download dialog"
+horizontal scrolling with the mouse even if disabled
+Win7 jump lists items command to other process Firefox's window
+ASP.NET MVC 2 - Html.RenderPartial retaining input focus
+Dead keys not working on WYSIWYG editors
+Flash videos stutter
+Can't establish connection dialog problem.
+Not able to use Rich Text Editor when composing e-mails
+"many HTML character entities appear as ""black boxes"""
+ContentEditable - Drag and drop on SPAN element creates new ContentEditable element
+"Inconsistent zoom behavior with main window and those opened with ""Open link in new window"" or shift+click depending on cursor position"
+"Provide UI hints for quick Linux ways to clear UI fields (Internet Search, URL)"
+"back button doesn't function from news articles ""back"""
+firefox stays connected to yahoo forever
+context menu handler run after alert from blur handler
+Easy to accidentally delete profile
+"After exit, firefox.exe remains in process list"
+"URL encoded IDN behaves very differently in browsers, what is the correct behaviour?"
+pressing page down key causes a jump to another option box
+Firefox keeps forgetting default download folder after updates
+extra spaces are being rendered on certain web pages
+"System proxy setting: ""Bypass proxy settings for these Hosts & Domains"" is ignored/not taken into account"
+couldn't access google search and said blocked access to google mail
+Image requests handled during a click event handler are aborted on page exit
+XML error in Minefield 3.7a6pre build #20100623040215.
+Firefox Stability Update 3.6.4 Makes Internet Unaccessable
+Computer Hung on Firefox 3.6.4
+Google Maps Streetview callout doesn't work
+Private browsing does not initiate in 3.6.4
+updating hangs with 'downloading..' message instead of saying 'not enough permissions'
+"the file name ""Mozilla Firefox"" keeps changing to a word from random website visited"
+"update refuses to fully install ... says another copy of firefox is running, which it isn't."
+The subject of the page (like a flash game) is jumped out of focus.
+Holding down key on Mac fires different events from other platforms/browsers
+Checkbox should be checked only when user clicks inside the designated square
+Browser slows down when scrolling on a page with big box-shadow effect
+Force shut window down when boot Firefox from other application assigning.
+A click on a javascript component in one browser gets loaded in another one
+it takes long time to star firefox in win 7 (x64)
+"Full Screen, Resize Available, Undesirable Results"
+can't update if I open UAC of Windows 7
+"Mac right click on track pad not working, pull down tab at far right not working."
+Greek character links are url encoded
+New firefox window opens outside (desktop) viewport with 2 monitors
+Window order messed up when opening a new window
+Firefox freezes for a few moments and then comes back to life
+HTTPS sticky authentication failure
+Download bandwidth throttling
+Add animations to main window modifications
+Firefox freezes in the frame page when a web page is loaded from a PDF file.
+Give options UI for plugin crash - seconds to wait and exception page
+Vowel sign is displayed at wrong position in Bengali words when they contains ZWNJ
+Incorrect display of page with photos in it.
+AOL option to open email in pop up window often does not work!
+Sorting option for empty columns should be marked as inactive in Library
+No media player
+Whenever i go to a flash player site it says site I need to download flash player when already have it
+Live bookmark overrides scrolling
+"When I create an html page with an embedded flash file, there is always a 1 pixel offset discrepancy on all of my newly created flash sites."
+YouTube video causes Firefox to semifreeze when skimming through it
+scrolling locked while havinf find bar open when opening an XML/XSL website.
+Dragging problem
+Will not allow me to Switch eBay User Account
+ebay-not showing complete pages   security numbers no recognized
+Websites look all washed out and photographs and other images are grey and lacking in saturation.
+"Cross domain form with target=""_parent"" inside nested iframe causes a new tab to open"
+Mouse wheel does not scroll either by itself or with ALT in Firefox 3.6.6
+Dowload path selector doesn't have the focus
+Mozilla 4.0 beta 1 enhancement for Mozilla button on top left corner
+Favicon from last visited page remains active for new visited page with no favicon associated in windows taskbar
+"Middlemouse.contentLoadURL is confusing and causes a problem at Google Mail web interface // GMail links don't open from middle-clicking, no link context menu items"
+The specific URL name sysWebRTD.htm no longer sends an HTTP Get request in Ver. 3.6
+problem with websites like manga fox
+when restarting computer sometimes the saved firefox windows & tabs all open but are frozen
+Yahoo PingBox Not Displaying When Using Firefox
+Pausing audio playback freezes firefox
+Will not print to Canon Pixma MX340 with low ink cartridge that I refilled myself.
+Using NSWorkspace openURL from a third party app doesn't unhide window
+event issues
+quicktime video pixelates when using scroller
+keyboard events are sometimes dropped if synchronous ajax requests are executed.
+Copy/paste from source window inserts blank lines
+"Custom cursors are not saved when using save ""Web page, complete"""
+Language is changed when I tab from input element  into a content editable iframe
+kanji script (chinese/ japanese characters etc) appears at the top of the mozilla search engine page
+UI Problem: Too much wasted space on the right of the menu button. Tabs should be there.
+Missing flashing insertion bar
+Heads Up Display cannot be accessed when navigating cnn.com
+"Font on numerous websites shows up blue, That includes flash players and sites w/o flash."
+Mozilla redirects to pages when searching on google
+"Bring back option for FF to remember ""quitting preference"" with regard to open tabs"
+can't launch minefied : browser.xul entit¨¦ non d¨¦finie
+OutlookWebApp display is messed up upon startup
+Exception in nsContextMenu.js - anode is null (line 361)
+The browser stop to renderize the page while i dont move the mouse.
+Print to PDF works but locks up Firefox with a blank pop-down window
+window doesn't restore to maximized after minimizing to superbar
+unwanted Internet page is opening on my screen
+Normal Tab back to App Tab when enter and exit Private Browsing
+Firefox/3.6.7: 100% high CPU usage (freeze) when pasting large text
+Scroll lag
+loss all my plugins on firefox update
+Large number of SYSTEM Scope pthreads are created and never recycled
+"Der Absturz erfolgt bei allen Versuchen, Internet-Radio zu h?ren."
+Wrong flash plugin version reported
+Umlauts in comments of extension code cause problems (did work in older version)
+Keys used previously in Quick Find bar don't generate DOM keydown events
+"The game moves now appear under the chessboard, instead of to the right."
+Flash video playback trouble when move scroll bar up and down
+Cursor in google search
+Website no longer recognises Java is installed with 4.0b1
+Space scrolling often fails on some sites
+keyboard disable in vmfusion while running firefox at the same time
+Extension cannot register protocol handler
+Javascript not working
+Erasing of all of my bookmarks
+The feedback apper and desapper from my Firefx 4 beta 2
+Text disappears down to little lines on various pages on FF 4 beta 2 on ubuntu 10.04 x86 intel graphics
+After switching back from full screen to normal new window still appears full screen
+Windows 7 rotating wallpaper causes Firefox windows to lose focus on rotation
+"When ""¨¦"" is written ""e ?"", the result is not good."
+"On start up the computer does not automatically connects to the Bellsouth DSL, IE8 does connect."
+can't update to new version
+Open With Dialog in Firefox Should Be sorted Alphabetically
+Flash videos slutter when holding Alt key
+FF Problem while opening the window when new addons want to be installed
+rendering window not resized to actual window size
+"""setAttribute is not a function"" error in JavaScript"
+File save dialog boxes cannot be moved off screen even partially
+Problem with icons/text of tabs
+"firefox reports ""Content Encoding Error"" when ""network.http.accept-encoding"" sets to ""gzip, deflate"" (versions 3.5.5, 3.6.6)"
+different behavior between linux and windows when select in google search result page
+Password reminder not working
+[QAC generated] Removed Delicious and All Bookmarks are gone AND...
+Tried 4 times to get 3.6.8. Keep getting corrupt file error.
+"After Windows update, Mozilla opened without favorites list and no ""return"" button in tool bar"
+Too many icons in Nav Toolbar using Icons and Text mode causes browser to extend maximized mode offscreen
+"<iframe> does not ""lock"" the mouse correctly on click-hold-move scenario"
+"status bar will show ""waiting for ..."" for a long time after load a image in a Flash(swf) via actionscript, actually, the image has already been loaded successfully"
+"Seemingly at random, when I switch to a tab all the text has turned into squares."
+Blank screen appears when transitioning from encrypted to non encrypted screeen.
+Text formatting of comments in this particular forum evaluate incorrectly when hovered over with the mouse
+Unable to enter secure site
+Shift-Return when entering an address
+"on firefox 4.0b2, flash videos are not displayed"
+download manager freezes up system when downloading utorrent
+function keys not working
+after renewing the last app tab that has been closed next tab has an x offset broken (-20px)
+add a folder in the taskbar
+Scrollbar not shown when Table uses special style...
+Form with non existing image inside is send twice.
+Application tab layout error after reopen
+Firefox no longer displays video content.
+"Problems with bookmarks, address bar, error message"
+Auto left scrolling when setting focus on text box/window
+Param¨¨ters of Flash bug.
+"Error Handling for ""Can't establish a connection to the server at X"" or Circ. Redirect"
+td randomly insterting tab before numbers
+Javascript mouse events are blocked for no specific reasons
+Title bar is drawn incorrectly sometimes
+"Folder in the bookmarks is named ""create folder"" when I add new bookmark"
+Add option to not open home page on restart if there are Application Tabs
+downscaled image has unwanted top and left black border
+Find (on page) does not retain highlighting/focus on found match once escaped from if focus was not on an element on the page
+Browser when min to taskbar causing games to minimize as well.
+Color of font in marquee tag is not what it is ment to be
+SCORM module won't start in 4.0b3; 3.6.8 is OK
+inactive firefox window accepts clicks instead of just bringing firefox window to top
+web page is not displaying correctly
+"can't scroll ,it will scroll the page not the text box"
+URLs not coming back out of the operational tray once minimized
+Bug with Help Center Live 2.1.7 (A Fantastico software module)
+Not rendering long pages that are not cached
+"all css, template, background images had disappeared, I just got the text and some icons"
+incorrect displaying of page after maximization of Firefox's window
+Undoing enabling 3rd party themes always enables default theme in new AOM
+Image non-zoomable (with mouse clicks) after closing window/tab and reopening same image.
+copy & paste of text not working properly on eBay
+"Regular javascript stop error in ""chrome://browser/content/browser.js:7131"""
+Add exception does not add permanently
+Right-Click does not produce popup menu
+"The onload function does not run to completion.  The variable ""j"" should have a value of 74."
+When translating webpages using Google translator it makes a loop in the translator bar at the top/
+ieshims.dll is missing according to dependency walker
+"When two sounds are played on different pages, the later sound stops the previous."
+Moving unclicked mouse across Firefox' window sometimes drags as if the mouse is clicked
+"""Customise"" and ""Add content"" links do nothing when clicked in Firefox 4 beta 4"
+bookmarks and personal preferences are lbookmarks and personal preferences should be able to transfer to other browsersst after system crash due to power failure
+The mouse wheel stop controlling the scroll bars after a visiting a particular website with Javascript
+Everytime I open the browser I get an ALERT
+Inescapable Download window when authentication pops up at the same time
+RFC: Please make creating of user profiles less confusing in 4.0 than it was in 3.X
+"IME candidacy window appears at a wrong place when Flash application is hosted with wmode set to ""opaque""."
+Flash object reloads upon switching from or to fullscreen in Google Wave
+windows 7 transparency in support bar affecting firefox control button
+Text in Text Boxes Gets Deleted Automatically
+Windows Live Compatibility Issue (Xbox Live & Xbox.com)
+Select box with Hindi characters is rendered incorrectly
+plugin container causing adobe flash to seize up firefox & I have to restart it
+we.de email comfort upload disfunctional
+Caret Browsing pop up won't shut off
+Accents shifted one character to the right
+Image zoom control missing on all but first load
+Minimizing main window deletes extended window properties like WS_EX_TOPMOST
+Double click to post in forums
+Reload all affected tabs when untrusted connection accepted
+firefox only shows its own default font type and size.
+The keyboard focus lost after clicking inside a tab.
+Firefox opens with a new tab or the Firefox Updated page with a blank tab named Custom Value.
+XML Parser Rejects Valid Document (apparently due to xul namespace)
+Using Firefox with TextWrangler
+Opening firefox via remote desktop while another use is using it locally (on another account)
+Problem with selection of the downloaded files
+Text with a lighter color and opacity is rendered incorrently
+Pages Corrupt
+not
+The dialog box prompting to open or save a download does not appear.
+Search result not linkable
+"Bing maps, MSN Direct, Send map info to GPS error"
+occasional ghosting of embedded frames on web pages
+keyboard stuck hangs
+"minipicture of site is pixelated in ""group tabs""-view after opening new tab"
+Phantom tab appears in taskbar rollover
+"webpage content not shown. works fine with safari, so it's a firefox problem"
+Can't insert/type text in field
+Chinese Font size renders too small
+Lags whenever I try to close a tab
+The new tool bar background image is very annoying.
+"I get this error when I use youtube through Firefox on Mac, not using Safari"
+"When closing a tab, Firefox will lag for 10 or more seconds before closing"
+about:config should show default values for modified entries
+Page Layout Not Correct
+this number comes under my mail i send 37d41d51-b95c-405c-8579-90ff1938cb7d
+"When LEMSS timesout, it's not possible to log back in"
+The UI goes black/fully transparent. Completely messes up!
+Window border looks odd if you use a reduced Border Padding setting
+"Options dialog windows does not resize properly when expanding ""manage accounts"""
+"When I open [eXe] ""eLearning XHTML editor"" a web based elearning editor after launching Firefox, [eXe] opens as a Tab and no pop-ups could open"
+Firefox 3.6.10 Completely Freezing
+Unexpected image at startup
+Wavemaker Problems
+When I middle click the tabs or page scrolls on me
+jQuery: Firefox 4 beta 6 live('change') executes ajax and not execute callback
+"numerous ""untitled windows"" open when I tried to update Adobe Flash Player"
+"Firefox does not handle properly CRLF, problems when copy-pasting from gedit to firefox"
+page looks different on FF3.6 and FF4.0 due to line-height problem
+Monitor switching with Ultramon causes rendering to be performed at wrong resolution
+Web pages shake when hovering over the alternate text of links
+cannot open attachment in windows live mail...
+"Firefox blocks Typinator, TextExpander, ¡­"
+page up/page down keys exhibit incorrect behavior
+HTML Special Characters Rendered Without Trailing Semicolon

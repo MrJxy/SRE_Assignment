@@ -1,0 +1,470 @@
+×Ö¶Î1_ÎÄ±¾
+Request for a secure site tray/taskbar type Notice/Advisory screen and notification icon.
+HTTP anthentication warning box shows up with href attribute but not with src attribute
+External image requests send session cookies
+"in intranets with many frequently regenerated self-signed certificates, FF3b2 is unusable"
+Norton Internet Security Identity Safe not invoked to fill in userid and password
+Removing File Manager Access
+Submitting a form in an iframe can be a security risk
+"""Recent pages"" list blocked by ""Secure Connection Failed"" alert if such a page is in the list"
+Megavideo forces bypass to user confirmation on redirects
+Unwanted popups from IMDb (one offender) seems to use wyciwyg:// - is this a vulnarability?
+Firefox erroneously reports connection partially encrypted on page with empty href attribute in link tag
+Password required popup window should appear in taskbar always
+RFE: Support petnames for SSL sites in Firefox
+favicon (Instant Web Site ID) randomly displays wrong information (is not updated) regarding SSL certificate while switching from http to https within the same domain
+Origin/Access-Control-Allow-Origin header does not allow remote domain access from local file:// resource
+improved password entering: proactive phishing protection
+importing thawte certificates with spc fails - show unfinished private-key/certificate generations
+Warning messages are not displayed on Forward / Back buttons
+trojan.downloader.js.agent.ewo
+Firefox doesn't prompt/offer personal certificate when accessing secure sites.
+Warn if a page that normally should be encrypted is not encrypted
+IFrame security enhancement
+I wish to see which popup is blocked
+Security slider -- combine max security with max accessibility
+"Request created during unload of previous page wrongly associated with current page, can cause SSL warning"
+"Attack Site Report does not appear on ""I feel lucky"" search"
+2 JS LiveConnect Vulnerabilities.
+"Blocking cookies by creating exceptions to ""Use custom settings"" does not work, though exceptions appear under ""Exceptions - Cookies"""
+"SSL ""revoked certificate"" popup offers no information, workarounds"
+Fireofox won't import p12 - Failed to restore PKCS#12 for unknown reasons.
+would be good if negotiate-auth worked out of the box
+"In negotiate auth, Firefox on linux should check if the account associated with the service contacted is trusted for delegation"
+Immediate hangup/crash of X server (huge image)
+Firefox can't block the redirect from a encrypted page to a non-encrypted page
+Can' add new password
+The signons3.txt file in %appdata% folder does'nt get deleted after i remove the passwords using UI
+Password manager doesn't remember exceptions
+"third party cookies enabled by default, impossile to uncheck by default"
+Password Manager save prompt should time out after page navigation
+Website JS.focus() steals focus from outside of tab
+"GlobalSign organization Validation certificate CA issues error, in linux version of firefox from 3.6.4 onwards"
+"Allow Privacy / Security Settings based on ""Zones"""
+Font for the buttons is not Windows Default
+Phising protection by password hash database
+Navigating to an https page is not opening.
+"Javascript code fills memory and virtual memory to 100%, slows down the computer, and potentially crashes the browser using document.title"
+"page crashes, and it comes up ERROR Not Enough Java must refresh your page.  then it gives you directon on how to do so."
+popups ads are disabling the mouse button while browsing in firefox. making the user think the mouse is broken
+Cookies are not filterable based off of name
+new saved passwords are not offered but old ones work for aa.com
+Firefox doesn't do a proper refresh after ssl-error(s) like ssl_error_bad_cert_domain
+separated list of capability.policy.policynames
+comment box requires 3rd party cookie acceptance
+Custom key length of symmetric cipher.
+CAPS .sites entry is discarded if TCP port is in the address bar
+Certificate validation does not use Login or System keyrings
+This is a Remote DOS Exploit for FireFox 4.0
+can't store untrusted cert exception when FIPS enabled and unauthenticated
+Secure Connection Failed error page displaying unexpectedly on trusted sites
+"Finger print scanner doesn't work with Firefox 4. Error message:Firefox doesn't know how to open this address, because the protocol (dpql) isn't associated with any program."
+cant access ssl More information window
+cookieBehavior set to 1 blocks first-party cookies
+[idea] Certificate abuse with root CA is too easy
+Dragging a shortcut as Software Security Device appears makes Firefox unclickable
+Sigpipe on closing ssh to ad.zanox.com:443
+Unable to load a previously unloaded PKCS#11 security device.
+Infinite save dialog loop block with document.location reassignment
+"Trojan injected ""please give us your credit card details"" into amazon.co.uk"
+Unable to load pkcs#11 library on 64 bit firefox on MAC 10.6.7
+Viewing current page certificate gives a false sense of security
+Don't allow specific domain's cookies to be used when on other web sites
+Crash with NoScript in FIPS mode
+Don't mix insecure links in awsomebar results when user started with 'https://'
+RFE Firefox should retry on ssl_error_rx_unexpected_new_session_ticket
+ssl_error_token_insertion_removal
+"Bank login fails with ""Skype buttons for kopete"" plugin disabled"
+Popup buttons are outside screen if message is too long
+Hookworm issue on Mozilla firefox
+Provide ability to fetch whois information from within Site Identity doorhanger
+Firefox update removes user list of pages with blocked images
+"Getting the NSS error: ""security library: read-only database"" after visiting https websites after authenticating with my security module"
+"Fake certificate used by site, real certificate shown in Certificate Viewer"
+Autocomplete enabled and form data saved on https pages
+Warn if Firefox is running with administrator privileges
+Layout bug when file served via https and FF toolbar is visible
+Buffer overflow in Windows XP - for installing and opening firefox
+Password manager doesn't prompt to remember yelp.com password during login
+Suggestion of security for Firefox (potential security hole)
+Cookies which have a domain starting with a '.' (dot) are considered third-party cookies by firefox
+unencrypted content on encrypted page warning upon 301 redirect
+Padlock / security certificate info in URL area is affecting display width
+IPv6 ssl certificate not downloaded
+Untrusted connection error on all https sites
+url-fixing (browser.fixup) used to redirect to phishing sites (also advertising)
+Adding an encrypted file synchronization feature to Firefox
+False-Positive SSL part encryption warnings
+CSP WARN:  Failed to parse unrecognized source 'unsafe-inline'
+"Reported Attack Page appeared only once after click on ""ignore this warning"" per page"
+firefox freezes or hangs ubuntu 12.04 and 12.10... while loading a webpage which try to search and install a multimedia plugin without informing
+Excessive Smart Card PIN requests in Firefox-17.0.5 ESR and Firefox-20
+"Security: Since version 20, firefox requires paxctl -m"
+"After logging out, I cannot go back to pages prior to logging in when all the recent pages require login"
+x.509 select client certificate window uses import-time locale
+"Missing ""i understand the risk"" since version 20"
+Imported root-CA not listed in certificate manager
+The firefox security exploit is iFraming the source code of another page.
+capability.policy.default.xxxx no longer works as documented
+Updates never applied due to CA not in default cert store
+access violation for current stack trace
+Password change not being saved properly
+"Device pairing should ask for master password if defined, even when password store is already unlocked"
+Visible warning (a la mixed content) if server redirects user-typed https: to http:
+TLSv1.2 issues
+Disable HTTP plaintext basic auth (and possibly other schemes)
+Coffeeshop button: Only load https web sites in untrusted networks
+ssl_bad_cert_domain for an SSL certificate signed for an IDN when connecting with either the IDN or punycode encoded domain
+Mixed content shield not displayed in ubuntu 13.10 Firefox
+Untrusted certificates prevent firefox from establishing encrypted connections
+"Replace root certificate list, and force expiration of stored certificates?"
+Firefox loads from cache a page whose SSL certificate has been revoked
+"Fatal OCSP error if certificate is not trusted, even when the options say otherwise"
+This website does not supply identity information
+"Improve client certificate handling (login/logout, pin caching)"
+List of Certificate Authorities: Display which are suitable for EV (incl. expected policy oids)
+Display certificate validation details
+No Basic Authentication Prompt over HTTPS on Mac OS
+RSS Reader XML DoS Vulnerability
+certificate green bar not shown when site loaded before old site finished loading
+consolidate all phone home functions into one and document it
+Provide indicator when interacting with site in IFRAME
+Provide access to list of pinned domains or alternate way to verify pinning of a domain.
+provide a visual indication in the control center when Firefox sends a client certificate
+"""thawte Primary Root CA"" autority certificate causes SSL problems"
+Certificate lost if installed during Firefox update
+Smartcard Security device seems to cause unnecessary accesses to the certificate store in SSL operations
+No documentation on how to install signed add-ons globally in Linux distributions
+Smart card not working when multiple cryptographic providers used
+DOMParser triggers CSP reports on mac
+Iframe sandboxing breaks SSL error pages
+show country field a column of the certificate manager
+"once the user overwrite certificate trustbits, he doesn't get any removals of those from Mozilla"
+close the terminal display: none copy-paste social engineering attack
+SSL_ERROR_BAD_CERT_DOMAIN with HSTS doesn't adequately describe the possibility of attack
+Masterpassword cannot be set due to faulty password entry fields
+Issue with logout basic authentication with multiple realms on same host.
+"Investigate remediations against poisontap (http hijacking, cookie stealing, etc. etc.)"
+Digital certificates are unable to load or install.
+redirect bug
+"""insecure login"" notice keeps popping up even when disabled"
+Hide the insecure password warning is not user-friendly enough
+Add security key support to master password prompt
+HTTPS broken when noscript tags contain HTTP link / resource
+Firefox shows HTTP-Passwords in Cleartext in the Tab title
+cant scroll in some pages
+CSP blocks inline style and style-tags in XHTML
+[RFE] certificate 'Permanently save exception' - again
+mixed content blocked after editing URL from http to https
+Infinite Resend Confirmation Loop
+Show visual warning if HPKP / DANE-TLSA or CAA has activated MiTM status
+"Make ""Parts of this page are not secure"" warning more useful (link to blocked content, or instructions on how to find them)"
+add user interface for hpkp (http public key pinning)
+identity ui: Non-PFS should be called as weak encryption (yellow triangle)
+Password Manager does not works with captive portal
+information about https problems stands out better
+common.tnode.com uses revoked certificate from StartCom
+"No whitelist for Notification ""Logins entered here could be compromised"""
+certificate error page text is misleading and/or incorrect in some cases
+[Suggestion] Privacy Badger and HTTPS Everywhere by default in FF
+socks_remote_dns should default to true if using a SOCKS proxy
+Mozilla Firefox 5.0 xul.dll (ver. 5.0.0.4183) Memory Corruption
+"Social Engineering Issue with ""javascript:"" URLs [read bug #680302 before commenting here]"
+Improve error message for revoked certs
+Background tabs can force an HTTP auth prompt over the active tab to steal the user's credentials for the currently-active website
+Image properties show used password in clear text
+Add-on signing revamp
+"Protect/lock cookies from USER/PROGRAM deletion (i.e. ""Remove all cookies"")"
+indicate if a root certificate is only temporarily accepted
+Allow popups from a given site for the remainder of the session (temporarily disable popup blocking for a site)
+"with popups enabled, the opened popup may appear to belong to the page behind it (security issue)"
+Educate people about the yellow location bar
+Clear Private Data should use safe deletion (data scrubbing)
+Accessing local files from Intranet pages
+when moving across the tabs with ctrl+tab the focus will remain on the last browsed page
+Mixed secure / nonsecure content warning does not allow to block insecure content
+Force master password prompt for every NR private key use
+XSS prevention based on data tainting
+Add warning to HTTP Basic auth prompt for non-HTTPS connections
+Some popups appear
+LastMeasure has been updated
+Don't allow bookmarking an evaluated+loaded javascript: URL
+'Authentication Required' dialogue being application model produces a vector for attack
+this website force the browser to resize and possible harmful download
+warning users against possible malicious code at websites
+"Going back/forward from secure page to ""broken lock"" page reports ""broken lock"" page as secure"
+URLBar length overflow + whitespaces not being encoded in data url might allow url spoofing
+Hint user when visiting servers with improperly configured ssl cert chain
+Mixed content explanations misleading
+"""Get me out of here"", ""Add exception"" buttons don't have access keys"
+security.warn_submit_insecure warning not used for HTTP basic access authentication
+Browser should warn user if first TLD is not followed by a slash
+overhaul HTTP authentication prompting
+[meta] audit http redirects about violating same origin
+new auth dialog is ugly
+Add ability to Disable File Downloads like IE offers
+registerProtocolHandler fails on Yahoo Mail. Wrong domain-name
+Cannot add exception for self-signed cert (sec_error_untrusted_issuer) in the sidebar
+SSL error dialog (with error pages disabled) does not allow user to add exception
+"""more info"" from the one-click site info feels like close button"
+Security regression: cannot access through DOM external stylesheets
+"Larry popup should show full hostname, not just the domain, as this heuristic can be misleading"
+"Unable to accept certificate if https is in ""Object"" tag"
+Automatically start an arbitrary number of file downloads by opening a web page
+Clear Private Data should also reset last directory saved to
+Some pages produce form-submit security warning dialog on load
+"[meta] Ideas for preventing clickjacking (aka forced navigation, UI redressing)"
+HTML escaping issue in certificate warning dialog
+Mozilla 2.0.17 Denial of Service with Recursive Carriage Return Alert NULL
+"Unable to access addons due to ""invalid security certificate"" (two GlobalSign Root CA certificates?)"
+SSL certificate information inaccessible during HTTP authentication.
+Mismatch between Larry and friendly security error page
+Drop admin rights on Windows as standard
+lock icon tooltip uses inconsistent terminology on partially encrypted page
+[meta] Make the minor update install process entirely transparent to the user
+Enable merging password files
+certificate exceptions don't work in every case
+Ev text in favicon should truncate when there isn't enough room.
+Site identifier truncation is not necessary in certain conditions
+Password manager allows third party scripts to get passwords
+"Spamming history (autocomplete, awesomebar) can result in user being phished"
+Trusted add-on sites don't always appear trusted
+instances of malware reports -- tracking bug
+"malware attacks on search - FFsearcher/Nine-Ball , Trend Micro report on TSPY_EBOD.A"
+Should we consider red larry for mixed SSL?
+"investigate and protect firefox users from Zues/Zeus, Zbot, WSNPOEM, NTOS malware attacks"
+Configuring Kerberos for Firefox is ugly
+Larry should be completely updated with all ssl info when an https page requires http authentication
+Hover text differs for address bar and ssl lock icon.
+Aladdin eToken users are allways prompted for a password even when token supports SSO
+Restrict window navigation to prevent persistent phish/hijack
+Warn the user when they are about to send a credit card number over non-SSL
+"Bug in 3.6 version -""Browser doesn't respond any longer to any user input, all tabs are no longer accessible, your work if any   might be lost."""
+Last Measure shock site now opens a new window and prevents closing it
+Website changed my reload preferences
+Add a method to allow the user to show one password
+"In two-way SSL connections, the user certificate select dialog is not friendly enough."
+'Back' navigation via backspace key can be hijacked to return the user to a different page than the one in their history.
+"In ff a site silently opens an asx files and if MediaPlayer (default) opens it, a exploit in IE or other MS components allow code execution"
+"HTTPS / SSL verified by display shows direct issuer, does not show root"
+password exposed in memory cache
+Firefox crashes when a looping php script is launched
+Can't include default domain in network.negotiate-auth.trusted-uris
+HTTPS framesets do not display error page
+Hidden firefox.exe created by exploiting the body onunload function
+Firefox wont open email or bank sites when SAINT is install and running
+"No security feedback for ""mixed"" state by an initial network error in a newly inserted iframe"
+Remember user's client certificate selection across sessions
+"Remove doorhanger key icon when ""Not now"" is selected in Password Save doorhanger"
+Make hyperlink in ssl_error_bad_cert_domain error page more prominent when the difference is caused by a www/no-www mismatch
+Permanently store exception box ticks itself without warning
+Improve the UI for SSL errors to help users and website admins diagnose problems
+ignoring unrecognized type= on <object> or <embed> is unsafe (but now specified behavior)
+circumvention of popup blocker
+show mixed content indicators on secure pages that use cookies without the secure flag
+"Inconsistency between settings and actual results for ""Install Extensions or Themes"" on AMO"
+Untrusted Connection page is broken when viewing source
+Provide users with the ability to disable third party localstorage
+Improve client authentication for ccb.com.cn
+Provide User Option to Change Color-Coded Security Indicators
+Clearing SSL state without restarting session
+Provide a certificate-path cache and alert user when there are updates
+Site Identity gray when using cache manifest
+Certificate error strings lingering in netError.dtd override
+"Firefox/Nightly claims ""up to date"" despite being unable to check for updates."
+Add strict-transport-security indicator to Larry
+while(true) {window.open(...);} crashes Firefox
+The notification bar does not remain on the screen more than a few seconds.
+"Implement more wildcard ""Access-Control-Allow-Origin"" options"
+FF won't remember the authorization of writing to a file to disk for a file:// located webpage (after restart)
+MIME sniffing on data: documents makes phishing easier than necessary
+Larry should include a checklist of optional security measures
+Estonian ID-card: A PKCS #11 module returned CKR_GENERAL_ERROR
+Secured websites with mixed content display identity-box as not secured on first load and as secured after refresh
+Restrict Firefox from running as a high integrity/elevated process
+Firefox 12 Memory DOS with ROP
+about:blocked produces a Security Error on favicon load
+history timing attack with href switching
+netloader.cc/run.js loaded into every page - suspect existence of malicious extension
+401 password prompt spoofing thing
+"implement the ""Technical Information"" part of the mixed content doorhanger"
+Fake site without URL while loading never finishes
+"Deprecate TYPE_OTHER, create new content types for SVG Animations and Effects"
+Non-Latin Unicode modifiers can be used to obscure the host name in the address bar
+Firefox lost post parameters with Security Warning from SSL to no SSL page
+"Spoof potential due to emoji in URL bar, tab titles and titlebar"
+Large wpad.dat files cause Firefox to exhaust available memory
+Master Bug for Mixed Content Blocker
+Potential Session Restore issues with Content Policies
+Design Tweaks For Mixed Content Blocker Doorhanger
+Unable to allow mixed content  if Navigation Toolbar (or Location Bar) has been removed (e.g. in a locked-down kiosk type of situation)
+Make Mixed Content Doorhanger More Discoverable
+confusing control center messages for http page with https iframe with mixed content
+improve the messaging to the user when certificate verification results in sec_error_ocsp_unknown_cert
+Text selection could use element content visibility to prevent clipboard poisoning
+"Mixed content blocker doorhanger needs a ""For this session"" choice."
+Report Web Forgery warning is not always displayed
+Importing Certificate Authority causes Firefox to get in a state where it must be closed from the Task Manager
+mixed content shouldn't ever be shown on non-SSL pages
+SSL Certificate: Verified By: Not Specified
+No certificate information showing in URL bar
+"Searched text is selected on web page immediately, which can expose it to scripts"
+Facebook HTTPS turns off after playing audio and video links
+"The ""Untrusted Connection"" page should show the cert's fingerprint."
+"When loading an HTTP bookmarklet in a completely HTTPS page, Mixed Content Blocker won't honor exceptions"
+using wildcards in the middle of a URL for no_proxy
+UI for HTTPS page containing content for which the user has overridden an otherwise-invalid cert
+No indication when mixed passive content is blocked: insecure images correctly don't load (security.mixed_content.block_display_content is true) but the 'Mixed Content' icon is not displayed
+Should some content policies be run from the chrome process
+Bubble Adventures game keeps on reloading
+Adopt Tor as a feature in Firefox
+Re-enable Protection option for Mixed Content Doorhanger
+Allow sites with self-signed certificates to set HSTS state
+Allow Mixed Content Frames that are Sandboxed
+"Change default highlight/select for addons door hanger from ""Install Now"" to cancel"
+firefox accepts insecure content in TLS/SSL connections and does not even warn about it
+firefox doesn't realise that it is actually using https
+site identity button doesn't work the first time on a new window
+Stop script refuse to appear
+"Show the blocked urls in the ""mixed content blocker"""
+Blocked mixed content icon is unrecognizable - doesn't look like a shield
+Crashed when loading a pkcs11 module in device manage dialog in MAC OS X 10.7
+"""Add Security Exception"" dialog bug + multiple tabs"
+Enhance Mixed Content error messages for case: HTTP top level; HTTPS iframe; HTTP insecure load
+Inconsistent tick box behaviour with cookie preferences
+Duplicated tabs (ctrl + drag) should persist disabled protection option for MCB
+Blocked mixed-content frames should be replaced with a message to the user
+mis-detection of mixed resources status
+The pdf embedded using object tag is blocked by the mixed content blocker
+"Notify users when password fields are present on http documents, or when they'll be submitted via http"
+Information about supported ciphers and preference order (about:cipher)
+Load order vulnerability may case Firefox to load untrusted dlls
+"FF does not warn or throws an error when the empty host field in proxy setting, and merrily connects to network directly."
+Wrong security state shown in Identify box when open secure page while non-secure page is loading
+PostToInsecureFromSecureMessage does not block the plaintext transmission. Cancel button useless?
+Html injection with bookmark copy/paste.
+firefox can be used to hijack focused application with Dom object
+warn before opening any website on a raw IP address (make phishing scams less trivial)
+Allow site operators to provide some limited information on why they are using a self-signed certificate
+identity panel pa(click over lock) does not provide useful information
+use ISO 8601 dates in SSL cert dialog
+add about:security to Firefox
+[UX] Redesign of certificate error page
+Security update notification should not take focus.
+Provide SSL client certificate logout possibility
+indicate in top level UI when insecure protocols/ciphers are re-enabled
+Password manager does not update password
+Firefox should highlight the case of connecting to a server that has a stored security exception and encountering a different certificate than the one stored
+"Misleading messages in Control Center and ""More Information"" window when enforcing security.ssl.treat_unsafe_negotiation_as_broken"
+"Add ""tell me when it's safe"" option to the TLS certificate error page"
+Confusing language around HSTS and invalid certificates
+"Firefox should not display ""Broken Security"" message and cipher suites if the top level page does not use a weak encryption"
+Master password prompt shouldn't be modal unless absolutely necessary
+OCSP pref doesn't make it clear that extended validation will be affected by it
+"[Control Center] After clicking into & out of subpanel, the rightarrow button is left with a dotted focus outline"
+[UX] Prevent password manager auto-fills on untrusted pages
+"[View Cert] button in ""Page Info"" dialog disappears, if Firefox considers the cert invalid. Can't inspect faulty cert."
+Show a prominent infobar/banner when SSLKEYLOGFILE is active
+"Potential security issues with ""Save Link As"""
+Can't type in Master Password prompt when it appears at browser startup
+"""Tell me when a website asks to store data"" pref has no effect"
+EV site owner is not shown while http auth dialog is up
+[meta] Insecure Passwords
+Convert all calls to assertMixedContentBlockingState to be asynchronous
+fatal TLS handshake errors sent by servers should result in more clear messaging from Firefox
+Firefox 42.0 shows wrong certificate issuer when reloading a page after cert has changed
+Make manifest format comply with W3C WebApps
+right id &password leeds to white page
+[userstory] Insecure Password Warning on Release
+Can't remove master password
+Clipboard bug when you reach a page with an expired certificate.
+Cannot view the issuer nor the certificate with HSTS SEC_ERROR_UNKNOWN_ISSUER error
+SSL network error should perhaps say there's an issue with the website / connection when prefs are the default
+can't load opensc-pkcs11.dll
+The insecure password support page can't be accessed using only the keyboard
+Show the lock with a strike-through in the address bar when insecure credit card fields are present
+Provide right click container context menu in the New Tab button[+]
+Allow the user to type 'badidea' to confirm security exceptions
+Unlimited RAM usage on some specific page
+Consider blocking tab-under behavior
+RFE: Softer error for just expired certs
+"Add options to allow old SSLv3, old cyphers and override HSTS in unbranded builds or developer edition"
+Change the HTTPS exception to temporary by default
+"Fix test for expired certificate ""helpful"" messaging to users with broken system clocks"
+"Container-tab styling (in tab & urlbar) is missing, for the first new-window opened from a container tab"
+Sandboxing whitelist for $PROFILE/features
+Prevent websites from opening modal dialogs in rapid succession
+"HSTS error message incorrectly claims that ""the owner of accounts.firefox.com has configured their website improperly""."
+"When clicking Add Exception, the ""Permanently store this exception"" option check in the checkbox is delayed"
+Update string for insecure password warning based on user research results
+"Location bar identity display ignores certified CN, always showing hostname or eTLD+1 depending on browser.identity.ssl_domain_display"
+"Mixed content <object data> and <embed src> are blocked for all types, including non-plugin video"
+Ability to detect/notify/correct the hijacking of homepage/startpage
+"""Restore default settings"" SSL pref reset button doesn't appear for the ""interrupted"" case in non-English builds"
+"Add ""Show blocked popup(s)"" button to popup blocker message bar"
+User interface for OSCP-revoked SSL cert is unclear
+"for non-overridable certificate errors, provide the same diagnostic information as for overridable errors"
+Consider downgrading the security state of a page that contains a form with an http (insecure) action
+Firefox should warn if using HTTP basic auth without TLS
+Enable Protection doesn't work if user globally turns off Mixed Content Blocking
+'view source' of an https page uses the lock icon until the page is refreshed
+"Move ""more information"" into the secure site slideout instead of requiring another click"
+security UI not degraded when mixed content loads in window.open'ed pages
+[META] Fixing createCodebasePrincipalFromOrigin callers to support contextual identities.
+[META] Fixing getSimpleCodebasePrincipal callers to support contextual identities.
+Technical information not shown on framed cert error pages
+"server requests client certificate, firefox reports unhelpful SSL_ERROR_BAD_CERT_ALERT"
+UI and String changes need to Turn on DNT when TP is turned on
+UI for Windows Enterprise Roots feature
+"Misleading cert error description ""Insecure connection"", misconfigured by ""owner"" (really MITM)"
+No Certificate Viewer Dialog for Inline Frame
+expired certificate page is unclear that it's using local time instead of UTC
+"""Restore default settings"" SSL pref reset button doesn't appear for sites that trigger the ""reset while the page was loading"" error page."
+Followup design on Contextual Insecure Password Warning - don't expose logins until second click
+[meta] Show a negative indicator for HTTP and no indicator for HTTPS
+Message XP/Vista users to inform them when support/security updates will end (2017 Q4)
+Message XP/Vista users to inform them that support/security updates have ended (2018 Q1)
+Consider support for a new security UI widget
+Container tabs should have options for separate history and URL completion
+Consider renaming userContext id and class names
+Distribute binary transparency information with releases
+consider warning user if site is using AppCache on insecure http://
+Consider using status panel for indicating container
+"Software Security Device Can Appear Behind Menus, Freeze Firefox"
+Display a more helpful error when a SSL handshake fails due to a client certificate
+Insecure password warning appears inside iframes on pages with top-level local IP address hosts
+Link to about:buildconfig on about:license no longer works
+manually selecting and copying the advanced info in the certificate error dialog leads to improperly formatted certificates
+Proximity of container underline is too close to the back button when full screen
+privacy.resistFingerprinting breaks extensions that use extension-based canvas APIs (like Screenshots)
+Generate transparency metadata for Firefox releases
+Verify certificate information for update transparency
+regression: container icons missing from the file menu under OSX
+No unblocking UI on mixed content in window.open'ed pages
+Spell out the unknown issuer on sec_error_unknown_issuer error pages
+[meta] Add Contextual Warning to username/password fields on HTTP pages
+Intermittent browser_identity_UI.js | uncaught exception - Error: operation not possible on dead CPOW at chrome://global/content/browser-child.js:106 | Test timed out
+DDOS target website on Clicking a single link of distributed malicious HTML in Firefox
+Consider support for containers sort order
+Certificate details not shown when accessing site with expired certificate via IP address
+Stop shipping chrome://pippki/content/resetpassword.xul in Firefox
+"The ""insecure login"" closes after consuming a context menu click on another window"
+Image info not containerised when page info loads are
+Intermittent browser/components/contextualidentity/test/browser/browser_usercontextid_tabdrop.js | Test timed out -
+Changes to Country handling in Identity UI
+[SoC] Protecting Firefox Malicious Code in Extensions
+Site icon tooltip obscures Larry
+Provide user notification if a script is denied access to move or resize a window
+Validate binary transparency information for updates
+Verify Merkle tree head for an inclusion proof
+Make a preference to control what the usercontextId is when creating a new tab
+"Intermittent browser_usercontextid_tabdrop.js | """" == 1 - JS frame :: browser_usercontextid_tabdrop.js :: <TOP_LEVEL> :: line 80"
+Expose the update transparency verifier to XPCOM
+Firefox contextual insecure forms lacks RTL
+"Move ""Learn More..."" link changes to content.js"
+Binary Transparency
+"location bar displays site identity as tld, even though cert is only valid for subdomain"
+"Self-signed SSL certificates should not be labeled as ""invalid"""
+Infinite print dialog loop when using window.print() in an inline script block with document.location reassignment
+tell the user why they can't add a certificate exception in a framed page
+OSX: Latest firefox has master-password disabled - enable impossible

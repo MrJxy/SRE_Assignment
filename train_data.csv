@@ -1,0 +1,340 @@
+Firefox uses too much bandwidth,
+Activity Streams exhausts file descriptors capturing screenshots when large numbers of bookmarks are added at once,
+Support wider layout to load more than 6 top sites or 3 stories / highlights,
+text field on start page is black on black when using a dark theme,
+Difficult to delete the google website from top sites when there's multiple search result pages,
+Add option to include bookmarks toolbar in new tab page,
+Activity Stream: permanent visible vertical scroll bar,
+Provide keyboard shortcut for newtab search field,
+[meta] Activity Stream Firefox 57 tracking bug,
+There is long delay before the about:home page is displayed if it is opened in a new tab,
+[meta] Add automated tests for Activity Stream functionality,
+Remaining sections are not centered in the New Tab page if other sections are disabled,
+Improve disk cache behavior for various potential consumers,
+"Use negotiated locales, rather than requested in Activity Stream",
+"investigate using Webpack 3 ""scope hoisting"" for faster JS loading",
+Let's have 2 rows of topsites by default,
+Update strings for info doorhanger,
+[meta] Activity Stream noticeably slower than old about:home at startup,
+"Section placeholders are no longer displayed if Search, Top Sites or Highlights are disabled",
+Search bar box shadow does not look correct on different zoom levels,
+unable to force the download of a location bar address,
+selection of text in addressbar when moving mouse up and down,
+something wrong with percent sign (%) in address bar,
+Show a generic location bar when customizing toolbars,
+Animate location bar dropdown,
+Location bar auto-complete dropdown auto-closes when using X11 point-to-select,
+"When search for a letter, that happens to be used in CamelCase, don't highlight the same letter in other places",
+"Cannot access intranet domain when URL contains a space, when ""keyword.enabled"" and ""browser.fixup.alternate.enabled"" are enabled",
+"When writing in awesome bar in different language, consider adding search results in english - Character translation suggest",
+Typing search string into address bar when in offline mode gives wrong result when back online,
+Context menu for AwesomeBar result items,
+window unclosable when quickly using Cmd+N & Cmd+L shortcuts,
+URL autocompletion should not execute if http:// is provided,
+inconsistent encoding/decoding of URL entities,
+"Some URL Encoded chars, like %7B %7C and %7D get transformed in the the browser location bar to their symbols (""|"", ""{"" and ""}""), even though these are invalid",
+urlbar.restrict.tag should be urlbar.match.tag,
+Search keyword bookmarks should not appear in the location bar search results unless the bookmark's associated keyword is entered,
+Highlight characters different from other characters in URL,
+Adjustable length of awsomebar pulldown menue,
+need meta-commands for improving awesome bar experience,
+"Valence just resets when turning on ""Safari on iOS"" runtime, never connects to plugged in iPad"
+Can't connect to WIFI remote debug on Android
+[meta] migrate webide features to about:debugging
+Investigate about:debugging service worker push test failing with Bug 1419771
+Fold the 'Connect��' screen into about:debugging.
+Add a button to stop a Service worker in about:debugging
+Add-on install support (esp. for devices)
+[meta] Enable remote debugging in about:debugging.
+about:debugging should allow lifecycle management of service workers
+Migrate about:serviceworkers to about:debugging.
+Allow manually triggering a push subscription change
+Should hide Firefox's workers unless show-platform-data is on
+Use actors to list and debug add-ons
+about:debugging#addons should automatically enable addons debugging
+Tab summary doesn't refresh automatically for new tabs in other windows
+File picker for temporary add-ons does not handle directories well
+about:debugging should indicate when an add-on is a system add-on
+Reloading an extension with changed ID doesn't remove the previous version
+about:debugging should display an error to a user if a reload fails
+[meta] aboutdebugging: service worker support
+Breadcrumbs bar items should have the same context menu that element nodes in HTML pane have,
+[devtools] CSS Grid Overlay doesn't show.,
+Source map error: request failed with status 401,
+Hiding comments in inspector,
+Developer tools tries to load mixed content font gauge_mono,
+Linenumbers are not visible with CSSGrids when viewport is 100% in FirefoxDeveloperEdition for MacOS,
+"devtools panel will shows blank if click tab too fast,",
+CSS Grid Inspector area names are sometimes HUGE and obscure the web page.,
+Highlighter stops working after a period of time,
+Split inspector.js into smaller files.,
+Inspector tree view disappears after a period of use,
+Devtools: Event Popup in Inspector does not use source map to prettify code,
+Inspector - elements found in iframe in the beginning of HTML are accounted after all other elements in HTML,
+Context menu for <canvas> element's openning tag should allow to access the image,
+"Inspector ""Search HTML"" finds ::before pseudoelements as text, but not by selector",
+Inspector causes too many dom mutations when I edit attributes,
+"Inspector in browser toolbox doesn't always finds elements by selector [attribute=""value""]",
+Multiline editor in ruleview and inspector doesn't resize when I available width,
+"Numbers in inspector search field, styling of the search field and selected node in markup are not logically connected",
+"Context menu in CSS background selector does not have ""Open in new tab""",
+downloader not actually downloading zero size file
+"[10.5] Firefox attempts download to invalid folder on Leopard, fails"
+problem in firefox download manager
+"no question ""overwrite file"" when saving files, which are identical"
+add better indication of resumed downloads after browser (re)start
+Use common code to monitor download progress in both taskbar and DownloadsUI
+Show URI of files being downloaded
+Download Manager: Provide a pre-warning if there is no enough disk space in the target location to complete an intended file download
+double clicking downloading item doesn't pause the download
+The number of hidden downloads is wrong in DownloadsFooter description
+"Make ""Downloads"" list more compact"
+Request for about:config pref for downloads in a tab (non-private-mode)
+Endless consumption of all download bandwidth
+displaying download location when opening containing folder or when hovering
+download box title missing
+"Files won't open when set to ""open with"" instead of saving, will open when double clicked from download library"
+"When using multiple profiles, downloads are presented as FAILED, even when they are downloading fine"
+"""Display progress of ongoing downloads"" dropdown list no longer works"
+delete in download list fails to update
+Different remaining download times listed in the download panel
+window.close() closes browser if number of tabs = 1
+"Wish Theme management would ""encourage"" theme developers to use OS-specified sizes when appropriate"
+nsDirectoryService should add a NS_WIN_COMMON_APPDATA folder
+"If browser.preferences.instantApply is true, ondialogaccept is can't be triggered in a prefwindow"
+"Ever since version 3 pdf files do not open on Firefox. Clicking on a pdf only shows blank page and ""done""."
+Extension update doesn't show update site does not exist
+"uncaught exception: [Exception... ""The container of an boundary-point of a range is being set to either a node of an invalid type or a node with an ancestor of an invalid type.""  code: ""2"" nsresult: ""0x805c0002 (NS_ERROR_DOM_RANGE_INVALID_NODE_TYPE"
+computer reboots when running Bit defender quick scan
+Cannot follow links in information given by update dialogue.
+Flash Player 10 Can Not Show Chinese Words.
+Flash works but didn't react on Mouseclicks
+"first use after installing 3.6 beta removes .htm and .html from file extension library, making it impossible to open any URL"
+"Plugins (Real Audio, Flash) are not working within Firefox extension - Only Mac w/Firefox 3.6"
+zshare video does not play anymore since I updated my firefox to 3.6
+"Air App Installation hangs on MAC 10.6.3 OS on Firefox, version 3.6.3"
+"Add-ons are already compatible, but not allowed because it is not listed as compatible for 3.7"
+PopCap games plug-in does not work with recent updates
+"Download window,Add-ons window,Error Console minimized when mouse pointer move over flash video."
+sIFR not working on a consistent basis.
+Minefield fails to install extension on Mac OS
+Common BrowserID module needs tests
+Implement nsIFxAccountsUIGlue in desktop
+No 'log out' button after changing password by link in Firefox Nightly
+Expose user's data choices to trusted web content
+Manually visiting accounts.firefox.com may show your AMO account rather than your Sync account
+FxA 'Mistyped email?' link is broken
+FxAccounts doesn't react correctly to mismatched version string in credentials storage.
+Add server backoff support to FxAccountsProfileClient.jsm
+Diagnose and respond to situations where the keyFetchToken is missing
+Using FxA in browser tests requires a stub hawk server
+Refactor FxAccounts to better reflect client states
+Better handling of retryAfter in FxAccountsClient
+[meta][FXA-54] Push Notifications for Account Status Changes
+"Setting ""identity.fxaccounts.remote.webchannel.uri"" to an empty string causes Sync logins to silently fail"
+"The ""manage account"" link should always open in a non-private window"
+How should Firefox Accounts behave in a container tab?
+"The Sync ""Manage Account"" link doesn't work properly with First-Party Isolation"
+Move email verification polling code into separate module
+FxAccountsOAuthClient should call onComplete if the web flow tab closes
+Failure signing in to Firefox accounts when using the gnome-keyring-integration addon
+Certain gtk themes cause pages [including the bugzilla page for mozilla] to load incorrectly on amd64 systems.
+clearing cache removes symbolic link to a custom directory
+Autoscroll non-functional with two-button mouse
+Multilingual / multi-language Firefox package for MacOS X
+remeber login name (not only password)
+"When you page down, an arrow should point to the place you should resume reading"
+Sidebar to navigate site map
+Reload pages from a script
+warn users if they enter characters into a form that do not correspond to the form's declared characterset
+"""Already running"" error dialog should tell user what URL was requested (if any)"
+Image full-size toggle should fix the point under the mouse cursor
+Could someone implement support for an optional custom caret (insertion point indicator)?
+Config option to disable Page scrolling when scrolling an inner component on the page
+need better way for themes to style empty about:blank page
+Saving web pages with illegal/unwanted characters in the file name (replace/escape them) on Linux
+FF .NET browser control?
+The graphical output generator should support a BiDi-output paramer in order to facilitate BiDi reading
+Sidebar Request for Option to open sidebar links in sidebar
+"This and many more web pages can pop up while the pop-up blocker is on.  The pop-up's that get through are not on the ""allow list""."
+Googlemail will not accept formatted text from tagkeys
+Support for Pdf files Specification not checked by pdfjs (should redirect to correct plugin instead)
+pdf view prints in wrong order
+Scrolling accross page boundaries only paints the new page
+"pdf viewer selected text highlight too tall, overlaps with next line"
+Non-showing or unreadable fonts in PDF.js documents.
+Bad page rendering (bug page filled with website and source)
+Include PDFium and make it the default PDF viewer
+Memory usage 30x+ of page-size
+"PDF Viewer does no preload unvisible pages, reloads on scrolling back"
+Firefox shows a separate PDF and Portable Document Format option and refuses to open a PDF file
+large area covered by green quad on specific pdf
+"browser slow, may be browser's pdf.js"
+PDFs do not load correctly
+Title and target fields aren't applied
+PDF.js doesn't scroll page into view if I try to navigate to the same anchor
+pdf.js does not keep read position in document if FF crashed
+pdfjs.enablePrintAutoRotate doesn't work
+firefox-56.0.1/modules/pdfium/pdfium/core/fpdfapi/edit/fpdf_edit_create.cpp:1424: bas assert ?
+PDF.js user interface doesn't align to the new photon user experience
+Opening PDF files in arch creates unending tabs
+Pocket button doesn't stay logged in if cookies/session data cleared on browser exit
+Pocket breaks back button on Chakra Linux
+pocket does not login
+pocket button missing on clean install firefox 40
+The tag suggestions box in pocket is  not oriented
+global setting extensions.pocket.enabled ignored
+The Pocket button has disappeared
+Pocket integration should be disabled when in private mode
+pocket button always asks me to login
+Pocket panel closes when switching keyboard mapping
+"If user has Pocket account with Firefox, a browser logged in to their Firefox Account should be automatically logged in to Firef��x's Pocket Integration"
+getpocket.com still contacted even though extensions.pocket.enabled = false
+No way to see already added status from Pocket button
+Pocket area not shown in about:newtab in v58
+'Pocket' splash window does not disappear
+"Middle clicking ""View Pocket List"" does nothing"
+Pocket icon should change color when active page is already saved
+[meta] Pocket quality and test eng tasks
+[es-ES] Visual glitch for Web Pocket drop down Log Out option
+Saved credentials are prefilled when Signing Up with email in Pocket
+"offer a per site popup ""black list"" for hiding the yellow information / popup notification bar"
+Tools... > Options > Privacy > View Cookies > should allow right-click Add To Exceptions
+Firefox could have a permanent cached site list
+"""Clear private data"" (sanitize) feature should have an option to clear the last used download target directory name and path"
+lockPref() in .cfg does not completely locks preferences
+network.negotiate-auth.trusted-uris user_pref broken
+"provide a user choice/override mechanism for audio objects with autostart=""true"""
+Implement a separate ui.key.menuAccessKey for the right-click menu
+middlemouse.contentLoadURL true closes tab on FF2+
+psm internal fips-140-1 cryptogr
+Preferences > Fonts shows incorrect data related to Advanced menu
+.url files don't receive a chance to set defaults
+Focus search box when going to Options ? Applications
+Use GtkFileChooserButton for Downloads location selector
+Browser remembers folder from last attached file on webmail
+Add possibility to use wildcards when defining cookies in Exceptions
+[RFE] A low-bandwidth mode is needed
+Zoom Text Only should be Site-Specific (View > Zoom menu option for disabling Full Page Zoom)
+"Page setup, Headers & Footers, cannot change from default text"
+"""Accept third-party cookies"" preference is inaccurate, third-party cookies are also not *sent*"
+Better cookie management required
+Onion routing built-in
+"When launching FF in permanent private browsing mode (with the -private option), only the initial window has the indicator that it's private."
+Second Tab Ignored When Using --private-window From The CLI
+private browsing mode causes all cookies to disappear in certain situation
+"Private browsing indicator not shown when startup with ""-private"" command line switch"
+Show all tabs doesn't work in permanent private mode
+"Private Browsing - Click on Icon of ""Open new window"" should open another Private window"
+"No quit warning or multiple tab quit warning in Private Browsing Mode, even with about:config options set True"
+lost open tabs when moving from 'private browsing' to normal browsing mode
+location bar is cleared after a slight delay after opening private window
+open a new Private Window from a Private Window and you have Cookies from the first one
+The hover animation is not performed on the door hanger More information button
+want to delete cookies by hand from a directory
+partly retains history in Private Session
+"Amazon.ca ""Related to Items You've Viewed"" logs items when using ""Private Browsing"""
+Cache in storage/temporary is not deleted never and it is saved also in private browsing
+"""Forget"" icon still operational in Private Window, creating potential for user confusion"
+Opening private windows is broken after running firefox -private
+Bookmarks created in Private Browsing are missing favicon
+fast search toolbar dropdown results widget floats in midair outside of firefox as i type.
+site-specific dynamic search plugin and change of method of adding auto-discovered search plugins
+quick search box does not show complex text descenders of fonts
+Replacing a search engine/tool/plugin not user friendly
+search.json doesn't handle boolean values consistently
+Search toolbar does not produce any results when I select 'enter' or the magnifying glass icon
+can't weight the search engine addons by pref
+Restore Defaults button in Manage Search Engine UI should be Press-able after adding/removing search engine(s)
+"Toolbar Search Field is not removable, reappears upon FF restart"
+"Text in search box is automatically selected while writing ""search keyword"""
+search engines settings: by default search entries language settings are lost
+search does open when you type and when you pull it up from drop box it does not come up
+Function request: export/import search engines to a file including their order and keyword
+search websites with <tab>
+Cannot return to previous location after failed Find
+Google https search functionality regression: no search term highlighting in cached view
+Allow using keyword-searching in context menu for selected text
+[meta] Catch up to Chrome for web search integration
+Revert FF 34 to remember last used search engine like before
+"After mouse click to search bar, Firefox launches Internet traffic without any user input"
+Request for a secure site tray/taskbar type Notice/Advisory screen and notification icon.
+HTTP anthentication warning box shows up with href attribute but not with src attribute
+External image requests send session cookies
+"in intranets with many frequently regenerated self-signed certificates, FF3b2 is unusable"
+Norton Internet Security Identity Safe not invoked to fill in userid and password
+Removing File Manager Access
+Submitting a form in an iframe can be a security risk
+"""Recent pages"" list blocked by ""Secure Connection Failed"" alert if such a page is in the list"
+Megavideo forces bypass to user confirmation on redirects
+Unwanted popups from IMDb (one offender) seems to use wyciwyg:// - is this a vulnarability?
+Firefox erroneously reports connection partially encrypted on page with empty href attribute in link tag
+Password required popup window should appear in taskbar always
+RFE: Support petnames for SSL sites in Firefox
+favicon (Instant Web Site ID) randomly displays wrong information (is not updated) regarding SSL certificate while switching from http to https within the same domain
+Origin/Access-Control-Allow-Origin header does not allow remote domain access from local file:// resource
+improved password entering: proactive phishing protection
+importing thawte certificates with spc fails - show unfinished private-key/certificate generations
+Warning messages are not displayed on Forward / Back buttons
+trojan.downloader.js.agent.ewo
+Firefox doesn't prompt/offer personal certificate when accessing secure sites.
+Bookmark all tabs
+Feature Request: Keyboard shortcut for share button.
+Plus button in Share this page not working
+Social API service installation not working
+"Add support for Google Keep in ""Share this page"""
+Twitter ��characters remaining�� count wrong for http: links
+Sharing a page : the window showing all the sharing icons is cut
+Firefox Share window disappears
+Social API - text parameter for shareURL doesn't work
+Add QR code integration into Firefox Share
+Clicking on 'view more' in the share page causes Firefox to hang
+Security documentation for Social Integration providers
+social auto-resize mutation observer living too long?
+NoScript does not interact well with the SocialAPI
+inconsistent state between two windows with social enabled
+allow opening link by a provider to reuse and activate a tab.
+hidpi support for share button/ambient notifications/chat icons
+a way to notify the social provider of changes from the main window
+"Registering an nsIContentPolicy implementation causes error ""this.docShell is null"" in the ""browser.xml"" binding"
+Can't open links using middle click
+white shading on new tab bar is ugly/hard to read if not using standard dark-on-light theme
+"gnomestripe: small ""warning"" icon isn't small size of big ""warning"" icon, it's probably winstripe icon"
+"favicon dropdown ""tooltip"" and bookmark adding context ""tooltip"" are using gtk menu"
+"Navigation toolbar resizing causing 'jump', possibly by favicon"
+URL dropdown menu should be styled after OS X context menus.
+Does not use correct font styles as defined in GTK theme in menu bar and some dialogs
+Personas don't skin open menus or windows
+If I want to change order (bookmarks above homepage icon) text in homepage does not disapear
+The Add Ons page should use the Mac OS black bar for actions
+"Outermost toolbar buttons should stick to the very edges of the screen, when window is maximized"
+Separators should be removable through Customize
+Change Toolbar button relocation drop markers to match Tab drop marker
+Personas should be used along the top edge of the window
+Transparency of themes turns black from start up
+"New tabs are in white, undesirable for vision impaired"
+Too many pinned tabs go off the tab strip
+"When all other toolbars are hidden, tabs look ugly with any addon's toolbar."
+Arabic 1025: close minimize maximize buttons on wrong side of browser
+[Linux] Improve styling of the bookmarks bar
+Persona theme with disabled menu bar clipping covers white border of caption buttons
+browser.translation.ui.show should be available as a button in the translation toolbar
+Implement translation infobar
+Fade translation/original text when replacing it
+Provide Web authors a way to disable the translation bar entirely or partially
+"Detect available translations using <link rel=""alternate"" hreflang=""x""> instead of showing machine translation"
+Implement arrow pointing from the translation info bar to the URL bar icon
+Language not detected if the content is in subframes
+Infobar is not displayed as long as the throbber is still present in the tab
+Breakdown - Fade translation/original text when replacing it
+Split TranslationItem in chunks if necessary
+Optimize display timing of translation infobar and icon
+make the native CLD work well enough to compare memory use in realistic scenarios
+Improve translation tests
+Investigate if tweaking the asm.js heap size can actually save some of the memory used by cld-worker.js
+Tests for the translation engine
+Strange behavior after wrapping elements into a dropdown box
+[hidpi] translation provider image is cut on the bottom
+Implement design changes to translation provider attribution in options menu
+Implement design changes to translation provider attribution in preferences
+Dropdown elements don`t always stick back to infobar on a touch device

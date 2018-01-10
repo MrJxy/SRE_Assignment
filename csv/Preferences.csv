@@ -1,0 +1,501 @@
+×Ö¶Î1_ÎÄ±¾
+"offer a per site popup ""black list"" for hiding the yellow information / popup notification bar"
+Tools... > Options > Privacy > View Cookies > should allow right-click Add To Exceptions
+Firefox could have a permanent cached site list
+"""Clear private data"" (sanitize) feature should have an option to clear the last used download target directory name and path"
+lockPref() in .cfg does not completely locks preferences
+network.negotiate-auth.trusted-uris user_pref broken
+"provide a user choice/override mechanism for audio objects with autostart=""true"""
+Implement a separate ui.key.menuAccessKey for the right-click menu
+middlemouse.contentLoadURL true closes tab on FF2+
+psm internal fips-140-1 cryptogr
+Preferences > Fonts shows incorrect data related to Advanced menu
+.url files don't receive a chance to set defaults
+Focus search box when going to Options ? Applications
+Use GtkFileChooserButton for Downloads location selector
+Browser remembers folder from last attached file on webmail
+Add possibility to use wildcards when defining cookies in Exceptions
+[RFE] A low-bandwidth mode is needed
+Zoom Text Only should be Site-Specific (View > Zoom menu option for disabling Full Page Zoom)
+"Page setup, Headers & Footers, cannot change from default text"
+"""Accept third-party cookies"" preference is inaccurate, third-party cookies are also not *sent*"
+Enhancement Request: More easier way to enable/disable proxy
+Cannot import a CA certificate
+Unable to activate FIPS security module
+Option to only use a single window (e.g. clicking QuickLaunch when Firefox is already open)
+Proxy preference to bypass proxy for local addresses
+Nearly impossible to set font size
+add maximum expire time to option Keep cookies until they expire
+Add preference for range of used local ports
+"Window Popup Blocker: URL's property for blocking sites, too"
+Tools Options Dialog Improperly Sized for Advanced Options Subform on Windows XP (Firefox 3.0.10)
+"Proxy settings window not wide enough, when Windows design has bigger fonts"
+Change applications search text box text to Search Applications
+layout of settings for private settings is weird
+Show Cookies manager does not refresh display properly
+List of Exceptions of Servers which can install addons  deleted after mozillas reboot
+"""Open new windows in new tab"" option has changed behaviour from previous versions"
+Preferred language not saved
+Add menu item or about:config entry to disable beep sound from popup windows and warning messages in Firefox 3.5.
+"upon restart ""first-run"" unexpectedly occurs, causing (all) options to return to defaults"
+Allow cookie for website is deleted after closing Firefox
+Bug Me Not: Clear Recent History
+System Defaults checking warning did not pop up after kill forcefully and quickly reopen firefox3.7a1pre
+Improve identification of file/content types in the UI by restoring the MIME/ext. columns from Fx2 Download Actions manager and/or putting the MIME type in parentheses
+Non-Admin User's language preferences are not being honored in Windows Vista (l18n)
+"Create whitelist for pages with ""Post Data""?"
+"When FF is rebuilt, it ignores a start page of about:blank"
+"Firefox forgets log-in credentials, passwords, and so forth without being told to when ""never remember history"" is set under Privacy"
+Add an option to select which sound card will play sounds
+user.js does not allow Ajaxterm at http://localhost:8022/ to use JS paste
+Preferences - Applications - dialog isn't suitable to firefox behavior
+"Granting user_pref(""capability.principal.codebase.p5.granted"", ""UniversalXPConnect""); is inconsistent"
+Preferences for both Firefox and Thunderbird will not save - believe this is a read-only issue
+"Upon open ""When FireFox Starts"", ""Use Bookmark"" only open the first 2 bookmarks of 7 in the list"
+"Move ""Quit Firefox"" Dialog box to tool/options/"
+Should have an option to use offline mode or not
+can not reach ftp servers if the proxy address for the ftp is empty
+Exceptions images n'est pas conserv¨¦
+no scroll bars on the window
+Enhanced JavaScript permissions are not reconfigurable
+an configuration per site like Opera's F12 window
+'Applications' panel causes any richlistbox/richlistitem in a prefrences overlay to fire it's events
+"Under options, general, the 'Use Current Pages' button does not save all pages."
+ui.caretWidth configuration parameter support erratic
+prefs.js replace instead of overwritten
+[WISHLIST] use sans-serif as the default font
+default printer not changed by about:config when using CUPS (bug fix also included)
+Resize corner and a redundant resizing widget in the Allowed Sites window.
+settings in all addons lost
+Extension update window is always on top with no option to disable
+geolocation permissions should be in Preferences->Privacy
+refuse my general password to access my passwords
+Pop-up message continually appearing when visiting pages which requires a login
+using pref 'general.config.filename' ignores first line in the given file
+Provide an option in FF's UI for site spcific zoom (browser.zoom.siteSpecific = true/false)
+Autoscroll option not saved when accessing same profile from different OS's
+"""Allow pages to choose their own fonts"" should be a per-site preference."
+Firefox 3.6.4 fails to save last download directory if clear browser history is set
+network.auth.use-sspi = true is manadatory to make negiotiate authentification work
+Firefox should ask where to save files by default
+"lockPref in ""mozilla.cfg"" doesn't seem to work properly with Private Browsing"
+Allow pages to set own fonts Break Pages when un-checked
+Address Bar does not remember position
+HTTP_ACCEPT is not constant
+Tools->Options->Applications Tab WinRAR File options inconsistent.
+Different configuration dependent whether directly started or started via a link in an e-mail
+"""Show my windows and tabs from last time"" resets to ""Show my home page"""
+browsing through non WWW suffix URL in VPN adds up www in look up and says Address not Found
+Preference to disable cursor (mouse pointer) shape manipulation
+The window does not close.
+Preferences not staying set; Unable to set certain preferences.
+"Media player should be default player for video files such as .mov, .mp4, .mpg"
+"""Allow pages to choose their own colors"" doesn't revert to defaults when unchecked."
+Wrong display for preferences dialog/DualHead
+Don't save new proxy settings after close Firefox
+Need do a GUI solution to disable java script exception
+Cookies don't appear to be cleaned/removed permanently. Third party cookie allow-block appear to not work as expected.
+Remove {all} cookies not working
+"Text not shown in menu dropdowns in preferences, nor in js tables"
+Firefox can lock up while deleting one user cert and importing another.
+browser.taskbar.previews.enable reset to true after update
+"User interface to ""Block sites using unsecure TLS/SSL handshake"""
+Marking reset fields better
+"blank areas of preference panel are live for clicking, causing inadvertent changes"
+Automatic update is not automatic when the application chooses to require user consent even though the Firefox preferences infer that it is.
+After restarting firefox all previously closed windows pop up
+"""Exceptions - cookies"" - let the user edit the entries by double click"
+Homepage with multiple bookmarks will not load correctly on startup
+Preferences Windows does not display
+general.autoScroll reverts to false when using Firefox under Windows and Ubuntu
+Bugzilla left pane returns after exiting FF until explicitly closing tab
+buttons in languages menu in are invisible if we delete all languages and then after closing menu add one
+permissions.default.image - value 3 is displayed incorrectly in the preferences window
+"Contradiction between preferences ""Clear saved passwords when Firefox closes"" and ""Remember passwords"""
+Add checkbox inside Firefox's options dialog for browser.showQuitWarning
+Allow JS advanced settings to be associated with whitelists/blacklists
+"Even with user.js set as directed, copy, cut and paste do not work"
+"lines missing in prefs.js after Install,  White Flash after Start Firefox 4.0"
+Add access to download settings from the Downloads window
+"When a website wants to set a cookie and firefox doesn't load cookies by default, user should be notified"
+Important feature broken by capability.policy
+History settings display incorrectly if the defaults are changed.
+network.http.phishy-userpass-length preference missing from about:config
+"when pointer is in ""bookmark"" menu firefox AUTOMATICALLY tries to connect to random page with OUT any mouse click on bookmarklisting."
+browser.download.manager.focusWhenStarting is not Obeyed
+WPAD not working when using gnome system proxy settings
+Add configuration option to treat web cookies and flash shared local objects (LSOs) differently; destructive upgrade from older Firefox versions
+Add an easy way to disable / enable all plugins
+Browser.startup.homepage override.mstone set as Ignore no longer Stops First Run Page Appearing since v4.0.1.2 and up to v6.0
+"The list of cookie exceptions in the privacy tab does not load, or all exceptions are deleted."
+Homepage does not default back correctly
+"Reword ""Keep [cookies] until: I close Firefox"""
+Cannot allow pop-ups for a site (allow popups appears ineffective)
+Top Icons in the Options Window Not Aligned Properly on Windows
+Retain the secret pref browser.link.open_newwindow value when upgrading Firefox
+browser.gesture.pinch.out doesn't trigger if browser.gesture.pinch.latched is false
+The ¡°When updates to Firefox are found¡± setting group should not be disabled if it has an effect.
+"Pref > Content tab displays ""Colours"" text in en-US version"
+Preferences/Privacy/History does not honour my setting
+Unify all management interfaces in firefox
+changes to default preference branch doesn't persist
+Firefox Version 8 does not completely empty cache after shutdown.
+Ability to change fonts to Bold via edit->Preferences
+Tabs in Firefox Preferences should feel like native OS X tabs (clicking state behavior)
+"Internet options aren't imported as displayed, bug or works as designed?"
+Changes to zoom.maxPercent require restart
+"Preferences won't save, specifically ""Firefox will: Use custom settings..."""
+mouseover preview of where Help button will take us
+allow user to copy text of menus
+"[Exception... ""Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]""  nsresult: ""0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE)""  location: ""JS frame :: chrome://browser/content/preferences/advanced.js]"
+Options?: Content?: Languages?: Macedonian language line in the local menu and in the list
+FF 10 on Win7 : external editor setting doesn't work
+allow user defined accept-language
+helper application not remembered and dialog box (file picker/chooser) cumbersome/inconvenient
+"do not automatically enable ""Accept third-party cookies"" when ""Accept cookies from sites"" is enabled"
+Firefox resets home page to firefox start page
+links not showing my colors
+use 127.1 as proxy server didn't work sometime.
+"annoying ""downloads complete"" popup notification, after disabling similar misfeature"
+Advanced Options is not displayed in Options window. FollowTools->Options and click Advanced
+Add an UI option to control how app tabs are loaded when restore_on_demand is set
+"Dictionaries are not offered to users, who don't look for them at AMO"
+"changed inContent in perferences lost app, changed them back and they reappeared"
+Preference with wrong data type cannot be corrected
+IPv6 hexadecimal addresses not recognized as cookies exceptions
+Cookie preferences are difficult to find
+Option for serial instead of parallel download of page elements
+Cannot add Google or Yahoo from Web Feed handler in Preferences
+Closes all tabs without warning ...
+Incosistent pre-checked settings in privacy tab
+about:preferences Connection parameters on Windows
+Firefox does not recognize Verdana font
+Provide about:config choice to allow reversion of Bug 728831
+Cookie handling settings are very confusing
+Re-enable possibility to set the default action for horizontal wheel operations
+Firefox Application Preferences Cannot select PDF
+"Add general.useragent.stringmode to about:config with 3 modes (none, default, terse)."
+"Tools:Options:Advanced:Data Choices links for ""Learn More"" do not function"
+FF 20 won't start with Home Page
+browser.gesture.twist.left and .right do not behave as expected in Firefox 21
+"'Accept third party cookies' option doesn't stick, reverts to default"
+Browser fails to save spell check preference
+"Accept-Language should support * (all languages) and regions (e.g. en_UK, en_US, etc)"
+preference binding doesn't flush prefs after a clearUserPref
+Split browser.tabs.loadDivertedInBackground into two preferences - external programs and brower links/javascript
+add a user-facing UI to toggle middlemouse.contentLoadURL
+Redirect blocking is useless without redirect info
+Let me set in Tools->Options->Privacy a list of pages on which autocomplete is forbidden.
+cursor stuck at one place
+Different intl.accept_languages values with user settings
+clearOnShutdown.history breaks startup.page=3
+allow to force activate single clearOnShutdown features
+Clear history checkboxes in in-content Preferences restore to default after restart
+Firefox 29: browser hangs on restart with browser.cache.disk.enable' FALSE.
+"Add UI for a ""block all popups"" non-default option for the popup blocker"
+Integrate eCleaner functionalities into Firefox
+browser.helperApps.neverAsk.saveToDisk does not work for .pem file
+Firefox resets custom settings for history when using another setting
+Options dialog implicitly cancelled by 'sync' links
+Firefox makes HTTP requests when browsing Applications Preferences
+intl.accept_languages not configurable in the GUI after usage of defaultPref
+Privacy History settings switch unsaved
+Portuguese/Portugal [pt-pt] missing from Content Options
+New homepage not retained beyond current session in 33.0.2
+Options/Show Windows and Tabs of the last session not working
+Restore Default Search Engines should also delete user-added search engines
+Empty window: Settings -> Security
+Add CROSS-ORIGIN enabling option through the about:config window
+Firefox doesn't remember last pages on Mac
+Switching Firefox to be the default browser does not update the UI to reflect so until after the dialog box is closed
+Add a preference to control what happens when middle-clicking a tab
+"New settings dialog - setting ""current page"" as startpage is not appropriate any more"
+With update to 38.x I am unable to change preferences (linux)
+Preferences replace content in active tab if the active tab didn't finish loading
+dialog announcing restart should offer delay in restarting
+An easy way to turn off autoplay of videos and sounds
+FF should delete tabs when Never Remember History is in effect
+Preference for controlling css animation and transforms
+No way to specify url-only matching when typing text in the url bar
+add-ons installation warning
+"Some items on ""Clear on exit"" menu do not hold user settings"
+(Never) Remember History command needs to be chosen twice
+How to reset geolocation for all sites at once after the removal of about:permissions
+Add option to keep cookies for fixed amount of days
+browser.cache.disk.enable set from system's prefs.js doesn't get applied
+Request for enhancement for privacy - Preferences open in separate dialog or window
+Keyboard Navigation Disabled in Exceptions Cookies Window
+Changing browser.cache.disk.capacity does reset it to 358400 after a few seconds
+Cached Web Content Size Gets Stuck at a Size Greater Than Zero Even when Cleared
+[e10s] Multi-process cannot be enabled in about:preferences
+Don't use (multiple) home page(s) when opening additional windows after startup
+"firefox 45.0 on Linux Mint, in saved logins, right clicking & selecting to copy username, copies the passwords & vice versa"
+Provide a help link or hoverable info icon next to 'autoscrolling' and 'smooth scrolling'
+Tracking protection restarts browser without asking permission
+Help link [?] in preferences is easy to overlook
+"Firefox Nightly ""Enable multi-process Nightly"" & ""Always check if Nightly is your default browser"" Disabled"
+User option to stop all automatic firefox connections
+Can't stop some automatic connections
+Independent options have an UI dependency
+"""Check Now"" button about update missing on Preferences"
+image.animation_mode:none does not work (FF 50.0.2)
+Proxy config remembered only if one enables storing logins GLOBALLY
+"Delete cookies when exiting firefox, generated WIN10 Error ID 10016 DistributedCOM"
+"With Firefox 50.1.0 in KDE environment, auto detect proxy settings do not work"
+Cookies not selectable for deletion
+"When using multiple profiles, update preferences are grayed out without any explanation"
+Cannot have Firefox and Firefox Developer Edition open at the same time
+Remove search engine in preferences cause the viewport jump to top of list
+lost proxy setting
+Wrong casing in 'intl.accept_languages' pref causes Accepted Languages selection dialog to stop working
+"""Clear Now"" ""Cancel"" buttons will go out of dialog frame, when clicking any of check box at ""Clear browsing history"" dialog"
+"i don't have the ""magnet"" option on applications"
+"""When firefox starts"" setting keeps reverting back to ""Show my home page"" instead of staying as ""Show my windows and tabs from last time"""
+The offline data list was removed without a replacement (tracking without knowing)
+security preferences like Network.enableIDN may be removed from Firefox without notice
+make firefox my default browser (version 53.0)
+"""Firefox is not currently set as your default browser"" even though it is"
+provide an option in Firefox to set unlimited size for sdd/ram/cpu cores cache for advance users(via configure file or performance ui section)
+Firefox wont remember it's my default browser
+browser.tabs.loadBookmarksInTabs setting should be an option in FF general options and not only in about:config
+changes to settings not saving
+"""browser.search.widget.inNavBar"" not working with config files"
+notification default policy in smartbar to avoid popup
+Firefox Freezes when opening about:preferences
+start up option 'show my windows and tabs from last time' combined with homepage
+Attempting to use an asterisk wildcard in an Exception dialog leads to an erroneous entry
+"""Clear All History"" prompt doesn't seem to align with the new Photon UI."
+"[Request] Add (per-site) exceptions to ""browser.display.use_document_fonts"" and ""intl.accept_languages"""
+List Site-Specific Preferences
+"Preferences should contain ""Customize"""
+Test for bug 1034043 fix that when selected some Applications tab actions don't stick in-content
+clear authenticated sessions automatically when browsing history or cookies are cleared
+Improve BCP 47 support in Languages preference dialog
+font selection preference should list langGroups in alphabetical order
+"make the ""show cookies..."" and ""show passwords..."" buttons be consistent"
+Save password denied sites  dialog needs cancel button
+"baseline of update date string and ""Installed on:"" should be same."
+"Cookie Manager: sort ""Cookie Sites"" should sort by Domain (TLD -> left, as labels, not strings, etc.)"
+use a combined dialog for managing cookies and cookie exceptions
+"Image manager should have an ""Add site"" button"
+"""Use Current Pages"" for home page has problem with URLs containing vertical bars (pipe character)"
+Allow searching/filtering in cookies exceptions dialog
+Exceptions subdialogs modify state of the world immediately
+make it clearer that whitelisted cookies aren't downgraded to session
+No socks user / pass fields (authentication)
+Need way to reset fonts to defaults
+"change Options panels on mousedown, don't wait for mouseup"
+"Download directory ""Desktop"" preference non-intuitive"
+"Cookie manager should have a sortable ""date"" column"
+Stop animations/applets
+"Password list is in alpha order, not sorted by domain name"
+visited links do not change color at all
+"about:config prefs not saved when FFox closed by logout, or shutdown"
+colorpickers in preferences are not lockable
+move ui.key.saveLink.shift from all.js to browser-prefs.js
+View Saved Form Information
+"Sort domain lists (cookies, exceptions, saved passwords, etc) in reverse DNS order (optionally?)"
+Flavor text for web page language selection UI ends in a preposition
+Overlaying the content pane in the new preferences dialog makes the pane unusable
+Support ignoring whitelisted sites when clearing cookies.
+animateFadeIn results in incorrect prefs dialog size on Windows
+fileField binding cuts off the most important part
+"Make Cancel the default button in ""Sanitize Firefox"" dialog"
+Support Revert for GNOME prefwindow
+adding domain to cookie blocking should clear the cookies
+"Add UI for the ""browser.tabs.loadBookmarksInBackground"" pref (select new tabs opened from bookmarks)"
+Sanitize doesn't clear per-session passwords
+Enable per-session permissions for javascript for regex url black/white lists
+Type a cookies exception url should allow autocompletion
+The download actions table should be alphabetically sorted by Extension on load
+Preference window size doesn't play well with em's
+"Rename ""Authenticated Sessions"" to something more understandable"
+"duplicated ""title"" attribute on prefwindow"
+Changing the Default Font can cause a sans-serif font to be used for Serif
+"""Always use my colors"" disables backgrounds"
+The folder ( / Desktop) icon in the download preferences pane should be a button which opens the downloads folder
+"In the save folder option of download, ""My Documents"" is displayed with path."
+Cookie Exceptions: no confirmation for Remove All Sites
+"UI pref to change anonymous ftp password (the default, mozilla@example.com, is rejected by ftp.mayo.edu)"
+No default value for font.name.fantasy.*
+No way to change the PDF helper application
+"Clear Private Data dialog needs a ""check all"" option"
+Download Actions missing a great number of extensions
+Language chooser dialogue box is awkward
+"Add ""Restore default settings"" button to Preferences window"
+browser.preferences.instantApply is not respected by certain dialogs
+Cookie and image exception dialogs take a long time to load when hostperm.1 is very large (~2MB)
+Manual proxy configuration does not reject URLs entered (as hostnames)
+Can't control/limit sound volume
+The Group bar Labels have the wrong background
+Cookie Exceptions Manager won't allow copy and pasting of specific addresses
+add 'block cookies from this site' context menu to cookieviewer
+"Clear private data dialog should have a separate option for ""Error Console"""
+"In the new preferences panel, the line of the beginning of the content is different in each panel"
+Printing Frames: Store preferred Frames printing option
+WPAD: automatic proxy config doesn't use FQDN in URL
+"toggling ""spell as you type"" option in preferences doesn't change the current  textarea spellchecking behaviour"
+Connection / Proxy  - change UI location
+about:config dragging scrollbar locks with Ctrl-A is pressed
+No proxy for: Override proxy settings
+Show cookies does not always display the correct cookie information
+Stuck dialog in Options->Content->File Type->Manage
+Better UI/options for people who want to downgrade most cookies to session cookies but allow some to persist
+"""Minimum font size"" selector not always updated when ""Fonts for"" selector changed"
+No way to add content types in Tools¡úOptions¡úApplications
+"Prefill ""Address of web site"" in cookie exceptions"
+Clear Private Data dialog doesn't always reset checkboxes
+"""Firefox Updated"" page incorrectly displayed on restore"
+[cookieviewer] add httponly and creation time fields
+Expired cookie not removed from Cookie Manager when it's open
+Add color profile support pref to content dialog
+Make modifiers for content accesskeys configurable through UI
+feeds list in prefs panel is not grayed out by default
+scroll bar hides ellipsis from long urls in home page preference autocomplete results
+"when offline, there are no icons in the feed preferences pane"
+Advanced prefpane tabs can be cropped due to the WIDTH being too small
+Tabs prefpane cuts off text if text wraps and animateFadeIn is set to true
+Use of CTRL-A to select all in Cookie Manager
+"""days"" word is mis-aligned (vertically) in the history preference pane"
+Clear Private Data box moves up and down when checking/unchecking boxes
+No consistency in dialog vs sheet usage in Preference panes
+"""cookie"" window not updated when a cookie is deleted"
+Security prefpane Warning Messages Settings button's height is greater than normal
+[Mac OS X] Prefwindow extends when going from Tab pane to App pane
+"preferences.xul should always open on ""main"" tab"
+use rich style autocomplete for autocomplete in home page pref UI
+"icon for ""secure"" cookies should be different from icon for normal cookies"
+"In Windows Classic mode, Browse¡­ button in Main pref pane is stretched vertically"
+touchpad scrolling still moves back/forward in history
+Make the default HTML font size be dependent on the default UI font size
+Can't change the application used to launch a document type
+"""View Certificates"", ""Revocation Lists"", ""Validation"" and ""Security Devices"" buttons in ""Encryption"" pane need ellipses"
+"Missing sort indicator in Exceptions (pop-ups, images, cookies, add-ons installation, remembered passwords)"
+"Add string ""webapps session and persistent storage"" to cookies management in preferences"
+"""Check Now"" reports back that Minefield is already the default browser when it's not"
+Software Update suggests a hard-coded URL for a manual install
+Ok button in application details doesn't set selected handler
+"handlers.[css,xml] should just be preferences.[css,xml]"
+Large number of cookies come in and the active dialog does not always have the focus
+The Cookie LEARN option cannot be stopped at once and begs many times until website stops setting cookies
+"When Firefox is already running, running firefox.exe again should respect the setting of browser.link.open_external"
+"Password ""exceptions"" window has no close button"
+"settingsChange.dtd should refer to Applications panel, not Applications tab"
+improve third party cookie blocking UI
+"Option ""Warn me when web sites try to redirect or reload the page"" does not work correctly. Does not handle more frames."
+Column width mistake in Application prefpane's columns header and data list
+Options > Applications - opened action list overlays page on scroll
+"Add preference UI for ""always save this session"", harmonize quitting/exiting options"
+Methods for disabling capability.policy.localfilelinks.checkloaduri inadequate
+No information bar appear in http://www.campd.org/stuff/tests/offline/offline1.html
+"Columns ""Content type"" and ""Action"" in dialog ""Tools""/""Options or Preferences""/""Applications"" are not resizable."
+need to be able to restrict access to the Options menu (via Windows Group Policy)
+user.js or similar should allow more general Javascript like autoconfig
+Be nice to warn when session restore option conflicts with remove private data
+Bad wording for Refresh/redirect setting in the Options
+[Proposal] reorganize Save Session - Warn on Close/Quit system
+Connection: hide arrows (hidespinbuttons) for port number
+Spell checker: Faster way to switch the language
+Add ability to remove a content type in Tools > Options > Applications
+XML tree view folding doesn't work if JavaScript is disabled
+"""Warn me when sites try to redirect..."" should distinguish between same or differing domains"
+Don't allow setting UTF-16 as the default character encoding
+setting default font size on main content prefs page should apply to all encodings
+browser.tabs.loadInBackground and browser.tabs.loadBookmarksInBackground could be one pref
+"Implement frontend: ""Adaptive content filter"" of third party tracking"
+"Firefox ""Applications"" preference pane is really slow to load; does 2x the work it realy needs to; blocks UI thread on disk access"
+Privacy Options are very confusing
+Privacy Options have different names and or accesskeys
+Move official Mozilla URLs into other-licenses
+When adding multiple homepages suggestion list doesn't come up
+"Exceptions for ""Clean History when Minefield closes"""
+"""middlemouse.scrollbarPosition"" true by default"
+no horizontal scrollbar on about:config page
+permissions are not remembered for local files
+The original down arrow of port spin button in network settings should be gray
+"No warning about contradictory ""Clear history"" and ""Show my windows/tabs from last time"" options when quitting or restarting"
+Some reorganization needed in the General tab on the Preferences dialog.
+Applications tab in the options menu sometimes hangs Firefox for 10 seconds while populating the list
+Remove Cookies button is not cleared when cookie list is cleared
+Tools->Options->Privacy Settings appear to not be saving
+broswer_privacypane_* tests cause lots of XPConnect assertions
+"Allow links from external applications to not replace open tabs, when Firefox is set to block target=_blank pop-ups"
+Network > Clear Now button does not clear cache if cache size is set to 0
+The user should be notified of a corrupt prefs.js file (some prefs were lost)
+Cookie exceptions applied when hidden from preferences window
+"""Always show tab bar"" pref is ignored after restart"
+"[Update History] ""Installed on"" should be ""Downloaded on"" when update in downloaded but installled"
+Cookie viewer does not update when individual cookies are deleted
+Offline data field does not live-update when clearing data from CRH dialog
+"Password manager idea, provide single password to view all"
+General PrefPane doesnt scale on 3.7 alpha 1 preview build
+Allow more granular control of which resources Firefox becomes the default for
+"Proxy settings panel doesn't show user_pref(""network.proxy.type"", 4); correctly"
+Improve web protocol handler applications prefpane
+"Switch order of ""Accept 3rd party cookies"" and ""Keep until ..."" for cookies preferences"
+Remove [Remove All Sites] from Exceptions - Cookies
+add UI for strict-transport-security
+Default sans-serif font for Cyrillic language should be changed on MacOS X
+"Clear Recent History should have more options (10 minutes, 20 minutes and similar, or an input)"
+Option to reset colors to defaults in UI
+add ability to use panorama as home page
+JavaScript-Preferences checkboxes change state due to hovering from inactive to active display view
+Some tabs are blank with JS error if navigate Preferences tabs quickly
+Custom History Settings Will Not Stick
+Let me confirm/pref HTML5 storage for sites
+"add Drag and Drop Support to ""Languages Preference"" Dialog UI"
+"Unable to access most history options when ""Use custom settings"" is selected without opening combo box"
+Unbalanced margins in the icon tab switcher thing
+on Font Selection Page - selecting option to allow sites to override font selection also overrides size; this is wrong
+browser.shell.checkDefaultBrowser = False for not stable versions
+Font sizes in preference/options dialogs do not indicate what units they use
+"Buttons are mis-aligned in ""Allowed Sites - Pop-ups"" window"
+about:config dialogs for setting pref values should not use window title bar for modify_title
+Location Bar Setting goes completely blank.
+Limiting browser network bandwidth usage dynamically
+preferences/main.dtd:useMultiple needs its own accesskey
+Add Sorani Kurdish (ckb) to the Accept-Language selection menu
+Should be an option to open only app tabs on start up
+clicking home button repeatedly duplicates home tabs
+"Update channel setting not available from the preferences dialog ""Update"" page"
+Page permissions should offer a 'Disable page styles' preference
+unexptected favicon connection to Web when open Preferences/Applications
+Create comprehensive tests for visibility/selection of permission menuitems
+"Download in the channel switcher is restarted after pressing the ""Change"" button although branch is not changed"
+Aurora branding after channel switched to Beta in the Dock and Finder
+Closing and reopening the about window while applying the channel change (download in progress) hangs the download
+Enhancement - Make new Javascript annoyance stoppable
+Add an item in preferences window to allow user to decide to prevent autoplay for video/audio content
+Preferences Privacy History popup displays incorrect status
+"Provide option for ignoring ?target=""_blank""?"
+Should add 'apply' in Option-Content-( Font & Color )
+"Firefox ""move up"" button for languages does not move language as expected"
+Option to disable DNS caching in settings
+"No ""clear recent history"" link in Preferences when ""Use custom settings for history"" is selected"
+"preferences window on mac is not resizable, cutting off content"
+Cache usage message disappears on Windows after the cache is cleared
+merge Latin varieties into one
+Double-clicking empty space in about:config tree should not twiddle pref
+Allowing only first-party cookies from a whitelist is not possible
+"""Don't load tabs until selected"" checkbox is worded negatively"
+Clearing site preferences shouldn't clear cookie exceptions
+The Ask dialog is displayed with remember option checked when Use Okular is selected for pdf files
+"""Don't load tabs until selected"" feature for manual ""Restore previous session"""
+now overly difficult to find a button to check for updates
+Submit performance data not showing properly in bn-IN Firefox
+The font preferences UI is misleading
+"""Use hardware acceleration when available"" does not say what is being accelerated"
+"On update, check for stale Google Toolbar preferences and undo the damage if needed"
+Allow preference changes to be reverted or reset to default during some time duration after making a change
+Cached Web Content does not display how much space is currently being used
+Add link to MDN preference reference to about:config
+Sort cookies/exceptions by date
+Interaction redesign for in-content Preferences
+"Preferences window immediately goes blank, redraws after switching back from another window"
+When accessing preferences through the about:home icon it should default to 'general' section
+"""Show a blank page"" text in the ""When Firefox starts"" dropdown should instead use the wording bug 743613 implements."
+Privacy settings not changed when set
+"IndexedDB ignores ""remember cookies for session only"" - there is no alternate preferences option."
+"The meaning of ""Allow First Party Only"" is unclear"
+"Add a visible preference to disable ""Close other tabs"" prompt"
+preferences checkboxes react to clicks incorrectly

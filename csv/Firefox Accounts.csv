@@ -1,0 +1,23 @@
+×Ö¶Î1_ÎÄ±¾
+Common BrowserID module needs tests
+Implement nsIFxAccountsUIGlue in desktop
+No 'log out' button after changing password by link in Firefox Nightly
+Expose user's data choices to trusted web content
+Manually visiting accounts.firefox.com may show your AMO account rather than your Sync account
+FxA 'Mistyped email?' link is broken
+FxAccounts doesn't react correctly to mismatched version string in credentials storage.
+Add server backoff support to FxAccountsProfileClient.jsm
+Diagnose and respond to situations where the keyFetchToken is missing
+Using FxA in browser tests requires a stub hawk server
+Refactor FxAccounts to better reflect client states
+Better handling of retryAfter in FxAccountsClient
+[meta][FXA-54] Push Notifications for Account Status Changes
+"Setting ""identity.fxaccounts.remote.webchannel.uri"" to an empty string causes Sync logins to silently fail"
+"The ""manage account"" link should always open in a non-private window"
+How should Firefox Accounts behave in a container tab?
+"The Sync ""Manage Account"" link doesn't work properly with First-Party Isolation"
+Move email verification polling code into separate module
+FxAccountsOAuthClient should call onComplete if the web flow tab closes
+Failure signing in to Firefox accounts when using the gnome-keyring-integration addon
+First sync after creating a new account always creates an error log
+delete leftover unwrapBkey from verified FxA accounts

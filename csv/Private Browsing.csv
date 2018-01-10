@@ -1,0 +1,185 @@
+×Ö¶Î1
+Better cookie management required
+Onion routing built-in
+"When launching FF in permanent private browsing mode (with the -private option), only the initial window has the indicator that it's private."
+Second Tab Ignored When Using --private-window From The CLI
+private browsing mode causes all cookies to disappear in certain situation
+"Private browsing indicator not shown when startup with ""-private"" command line switch"
+Show all tabs doesn't work in permanent private mode
+"Private Browsing - Click on Icon of ""Open new window"" should open another Private window"
+"No quit warning or multiple tab quit warning in Private Browsing Mode, even with about:config options set True"
+lost open tabs when moving from 'private browsing' to normal browsing mode
+location bar is cleared after a slight delay after opening private window
+open a new Private Window from a Private Window and you have Cookies from the first one
+The hover animation is not performed on the door hanger More information button
+want to delete cookies by hand from a directory
+partly retains history in Private Session
+"Amazon.ca ""Related to Items You've Viewed"" logs items when using ""Private Browsing"""
+Cache in storage/temporary is not deleted never and it is saved also in private browsing
+"""Forget"" icon still operational in Private Window, creating potential for user confusion"
+Opening private windows is broken after running firefox -private
+Bookmarks created in Private Browsing are missing favicon
+"Wrong ""last-pb-context-exited"" notification in some cases (one for child process and one for global process?)"
+Sites browsed in private tabs retain history and show up in new tab highlights
+Private window not clearing session on close
+Provide option for about:privatebrowsing to show blank page like about:newtab
+Current private window design causes all content to twitch when I toggle tracking protection
+"tell us tracking protection may work as ad blocker, blocking some content"
+"When both privacy.clearOnShutdown.openWindows and privacy.sanitize.sanitizeOnShutdown are set to true, Firefox will launch 2 windows in all subsequent launches."
+(Private Browsing) [meta] Prevent websites from detecting private browsing
+Cannot view or delete cookies in private mode
+Opening a private window opens a normal window instead if initial -private (opened via command line) window was closed
+Firefox in Private Browsing Mode deletes downloaded files upon exit
+"blank Private browsing tab splash does not list touch keyboard input under ""does not save"""
+PBM carries forced-cached PNGs over
+hasRootDomain method may return incorrect value
+Enable private browsing support for all of the Mozilla-based applications
+"Add ""since Firefox was opened"" to clear recent history timeframe dropdown"
+Exception thrown while changing into Private Browsing mode [PBS__onAfterPrivateBrowsingModeChange]
+"Switching to ""Remember history"" while in PB mode does not remove (Private Browsing) next to URLs"
+"Clarify the ""Today"" duration in the clear recent history dialog"
+setPageAnnotation should not fail silently in private browsing mode
+Simultaneously in and not in private browsing mode
+Use a dark theme for private browsing
+Holding down Cmd/Ctrl+Shift+P for a couple of seconds will stop Private Browsing mode transistions (Error: this._privateBrowsingService is null)
+"Disable clearing ""Browsing & Download History"" when parental controls are enabled"
+Servers should be able to suggest private browsing
+Closing browser while in private browsering does not return to homepage on restart
+"When in private browsing, we should save the zoom level as page specific in memory"
+Notify user when non-compatible version of Flash is used w/Private Browsing
+"Clicking the Windows 7 taskbar menu item ""enter private browsing"" affects the default installation instead of the current installation"
+Improve private browsing mode's entry text
+"When items are getting added to the listbox of the Clear Recent History dialog, scrollbars are always shown"
+Clear private data between a date range
+[adbe 2834581] Per-site clearing of Flash Player LSOs should get hooked up to the privacy pane
+Videos cannot be played in netflix.com when private browsing mode is active
+Firefox updates bookmarks favicons while In Private Browsing.
+"Firefox should not disable ""Stop Private Browsing"" when user disables remembering history"
+First-time Private Browsing warning/info messagebox is a security vulnerability
+"""Never remember history"" activates private browsing mode without telling user"
+50% memory spike upon exiting private browsing mode
+Switching to Private browsing hangs my browser for minutes
+Provide a way to disable private browsing
+Detect when an add-on attempts to access cookies in private browsing mode
+"Determine how to handle private browsing when the Windows 8 ""family mode"" is turned on"
+Active File Download + Switch to Private Browsing = the download is paused and no warning issued!
+"Opening a ""open-in-sidebar"" bookmark in private mode also opens the website after restarting Firefox in normal mode."
+"After cancelling Private Browsing, download progress in Windows 7 taskbar remains"
+Per window private browsing observer dnw after using nsIPrivateBrowsingService
+Remove nsIPrivacyTransitionObserver
+Tracking bug for porting global private browsing tests to per-window private browsing tests
+Port test_prompt.html to the new per-window PB APIs
+offline data domain is listed in non-private window
+Cannot see cookies stored in private window with using cookie viewer
+Support Chrome's shortcut for Private Browsing
+The Add-ons Manager and the Downloads View can be opened in several tabs
+[UX] Private browsing icon should show explanation on hover and click
+Exception: xhr.channel is null when forcing a channel into private mode
+Source page remains active when Private Browsing is closed
+URL loads overriden by about:privatebrowsing in private browsing windows
+"session only restored once during PB mode, session loss"
+File menu should be more consistent for private sessions (permanent & not)
+Option to change home page in Private Browsing mode
+Make cookie viewer use the private database when in perma PB mode
+Firefox's -help output does not list -private-window
+An ETag set outside of private browsing mode will be sent in private browsing mode and vice versa
+"Private mode does not clear the ""open file"" directory path after finished session."
+Address bar not focused when opening private window with browser.newtab.url set
+browser_privatebrowsing_localStorage.js causes session store tests to hang on debug linux 64 unittests while run on ec2
+"browser_bug816527.js always passes when run in isolation, even if breaking the code that it's testing"
+Should have a test that switch-to-tab entries for private tabs never appear in the location bar's autocomplete in public windows and vice versa
+Breakdown:  Implement dark theme for private browsing
+Private Browsing and crtl+N
+Firefox remembers full screen mode even when using private browsing
+Foot mark used instead of apostrophe on: You're browsing privately
+"launching ""firefox -private"" if firefox is already launched modifies the behavior of ""-new-tab"" and ""-private-window"" command line flags"
+Automatically enable private browsing mode or prompt
+Displaying private windows names in the task bar can cause privacy leaks
+Add option to warn on closing Private Window with multiple tabs
+"Clicking ""Open a new browser tab"" on a private window in the Microsoft Windows task bar opens a non-private window"
+Private browsing windows on Windows are difficult to distinguish in Firefox Developer Edition
+Private browsing not working on some computers
+"""WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead"" from browser.js"
+Add automated test for creating bookmarks in private browsing
+Add automated test for installing add-ons in private browsing
+Add automated test for browsing in private browsing mode
+PrivateBrowsingUtils.isWindowPrivate deprecation warning should only be shown once per caller
+Add test for opening private window from about:privatebrowsing
+"""forget"" button doesn't clear session cookie (with always use private browsing mode on)"
+Private browsing sending cookies from non-private contexts
+"Collect UITelemetry on how many users use Private Browsing, and how often."
+Downloads in Private Window are canceled if about:downloads is open and you close the last tab
+[Change Request] Design of the Tracking protection section in new private window
+[Meta] Fx42.0 Services and Platform Sec Beta 1 Blockers
+[List Creation] Ensure that generated chunks are always < 1 MB
+Decide Between A and B Block Lists
+[Meta] Fx42.0 Services and Platform Sec GA Blockers
+Consider adding a no-pagefile mode to be used by Tor
+HSTS data from normal mode is not used for requests to a site in private mode
+"'Block plugin' button is absent in Private Mode, and plugins settings be passed to normal mode"
+browser_save_link-perwindowpb.js fails 25% in multi core docker containers and doesn't in single core
+Add a Private Browsing Window tooltip to mask on private browsing window
+Can't clear cookies in private mode
+Blank New Private Window in Firefox Developer Edition
+Private Browsing is allowed in Child Mode
+"Add ability to disable ""Forget"" button"
+Never remember history option should notify the user that previous history won't be removed
+Figure out why the nsDocShell::CopyFavicon assert fails and fix it
+Interaction of Clear Recent History dialog and the private browsing mode
+Pref for fingerprinting resistance in private browsing mode
+Private browsing mode warning doesn't mention that newly-installed client certificates are not cleared when exiting private browsing mode
+consider running unittests on browser in private browsing mode
+Clear Recent History doesn't provide feedback when one of the items fails to clear
+"Clear Recent History should clear Certificate Exceptions when ""Site Specific Settings"" is checked"
+Intermittent browser_privatebrowsing_beforeunload_exit.js or browser_privatebrowsing_beforeunload_enter.js | application timed out after 330 seconds with no output (must wait for focus)
+"Intermittent TEST-UNEXPECTED-FAIL | chrome://mochitests/content/browser/browser/components/tabview/test/browser_tabview_privatebrowsing_perwindowpb.js | verify normal 1: correct URL - Got about:home, expected about:blank"
+Intermittent test_hiddenPrivateWindow.xul | application terminated with exit code 3221225477 | application crashed [unknown top frame]
+Intermittent unknown test url | uncaught exception - ReferenceError: info is not defined at chrome://mochitests/content/browser/browser/base/content/test/general/browser_save_private_link_perwindowpb.js:21
+Intermittent toolkit/components/url-classifier/tests/mochitest/test_classified_annotations.html | Test timed out.
+Print preview doesn't honor Private Browsing Mode and writes to /tmp
+Intermittent test_privatebrowsing_trackingprotection.html | Test timed out.
+Intermittent browser_privatebrowsing_lastpbcontextexited.js | Found an unexpected browser window at the end of test run
+Intermittent browser_privatebrowsing_protocolhandler.js | application timed out after 330 seconds with no output
+Intermittent browser_bug763468_perwindowpb.js | application timed out after 330 seconds with no output
+Intermittent browser_save_private_link_perwindowpb.js | Test timed out - | Found a browser window after previous test timed out -
+Intermittent browser_privatebrowsing_placesTitleNoUpdate.js | application timed out after 330 seconds with no output
+"Intermittent browser/components/privatebrowsing/test/browser/browser_privatebrowsing_favicon.js | The favicon image should be loaded through network. - Got http-on-examine-cached-response, expected http-on-examine-response"
+remove the IsInPrivateBrowsing boolean from the GetFavicon related code in DocShell
+TypeError: gURLBar is null
+"about:privatebrowsing should mentiong that sync will still run, and sync bookmarks/passwords/etc"
+Intermittent dom/html/test/browser_bug1108547.js | leaked 2 window(s) until shutdown [url = about:privatebrowsing]
+Intermittent browser_privatebrowsing_newtab_from_popup.js | Test timed out
+Provide an option for first-party isolation in Private Browsing Mode
+"Location Access Prompts are too spammy in Private Browsing Mode (because there's no ""remember"" checkbox)"
+Firefox could automatically switch to e.g. Duckduckgo whenever the user is in incognito mode
+Cancelled Downloads in Private Browsing will delete files of the same name on exit
+Allow choosing different Tracking Protection Block List for normal and Private windows
+[meta] Private Browsing: Clarify explanatory text
+Should we clear the DNS cache when leaving the private browsing mode?
+Disable Private Browsing mode when parental controls are enabled
+Add a pref to allow only secure connections
+Remove ¡°clear all current history¡± link from Options/Preferences when in Private Browsing mode
+Intermittent e10s browser_privatebrowsing_certexceptionsui.js | Test timed out - expected PASS
+Firefox account is not automatically logged in after resetting the password in private window
+"Private browsing: slider is animated when I switch to background tab, if I toggled tracking protection"
+Intermittent browser/components/privatebrowsing/test/browser/browser_privatebrowsing_zoomrestore.js | application crashed [@ mozilla::`anonymous namespace'::RunWatchdog]
+Intermittent TEST-UNEXPECTED-TIMEOUT | browser/components/privatebrowsing/test/browser/browser_privatebrowsing_zoomrestore.js | application timed out after 330 seconds with no output
+Entering Private Browsing Mode flips between several values in the location bar
+Leaving Private Browsing mode should not show again security exception for temporarily accepted certificates
+Page Shows up in Print History
+Reenable private browsing notification xpcshell tests
+Go button does not appear in location bar immediately after opening Private Browsing
+Add automated test for customizing the browser in private browsing
+Read the sessionstore data from the disk instead of keeping it in memory when saving the session for private browsing mode
+Add a preference to disable plugins inside the private browsing mode
+Add more automated tests for private browsing mode
+Clarify private browsing threat model via text displayed to user
+"Accidental quit forces permanent private browsing mode, loses session"
+Restraining Add-on's behavior in Private Browsing Mode
+Allow blocking pop-ups in private windows without touching the permission manager
+[Meta] Services and Platform Sec A/B Testing Blockers
+Reuse more classes/styles/variables from info-pages.css stylesheet for about:privatebrowsing
+Intermittent test_localStorageQuotaPrivateBrowsing_perwindowpb.html | application timed out after 330 seconds with no output
+"Intermittent TEST-UNEXPECTED-FAIL | chrome://mochitests/content/browser/browser/components/privatebrowsing/test/browser/browser_privatebrowsing_zoomrestore.js | Zoom level for about:privatebrowsing should be reset - Got 1.100000023841858, expected 1"
+"[meta] Clarify distinctions between ""Never remember history"", ""Always use Private Browsing"", and Private Browsing Mode"
+"Intermittent browser_privatebrowsing_cookieacceptdialog.js, browser_privatebrowsing_crh.js | Found an unexpected browser window at the end of test run"

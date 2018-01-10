@@ -1,0 +1,302 @@
+×Ö¶Î1_ÎÄ±¾
+downloader not actually downloading zero size file
+"[10.5] Firefox attempts download to invalid folder on Leopard, fails"
+problem in firefox download manager
+"no question ""overwrite file"" when saving files, which are identical"
+add better indication of resumed downloads after browser (re)start
+Use common code to monitor download progress in both taskbar and DownloadsUI
+Show URI of files being downloaded
+Download Manager: Provide a pre-warning if there is no enough disk space in the target location to complete an intended file download
+double clicking downloading item doesn't pause the download
+The number of hidden downloads is wrong in DownloadsFooter description
+"Make ""Downloads"" list more compact"
+Request for about:config pref for downloads in a tab (non-private-mode)
+Endless consumption of all download bandwidth
+displaying download location when opening containing folder or when hovering
+download box title missing
+"Files won't open when set to ""open with"" instead of saving, will open when double clicked from download library"
+"When using multiple profiles, downloads are presented as FAILED, even when they are downloading fine"
+"""Display progress of ongoing downloads"" dropdown list no longer works"
+delete in download list fails to update
+Different remaining download times listed in the download panel
+Incorporate Download Statusbar functionality into main program.
+Gmail:121-when we click on Login button application crashes
+MTP devices (Nexus 5) do not allow direct copying from Firefox Downloads
+Download history information is incorrect
+ETA in download icon shows weird numbers
+Downloads calculates all downloads in download history
+downloads management needs more robust interface
+Download manager: Some files are not highlighted upon selection
+"Download failed a while ago, now I get error while trying to download it again."
+download dialog stay above all windows after drag and drop
+Feature Request: Play sound when download completes
+"download panel, shortcut to the containing folder"
+Downloads button keeps attention flag after DownloadList.removeFinished() is called
+Storing a download on a network share results in slow download and corrupted data
+Downloads icon displays start animation when loading a page
+Context menu in Downloads Panel is lacking an option to copy the path to the downloaded file.
+Size of downloaded file appears to be 17179869184 GB while actual file is corrupted
+Open downloaded .po translation file in default app
+Downloaded JAR files are saved with the extension .jar.zip
+Downloads never finish
+after improper shutdown firefox deletes completed download
+firefox is misbehaving by deleting downloaded files
+Download panel not disappearing after drag&drop a file in Ubuntu Linux
+Uncaught exception in DownloadIntegration.jsm when disk space is entirely full
+Download panel not anchored to the downloads button.
+Download time remaining indicators are not in sync
+"""download list"" window gets stuck, need reopen to see real status"
+Warning when downloading executable file over HTTP
+"If I download a file, and click firefox's download manager the entire PC freezes for 30s or so"
+"Tooltip on the ""remaining time details""[download] should be either dynamic or removed"
+Clearing history and downloads cancels downloads which are in progress
+Wrong default app in downloads list
+"""Clear Downloads"" may delete .part files of active downloads"
+gBrowser progress listener's onSecurityChange doesnt trigger for a downloadable URL
+Download manager shows wrong source server
+Unknown content type dialog should show url of page initiating download (not just the download's domain)
+make it easier to reload old downloads from the Library
+Icons for certain file types do not show under Options > Applications and in Downloads Library
+Making more entries in the download window selectable
+Library window's taskbar button should also show download progress
+Downloads panel should only display overflow info on n+1 downloads
+On Linux any downloaded file cannot open with alternate download location
+Showing a download notification only after a certain timespan
+Download spinner is not animated
+Download panel don't respond when click frequently
+automatically open the download hanger when a download starts
+"When downloading a malware file, Firefox can only to open this file (not save without opening)"
+Download Manager Tweak add-on empty even when there are files being downloaded.
+Change the visual animation for the download when the file size/time remaining is unknown
+Can't clear downloads with keyboard shortcut
+Port the basic functionality test for the downloads panel to per-window PB mode
+cancel button should be aligned with progress bar in Downloads panel
+download prompt should disappear when the page redirects (via JS Timer) (possible to make a download look like it's from a trusted site)
+"time remaining calculation for multiple file download, being overestimated."
+Improve time left indication
+Theming and visual design
+Port relevant code from the Downloads window
+Handle target files that are removed from disk
+Improve accessibility and keyboard interaction
+Add command to open the Downloads folder.
+Warn if there are downloads in progress at Firefox exit when Downloads Panel is used
+Tooltip covers part of the download list
+"Open Containing Folder asks me to ""Choose an Application"" in the downloads popup"
+"Downloads panel needs ""queue to open when complete"" behaviour"
+Always show hand cursor when new download panel is open
+There is no notice/feedback/warning when a program/application is started upon clicking a downloaded file
+Closing panel with keyboard doesn't restore focus to content
+Panel-specific issues shown by the Downloads Panel
+"In the downloads panel, Alt+S for Show All Downloads opens the History menu on Unity desktops"
+Black or white square is displayed when downloading pdf files
+open containing folder icon remains lit when mouse button is pressed and cursor exits icon area
+[downloads panel] deal with dragged items
+"Hide or disable the ""open containing folder"" button when the file is not available"
+Download panel icon can become unresponsive
+"New ""expanding"" download button."
+Announce the open file in focus action to screen readers
+Progress bar in download panel icon doesn't follow system color scheme on Linux
+Replace repetitive element getters with something cleaner.
+DownloadsCommon.getSummary() doesn't memoize properly
+Platform issues affecting the downloads panel
+Removing history for a download removes any other kind of history
+"In download views, use async I/O for retrieving data about the target and part files of downloads"
+"Clicking ""Show all downloads"" can cause main-thread IO while loading icons"
+History downloads lack referrer support
+Find the right threshold to switch Library downloads from short date to full date
+"use emptytext in the view, once available"
+Sometimes the same downloaded file may show different sizes in the library
+The Download Finished Notification blinks twice if the download indicator is clicked
+Support dragging of multiple elements from the downloads view
+Trivial polish bugs for Downloads panel feature release
+The downloads panel  jumps around when previewing or applying background themes
+For the first download - the complete download notification is displayed behind the downloads panel
+"Contextual option ""Go to Download Page"" is disabled after restarting Firefox"
+"Figure out use-cases of the retention preference, and support them in the new downloads experience"
+Starting downloads animation is sometimes janky
+about:downloads should have a recognizable favicon
+Private and non private downloads shown in the same Library window
+Downloads panel hangs Firefox indefinitely with 96% CPU usage after clicking on a downloaded file
+The domain for a saved download is different before and after closing Firefox
+Can't open multiple selected files at once in the new download manager (v20.0)
+Download complete animation disappears behind window titlebar
+The Downloads button's position is changed after uninstalling Yandex
+The Downloads view in the Library should handle target files that are removed from disk
+Clearing downloads list while in private browsing mistakenly clears about:downloads entries
+Allow keyboard activation of the Downloads Panel
+Downloads Panel flickers position when activated for the first time
+Secondary text in the downloads panel doesn't have sub-pixel anti-aliasing
+Downloads library doesn't display correct file icon for EXE file types
+"Add an option to automatically open ""about:downloads"" when a download starts"
+DPV_onDragStart calls nsIFile::exists()
+shortcut ctrl-j doesn't close the download-window anymore (behaves differently recently)
+"Ongoing/active/current downloads should always appear first in the download manager, and finished/completed/done below"
+Download notification covers up the downloads panel
+Show All Downloads pop-up has text margin/padding inconsistencies following its position in the toolbar
+handling non-HTTP stream
+Download button in toolbar causes high CPU usage during downloads
+"Populate ""Where from"" field of downloaded files, like Safari does, on OS X."
+Active downloads sometimes don't appear in the download panel
+Have download progress in Finder
+[Downloads.jsm] Only some of the downloads are displayed in the library after restart
+[Downloads.jsm] There is no notification when internet connection is disabled while downloads are in progress
+crash in libc-2.15.so@0x37bd5: Firefox consistently crashes after finishing file downloads
+"Clicking on an in-progress download should activate a ""launch when succeeded"" setting for the download"
+"Investigate eliminating the overlay adding a stack, and only add a progressmeter to the downloads button when required"
+"""Downloads"" search box doesn't search metadata"
+It is displayed 2 entries in a downloading panel when download at first time
+"After drag&drop a downloaded item from Download Manager to another folder, open containing folder functionality is not working"
+Panel doesn't open after a while if you quickly click on it several times
+Pressing the download panel button while the downloads panel is visible doesn't hide it
+The download size reported by Firefox is much smaller than the actual size on the disk when download size is not known initially.
+"Investigate when ""+N other downloads"" should be shown instead of ""Show all downloads"""
+download icon is stays silver when downloading
+Pasting a download link into the download manager sometimes fails.
+Download fails silently if previous download path has disappeared
+Pause and resume a large (4gb) download fails
+Downloads panel polish
+"Save as ""Web Page, complete"", when a secondary file (image/ad) is not accessible ¡ú ""failed"" download w/o explanation"
+Incorrect downloaded /  total download size shown when downloading multiple files
+"If 'Save Page As... Web Page, complete' fails due to overlong path, no active notification after first download"
+"If no download entry exits,  ""No items"" should be indicated in Download in Library"
+enlargement sign by safe window
+Find a better solution for the downloads dialog
+Show downloads notification in panel when the downloads button is in a panel and that panel is open
+[UX] Design - Ongoing downloads should always appear first in the download manager
+Implement platform neutral highlight and pressed states in the download panel
+Download progress window is not showed when tool bar button is clicked
+Firefox on Linux warns about downloaded files being executable even when opening them with helper apps
+[Linux] Download Panel is not opening after download button is being clicked in a rapid succession.
+Downloads indicator and panel progress bars should be blue to match new glow assets
+"Firefox 29 deletes .part files when i press ""clear downloads"""
+"When the Downloads button is not in the  AREA_NAVBAR, download the file generates errors"
+Download dialog box doesn't show size for archive files
+"Download exact same file 2x, size is different according to download panel."
+Implement downloads panel subview in main menu
+multiple sizeless downloads cause download arrow icon to prematurely show green
+[UX] Design:  Download-in-progress is non obvious when server gives no content-length
+Download size reported by Firefox is much smaller than actual size on disk
+Remaining download time differs between the download button and the actual download entry in the panel
+downloads panel should have an option to copy the filename of the downloaded file
+Removing several downloads from history results in the misplacement of the downloads pane
+Drag and dropping an ongoing download from the Download Manager results in the creation of a 0 bytes clone
+'Open Containing Folder' option is displayed for a canceled download
+Improve 'Clear downloads' option behavior for active downloads
+Downloads that are dragged and dropped into the downloads icon are having the 'Pause' contextual menu disabled
+The Downloads Indicator may stay highlighted after all the downloads are deleted from downloads tab or manger.
+[userstory] Implement new Downloads Panel item state for items that can be unblocked
+"""Open Containing Folder"" icon displayed in the Library even if the download has been moved to another folder"
+"Create a ""UI showcase"" page for the Downloads Panel items"
+requesting Tools..Downloads with in-progress (ftp?) d/l locks up Firefox Nightly
+Use the origin of the blob in the download panel/window and not just 'blob'.
+Investigate better representing a previously blocked Download which had unblock() called.
+[UX] Improve user flow and UI for file downloads
+Open containing folder not working on paused downloads.
+Inconsistency when restarting Firefox while a download is active.
+"An active download is not canceled after restart even if the ""Cancel download"" button was selected"
+Download history not cleared on exit when downloads are in progress
+Malicious files are successfully downloaded through a download area using SSL enabled protocol.
+"Firefox malware blocking has too few information, it's an enigma to people wanting to know why"
+Question mark before file extension causes wrong icon to be displayed in the downloads panel
+Downloads Panel and Downloads Section of Library are Sometimes Inconsistent
+Drag & drop onto 'downloads' button on tabbar should start download in the window where the button is placed
+Opening PDFs from Firefox's download panel should open the PDF within Firefox
+about:downloads does not show progress if downloads panel is removed from the toolbar
+'Clear Downloads' and 'Retry' options cause downloaded data loss in certain conditions [ALWAYS]
+Save Web Page As... (complete) saves sub-resources but not main page
+More precise text for installing addons
+Behavior of the tooltip of the remaining download time of an addon isn't accurate
+toolbar not updating on firefox version 41.0.1 after the Download Complete Transition Occurs on the Blue  Downloads Tool Button
+Artifact on the downloads panel if the panel is opened during download
+Download animation cruft on slow machine
+HTMLElement.click() spam download dialogue (DoS)
+Indicate 4xx status code <a download> targets in the download manager
+Add a HiDPI icon for the summary in the Downloads Panel on Windows and Linux
+downloading files & cpu utilisation
+Downloads panel appears above other windows even if Firefox window is in background
+No warning when downloads are blocked in Child Mode
+Re-imagining about:downloads.
+Firefox should attempt to retry failed downloads a few times before stopping
+"'Allow Download' to access blocked file needs better string, implies user has to download again"
+[meta] Firefox Download Panel UX Redesign
+Download indicator is gone in overflow menu
+"firefox ""Download"" bug  , ""Delete files stealthily"""
+NVDA doesn't focus the downloads list
+Download list not focused when Downloads is opened
+Downloads Panel jumps with Download Statusbar
+Pop out download starting notification when a new download request is triggered.
+[linux] Washed out download protection icons
+[Telemetry User Story] Download Behavior
+[Telemetry User Story] Download Dialogue
+Intermittent browser/components/downloads/test/browser/browser_downloads_panel_block.js | Test timed out -
+Remove file icon from download list for missing files in download library
+browser.xul leak through downloads/content/indicator.js
+"Intermittent failure: browser_basic_functionality.js | There is the correct number of richlistitems - Got 0, expected 11"
+Intermittent TEST-UNEXPECTED-FAIL | chrome://mochitests/content/browser/browser/components/downloads/test/browser/browser_first_download_panel.js | Test timed out
+Intermittent browser_overflow_anchor.js | Test timed out (and many more)
+"Intermittent TEST-UNEXPECTED-FAIL | browser_overflow_anchor.js | Panel should be anchored to the chevron. - Got null, expected [object XULElement]"
+Intermittent TEST-UNEXPECTED-FAIL | browser_overflow_anchor.js | TypeError: panel.anchorNode is null
+[UX] Show http/https indicator for each item in downloads window
+Show http/https indicator for each item in downloads window
+The action for malware downloads should open a dialog with more information
+The modal dialog for malware should provide unblocking as a secondary option in a dropdown
+Uncommon downloads should behave like finished downloads with an interstitial warning
+Use a consistent icon for the action on blocked downloads
+Save Image As... on <canvas> element causes leaking memory in chrome process due to not releasing the data URIs (may cause OOM crash)
+"After a lot of items are downloaded, Downloads in Library won't open correctly due to timed out the script"
+Keyboard and accessibility related design in Download panel
+"[polish] After switching to subview for malware warning, the position for return button is not aligned"
+The separator on download items is not clear enough to be visible
+Visual notifications that indicate Pause / Resume are slow as download progress advances
+Application selection for opening downloaded files is different between Panel and Library
+Redefine the width of downloadDetails.width in the L10N file (downloads.dtd) for Downloads Panel
+Don't resume the download if user tried to resume it for disconnected downloads
+"Download Progress bar isn't correctly update when download is paused, ""for all cases"""
+"When requesting https file download from location bar, not warned if file is delivered over http instead"
+Downloads View in the Library is annoying on OSX when Firefox is fullscreen
+Unused buttons.png/downloadButtons.png files in chrome://mozapps/skin/downloads/
+Add a test for the download progress indicator on the taskbar button
+Progress in the Downloads Summary should not include completed downloads
+Use about:downloads to show downloads also in a not-private window
+When downloading more than 6 files at the same time causes the downloads greater than 5 or 6 not to download or be displayed in the download panel
+"Display filesize and progress based on download speed, not transferred bytes"
+Stop using the :not(:target) selector for download toolbar icons
+Pressing the download button inidicates the hover state of the first download in the panel
+Download panel glitches after removing a downloaded file
+State indicator doesn't persist on the first download on a new profile
+Download notification arrow is misaligned to the toolbar button
+Download fails if file extension contains invalid characters
+"Cancel and retry [Web page, complete] Download causes [Web page, HTML only] Download"
+Downloaded file size treats MB as 2^20 (MiB) and doesn't match Mac OS X's decimal megabytes
+The download speed/time computation for each individual download is incorrect
+Remove keyboard interaction from the Downloads Panel
+Firefox should allow showing of a desktop notification when a download is complete
+Console error when a download completes with history disabled: NS_ERROR_ILLEGAL_VALUE when calling setPageAnnotation
+[Windows Platform Only] Download icon becomes abnormal (Grey out) after user uses force-RTL plugin
+Warn when downloading executable files over HTTP
+Instrument non-default application usage
+Instrument the handler choice dialog for non-default actions
+remove text/uri-list flavor from download drags
+Taskbar browser icon unusually blinks
+Apply unify color of the progress bar styling to the downloads button
+Progressbar in downloads toolbarbutton looks clipped when download is almost finished
+Consider removing the getDownloadStatusNoRate helper function
+Don't expand the toolbarseparator of downloads when the mouse is over a non-clickable main area
+"Ambiguous ""N files downloading"" in downloads panel (is ""other/more""; can be understood as ""total)"
+downloaded size is 0 bytes
+"Downloads console shows all downloads across browser instances, but also has links when files aren't local"
+Consider not setting the attention state in the Downloads Indicator for automatiucally launched applications
+Firefox download permission dialog shows cursor (weird vertical bar) after the size
+Firefox download dialog has alignment issues
+Indicator/Animation for file download if time can not be determined
+customizeMode.autoHideDownloadsButton.label string landed for bug 1397447 has misleading label
+Downloads list can't intermittently be summoned.
+Break shell->element->shell cycle in the downloads view in order to ease GC overhead
+"Copy and D&D should use the download uri instead of the target file uri, for their text flavors"
+Download-in-progress is non obvious when server gives no content-length
+DownloadURL should get the most recent window of the same privacy status as the current one
+The position of the downloads indicator changes position when downloading background themes.
+"""Open containing folder"" button may open the file manager multiple times"
+trying to open a file from downloads list that has been deleted silently fails
+Display Downloads Summary only if there are at least 2 hidden downloads.
+"When opened containing folder after download any files, Audacious or KDESVN or other program opened, not Dolphin (or file manager used)"

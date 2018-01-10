@@ -1,0 +1,104 @@
+×Ö¶Î1
+Pocket button doesn't stay logged in if cookies/session data cleared on browser exit
+Pocket breaks back button on Chakra Linux
+pocket does not login
+pocket button missing on clean install firefox 40
+The tag suggestions box in pocket is  not oriented
+global setting extensions.pocket.enabled ignored
+The Pocket button has disappeared
+Pocket integration should be disabled when in private mode
+pocket button always asks me to login
+Pocket panel closes when switching keyboard mapping
+"If user has Pocket account with Firefox, a browser logged in to their Firefox Account should be automatically logged in to Firef¨®x's Pocket Integration"
+getpocket.com still contacted even though extensions.pocket.enabled = false
+No way to see already added status from Pocket button
+Pocket area not shown in about:newtab in v58
+'Pocket' splash window does not disappear
+"Middle clicking ""View Pocket List"" does nothing"
+Pocket icon should change color when active page is already saved
+[meta] Pocket quality and test eng tasks
+[es-ES] Visual glitch for Web Pocket drop down Log Out option
+Saved credentials are prefilled when Signing Up with email in Pocket
+Different or no onboarding experience offered for users signing up with FxA instead of regular email
+No need to confirm e-mail account if signing up with regular e-mail
+"Pocket is stuck on a ""Waiting..."" message on the 2nd load from the menu"
+Pocket V2 Tracking
+Pocket button does not remember signing in permanent private browsing
+Pocket messages use a hardcoded Firefox instead of nsIXULAppInfo.name.
+[Windows] The Pocket button displays scrollbars on the German locale if it's placed in the menu
+"Pocket's weekly newsletter email with reading recommendations always in English, doesn't use preferred language of account"
+"5% Win7 tresize regression on Mozilla-Aurora  on June 02, 2015 from push a3a13b2f6d14"
+Make the Pocket toolbar button stay red if the page is already saved
+Can't get to Pocketed pages from a new tab/window
+"""Get pocket"" website: misleading ""update"" c2a for mobile"
+Document /v3/firefox/save
+"In Firefox Developer latest, pocket's popover does not populate with text when NoScript is active."
+User is not automatically signed into their Pocket account after creating and verifying their Firefox account
+Figure out handling of ui tour for addons (pocket specifically)
+localize install.rdf
+enable/disable for pocket addon
+test issues for system addons
+build options to build without system addons
+create and add @2x icons for pocket
+Pocket submenu is opened when I open Australis Menu [¡Ô] (if Pocket was opened earlier via Reader view)
+"""View Pocket List"" requires sign-in when opened in Private Browsing, although pocket saving works fine"
+"Tour demo says ""click the menu icon"" which is confusing"
+"Tour demo points to click the Pocket icon in the toolbar, although it is moved to the menu panel"
+"""Save to Pocket"" does not respect browser.pocket.enabled setting"
+browser.xul window leaked through firefox@getpocket.com addon
+Pocket autocloses the Firefox menu
+Pocket's error text is unfriendly
+"[fr-builds] ""Les etiguettes sont limitees a 25 caracteres"" message is overlapping the Pocket tag page text"
+Reference to multi-locale extensions/pocket/locale in locales/makefile.in
+Artifacts when clicking Pocket panel with v2 value for extensions.pocket.settings.test.panelSignUp
+"[l10n] ""Try it now"" text is not centered on the Firefox JA build"
+"[l10n] ""Try it now"" text is missing on Learn more page"
+"[l10n] The ""Save to pocket"" panel text is misaligned"
+Pocket panel is too small in window.open()
+Pocket subview in Australis menu always increase height of the panel by 8px when it opens
+Pocket button isn't visible in reader view if I haven't open australis menu yet
+Pocket panel / sidebar in Australis menu doesn't open if I click Pocket button in reader view
+Pocket button hover style too small when the button is in the tabs toolbar on Linux
+[meta] Open source Pocket code
+"Pocket shouldn't be shipping its platform X icons on platform Y (windows on *nix, osx on windows+gtk, linux on osx/windows)"
+Verify that Pocket localizes properly in `ja-JP-mac` locale
+Try to avoid loading AboutPocket.jsm in the content process at startup
+chrome://pocket/content/panels/img/pocketmenuitem16@2x.png should be used on all platforms
+"Pressing back in Pocket Queue does not go back (via ""View Pocket List"")"
+[pocket website/service issue] Update pocket list intro text and icon on their website
+[pocket website/service issue] Pocket asks for a (new) password even when logging in with Firefox Account
+[pocket website/service issue] Back button doesn't work in the tab opened by Bookmarks -> View Pocket List
+[meta] pocket should have local state
+Pocket tags for saved page don't show when clicking pocket symbol again
+pocket button stops working with always-open-in-container
+Pocket strings appear untranslated in Linux packages
+Remove the panelMenu_pocket element
+Pocket Promo Doorhanger has an unnecessary scrollbar
+The panel shown when attempting to Save to Pocket in offline mode is dismissed too soon
+Add telemetry for Pocket integration
+"The user is able to save Pocket's ""My List"" to itself, twice"
+"""View Pocket List"" prevents going back to previous page due to server redirects"
+Opening the Pocket subview in m-bc leads to leaked windows and a docshell
+View Pocket List from Bookmarks toolbar icon opens Log In page in Private Browsing mode
+"Error when I click ""Pocket"" button: ""Security Error: Content at about:pocket-saved?pockethost=[...] may not load or link to chrome://pocket/content/panels/fonts/FiraSans-Regular.woff."""
+Show pocket entries in awesome bar like bookmark
+"The ""Pocket Button"" in the pocket doorhanger pointing to the page actions menu refers to a button that has been renamed (when the ""Pocket Button"" has been manually removed by the user)"
+Pocket doorhanger isn't RTL compatible
+Pocket needs some automated tests
+Pocket doesn't work with privacy.firstparty.isolate set to true
+Need decision on inclusion of question mark link and landing page for 'sign in with firefox'
+"Long tags cut off after trying to save them, overlayed/hidden by white area"
+Pocket panel closes itself while hovering over pocket toolbar button
+"Add ""View Pocket List"" to bookmarks sidebar?"
+"Save to Pocket ""library animation"" doesn't play if I dismiss the popup quickly"
+Remove remaining Pocket CSS that is specific to the Pocket toolbar button now that it has been moved to the page action area
+Clean up pocket-animation.svg
+Tag text is selectable in Pocket door hanger
+The user is able to drag and drop the links from the Pocket panel
+Pocket Save Panel should use the system font
+Flickering/transparency on hover of buttons in Pocket Logged Out panel
+There's a border displayed around the Pocket panel if the button is placed in the menu ¡Ô
+"the ""Pocket"" menu entry in the library should expand to a list of recent entries"
+Fix coding style issues with Pocket: main.js
+Provide RTL support for Pocket component
+Test failures on Aurora due to Pocket button causing toolbar overflow

@@ -1,0 +1,355 @@
+×Ö¶Î1_ÎÄ±¾
+window.close() closes browser if number of tabs = 1
+"Wish Theme management would ""encourage"" theme developers to use OS-specified sizes when appropriate"
+nsDirectoryService should add a NS_WIN_COMMON_APPDATA folder
+"If browser.preferences.instantApply is true, ondialogaccept is can't be triggered in a prefwindow"
+"Ever since version 3 pdf files do not open on Firefox. Clicking on a pdf only shows blank page and ""done""."
+Extension update doesn't show update site does not exist
+"uncaught exception: [Exception... ""The container of an boundary-point of a range is being set to either a node of an invalid type or a node with an ancestor of an invalid type.""  code: ""2"" nsresult: ""0x805c0002 (NS_ERROR_DOM_RANGE_INVALID_NODE_TYPE"
+computer reboots when running Bit defender quick scan
+Cannot follow links in information given by update dialogue.
+Flash Player 10 Can Not Show Chinese Words.
+Flash works but didn't react on Mouseclicks
+"first use after installing 3.6 beta removes .htm and .html from file extension library, making it impossible to open any URL"
+"Plugins (Real Audio, Flash) are not working within Firefox extension - Only Mac w/Firefox 3.6"
+zshare video does not play anymore since I updated my firefox to 3.6
+"Air App Installation hangs on MAC 10.6.3 OS on Firefox, version 3.6.3"
+"Add-ons are already compatible, but not allowed because it is not listed as compatible for 3.7"
+PopCap games plug-in does not work with recent updates
+"Download window,Add-ons window,Error Console minimized when mouse pointer move over flash video."
+sIFR not working on a consistent basis.
+Minefield fails to install extension on Mac OS
+Problem with containers - manifests itself as video causing Minefield to hang.
+FF4 won't display swf (flash) when opened in xul browser element inside dialog/window
+Version compatability check not consistent between upgrade check and add-on install.
+Flash player turns white when page first loads and when scrolling up/down
+I don't get java class' object reference. The liveconnect APi is not working. The same used to work in the earlier version of mozilla
+Firefox recommends an upgrade to Adobe Flash to users of free software Flash Players
+"FF & TB does not start up with several extensions like PDF Plugin, Greasemonkey, Cooliris or Lightning since recently updates although compatible"
+Controls hidden using hidden='true' don't play sound
+Personas are not working properly and selection page from Mozilla is not displaying properly
+kaspersky Urls check and virtual keyboard extension not showing up in firefox
+VLC Media Player starts
+Not able to print to file (either Postscript or PDF)
+"addon with flex (flash) loaded with <html:object> + swfObject.js in an ""window.openDialog('chrome://...xul')"" popup is complety buggy"
+Shockwave 11.5.9r615 reported outdated but update link downloads 11.5.9r615 again.
+flash visual freeze but sound ok new in version 4 beta
+"""Capture Scrolling Window"" with screenshot software ""fast stone"" in FF10 Beta"
+jQuery conflict in Extension development while loading js file into main document
+Add-on placed in the program /extensions directory for global system wide usage is marked as incompatible and disabled
+Warning: WARN addons.updates: Error: Missing updates property for urn:mozilla:extension:jqs@sun.com
+Warning: WARN addons.updates: Error: Missing updates property for urn:mozilla:extension:{71A44B6B-42B9-4111-BD15-E67572E92A4C}
+Site is not loading (due to flash?)?
+Page never finish
+Security module for Banco Do Brasil is incompatible with Firefox 4 and above
+setTimeout in extension javascript not executed while displaying modal box
+fx downloads page instead of opening it
+Extension won't find updates
+Error in nsSessionStore.js restoreTab(aTab) stops it's proper execution. Using BarTab extension this causes cloning of tabs when unloading them.
+silverlight wont open a page
+Components.classes['@mozilla.org/extensions/manager;1']
+Occasional problems while using Silverlight app: Request format is unrecognized for URL unexpectedly ending in '/$metadata'.
+The plugin pop ups in every tab when a media is opened on one tab.
+.WMV files won't play in Firefox 4.0
+"If a plugin extension is signed, ""corrupt"" message is displayed and it won't install"
+Uninstall extension which Windows profiles and UNC redirection
+HTML over a Flash SWF does not work properly
+divx html5 removes added toolbars
+With addon compatibility turned off addons still appear incompatible
+Pages opened in tabs flip to a new window [caused by Taco with Abine 4.0]
+exception= Permission denied for <file://> to create wrapper for object of class UnnamedClass
+Silverlight 5 Core Animation modes flicker/draw incorrectly in Firefox (Mac)
+Leftmost tab is hidden when reopening browser window
+le fichier ne commence pas par '%PDF-' // file does not start with '%PDF-'
+Firing events from sidebar to main window don't keep custom properties anymore
+"[Tab Utilities 1.1.4] FFb15 lost all open tabs, can't change pages after first one"
+Firefox 10 ESR causing Quicktime 7.6.6 plug-in to fail on Mac OS 10.6.8
+Firefox keeps telling me to upgrade but doesn't support my AVG??
+"the firefox crashes without any warning when I use the ""iMacros"" add-on and can't find any crash report"
+Recent Aurora update 17.0a2 broke the add-on Webmail Notifier and broke the refresh button in the awesome bar.
+After 15.0.1 update plugin-container.exe is running at 40% cpu.
+When called from an iframe context (jsfiddle & co) console messages do not appear in Firebug Console
+Continual (re-)writes to addons.sqlite-journal (over NFS?)
+filebox extender
+noscript addon update with browser open cause system hang/freeze
+Tab History Redux extension inconsistently scrambles tab history
+Firefox will not scroll to top of screen on some web sites
+"Saving videos from Youtube with ""video downloadhelper"" is not shown in downloads in firefox 19.0 beta version"
+Don't connect anymore to Domain after few POST requests
+Global text rendering through userstyle - Slows browser
+Personas do not allow search button on Firefox start page to work
+"I updated Firefox browser on 02.20.13. Quick Scan (Norton 360 component) stopped flagging and removing tracking cookies¡­I updated Java after Firefox¡­I updated nothing else, downloaded nothing else, have changed no settings (AT ALL)."
+greasemonkey fails with NS_ERROR_FAILURE on nsIFile.remove with Private Browing on HTTP Auth protected page
+Gmail Watcher doesn't work in permanent private browsing mode
+"Please see Bugzilla Report #843466 and also #783369.  As noted previously, Symantec Norton support is completely useless in this matter."
+Firefox 'all users' extensions directory has changed
+Update in browser chrome when clicking on downloads button
+adding http activity observer causes corrupted upload in google drive
+Firefox 22 - Cannot make PDFs of internal Web Pages - crashes
+Logitech SetPoint causing Firefox random hang
+developer tools console show add on warnings
+"addon defined pref turned into string, nsIPrefBranch.getIntPref throws exception for Russian locale"
+addons using npapi plugin is not working in background page because of click to play feature
+Firefox hangs when exiting after view some html5 videos.
+Yahoo mail searches sometimes produce an empty screen
+Fails to handle a pdf file which is not named [something].pdf
+firefox 27.x can't install extensions
+OpenSearch xml file from https://addons.mozilla.org/de/firefox/search/?atype=4 not accepted
+30.0beta1 crashes immediately after roboform 7.9.6.7 gets error on startup
+Plugin Stopped Working Popup appears when calling webdriver.quit() method using Firefox V30
+nsIProcess NS_ERROR_FILE_EXECUTION_FAILED (Extension)
+Update 32.01 introduced XUL Parsing error on ScrapBook
+McAfee Secure Site/ Search kills Firefox on Win7
+"Page scrolling using mouse wheel does not working when enable ""wheel gestures"" in FireGestures add-on"
+getStats returns empty stats when run in an add-on context
+exportFunction() causes TypeError: HTMLFormElement doesn't have a named property setter.
+Flash Control causes browser hangs on Amazon pages
+"Multi-fox add-on is not working,"
+Tabs not always loading when starting FF 35.x
+[e10s] Instant Preview (Prospector Extension) interferes with page loading
+"FF35.0,kwallet,sync authentication fails"
+Heartbleed Monitor add on might be making Nightly run slow.
+"""Yet Another Smooth Scrolling"" add-on does not work with e10s"
+Userscript Add-ons not working with latest Firefox Developer Edition
+Download helper will not work since update. XP OS. Icon spins but download arrow shows nothing available
+Tabs events handler does not provide the correct target uri
+"When restarting Firefox with Flashblock installed and enabled, some flashes still play"
+Firefox memory usage increases while idle (with 10 add-ons enabled)
+[Addon] CSS animation abnormally flashing only on Mac
+[Elementary Firefox theme] In-content preferences broken; cannot modify settings or switch categories
+Firefox Developer version 40.0a2 redraw reduces canvas by 50%
+[Webconverger] Some printing functionality is not currently available since Firefox 38
+Protect Tab and Lock Tab not working
+debugging Greasemonkey script in firebug: the script does not display
+Firefox addon element abnormally flashing using CSS animation on Mac
+"Displays a modal HTTP ""Authentication required"" dialog (caused by FoxyProxy)"
+Tree Style Tab still behave as if in full screen after leaving full screen mode
+Vimperator does not work on v41.0b1
+"""Delete Profile"" with delete all files does not delete profile and leaves severa? files behind"
+Dashlane is incompatible with Firefox 40.0.2 due to strict Content Security Policies
+Image-Zoom extension wont release mouse-wheel
+Second time a menu option is selected window exits maximized state
+Data leakage when using umatrix addon in private mode
+"""Download Manager (S3)"" add-on does not work with e10s"
+"Triple touch dictation is no longer on Firefox while using MacBook, problem began after last major update."
+Url text corruption (font problem)
+"Private Window mode should not log console.{log,error} messages to stdout/stderr"
+iframe embedded in ui/frame isn't allowed to read localStorage values
+FoxTrick extension
+"""TypeError: ytPlayer.getPlayerState is not a function"" after ""youtube.com/channel/""*"
+Firefox wipes out simple storage file during logout/restart on Linux Mint
+"extension fails in ff 43 with error ""listener.off is not a function"""
+Facebook Unfriend Finder add-on is not working properly
+Javascript error when hovering over a History menu bar item
+My private extension has stopped working on Firefox Nightly a day or two ago
+when my Addon installed i got error in a panelUI.js
+"Dragging Element to Canvas Broken in add-on, works fine with `firefox -app` & `xulrunner`."
+Multiprocess mode breaks Selenium's target selection
+New Tab button under Window Close button (does not happen with a fresh profile)
+"middle click link, tabs not showing, windows 8"
+Add-on TooManyTabs does not work after Firefox 47 release
+massive jump in CPU and RAM utilization and frequently a full crash
+"In private mode, panels from extensions are not displayed"
+"Get ""unauthorized access blocked (terminate process)"" re: Norton Security (conathst.exe)"
+CPU usage 100% after file download with Karma Blocker
+Selenium IDE is not showing in tool bar
+Firefox 48.0.2 fails to pass optional argument(s) to function invoked by window.setInterval
+"""LastPass might be making Nightly run slowly"""
+"Firefox, MAFF Addon and problems with filenames containing ""|"" etc."
+firefox youtube downloader not displayed on menu bar
+The new location bar's results are blocked by the e10s spinner.
+Html Validator extension not loading the DLL anymore since FF 49.0.2 (1?)
+Theme font & Size Changer  is not working in Ubuntu.
+Firefox hangs when Xmarks add-on is enabled on openSUSE Linux.
+NS_ERROR_NOT_AVAILABLE in Firefox50 - was working in BETA.
+Certain dictionaries may disappear or be greyed out in the main context menu with the add-on Auto Unload Tab installed
+Loading content script and messaging
+"Firefox suddenly loses internet connection, and hangs on shutdown (crashes as shutdownhang)"
+"Icon of the add-on ""Free Visio Viewer"" is blank in the toolbar"
+disconnect me does not work with Version 51.0.1
+All in one gestures not working on firefox 51.0.1
+Possible incompatibility with Privacy Badger 2017.1.26
+Crash in hang | CleanupPerAppKey | MsgWaitForMultipleObjectsEx | MsgWaitForMultipleObjects | mozilla::ipc::MessageChannel::WaitForInterruptNotify | mozilla::ipc::MessageChannel::Call | mozilla::plugins::PPluginScriptableObjectChild::CallInvoke
+Repeated total freezes for long periods (maybe due to ScrapBook)
+Mega.co.nz not loading
+No option to delete favourite directly in the bar
+Merge maff and mht format support from Mozilla Archive Format addon
+FF64; W7Pro64;The google calendar addon shows dates in us format instead of regional format; ie month day year instead of day month year; can I fix this myself?
+upgrade to v52 64bit stops more than one row
+Lastpass Extension becomes disable every few days
+"memory leaks (""strings"") persistent"
+multiprocess (e10s) automatically enabled at launch after installing extensions that are not compatible with multiprocess
+Clicking on a tweet embedded into a page hangs the process and causes 'A webpage is slowing down your browser' infobar to appear
+Ghostery 8 locks-up main thread [Firefox Nightly]
+firebug window zoom out works but Zoom in not working
+ctrl-n missing
+Firefox ajax Content type not well format and is an error in springMVC
+Sorting by hits in a filterlist in ABP takes twice as long with compartment per addon
+Firefox 3.6b4 Crash [@ SEPsearchhelperff.dll@0x1335f ] caused by using the nsICookieManager2/nsICookieService from a non main thread
+[e10s] Down Them All addon throws exception
+Browser context is difficult to obtain from many XPCOM callbacks
+Disabling third-party cookies also prevents cookies being sent by XMLHttpRequest from parent domain to subdomain
+Adblock Plus tracking bug
+"Java Console 6.0.0.0, 01 and 02 addon not available/working for Firefox 3.5"
+"Results of printing about Orientation are that ""portrait"" is same to ""reverse portrait""and""landscape""is same to ""reverse landscape"""
+Please add a tool to gauge Addon performance
+crashes [@ RaiseException | mspbwkr.dll@0x25a22 ] on the rise
+[@ PayPalPlugin.dll@0x1be71][@ 0x0 | PayPalPlugin.dll@0x1be71] common null pointer dereference paypalfirefoxplugin@orbiscom
+[@ ieframe.dll@0x1259a3] common crash caused by paypalfirefoxplugin@orbiscom
+[@ ieframe.dll@0x125a0b] common crash caused by paypalfirefoxplugin@orbiscom
+Crash [@ strchr ] due to HTML Validator (nstidy.dll)
+"Do we need a ""We don't know why you crashed"" dialog in the Crash Report Helper addon?"
+Firefox 3.6 Crashes in GrabXpcom.dll at this and other signatures  [@ RtlpWaitOnCriticalSection | RtlpDeCommitFreeBlock | GrabXpcom.dll@0x9fcb ]
+Firefox crashes [@ RtlpFindUCREntry ]    [@ RtlpUpdateUCRIndexRemove ]  [@ ntdll.dll@0x3b16b ] (f-secure litmus-ff.dll charter security suite?)
+Real Player Browser Record plugin doesn't work in Firefox 3.6.4
+"""Add-on compatibility checking is disabled"" is factually incorrect. Add-on compatibility dialog is run at startup even when compatibility checking is disabled."
+Firefox crash in DataMngr
+"crash [@ CallQueryInterface<nsPIWindowRoot, nsIDOMEventTarget>(nsPIWindowRoot*, nsIDOMEventTarget**)] correlated to LinkAdvisor from CallingID."
+Get rid of maxversion
+New Tab closing issue
+crash arena_malloc_large
+After closing Firefox I always have to reinstall Google redesigned and Chrome for firefox .. this is getting annoying now
+Need way to flag known problems in installed extensions to users
+Zone alarm Internet Security Suite behavior when Firefox becomes unstable
+"'chromemargin' attribute changed behavior, can't disable window caption's (min,max,close) buttons anymore. Breaks Addon."
+Reloading http://speed-battle.com results in a crash with Adblock Plus
+autoproxy@autoproxy.org causes Crash [@ JS_DHashTableEnumerate ]  when open link in New Window
+Location bar is empty when entering a URL
+Add-on compatibility check takes too long when offline
+crash in unity_webapps_available_application_get_application_domain with Webapps-team on Ubuntu
+crash in DataMngrHlpFF17.dll @ nsObserverEnumerator::Release
+crash in libmecab.dll with Furigana Inserter
+deactivating addons that register url handlers removes those handlers even if they were registered by the browser before
+crash in libunity-webapps.so.0.0.0 with Ubuntu Unity Web App
+Should check extensions compatibility before upgrading
+Extensions broken by per-window private browsing changes
+crash in psclikseguro with PSafe's ClikSeguro
+OOM crash in gbmzh_abn.dll or gbmzh_uni.dll or gbmzh_bb.dll
+crash in mozilla::dom::FragmentOrElement::CanSkip with FoxyProxy 4.2
+startup 64-bit crash in nsLocalFile::CopySingleFile with Widgi Toolbar
+crash in LdrShutdownThread with Bandoo's DataMngr/Search Results Toolbar or Hotspot Shield Helper
+crash in uGlobalMenuObject::ShouldShowIcon with GlobalMenu on Ubuntu
+[10.6] OOM crash in nsComponentManagerImpl::GetServiceByContractID with GoPhotoIt 1.4
+NS_ERROR_XPC_BAD_OP_ON_WN_PROTO in Addon Content Script
+"With adblock plus enabled, non-opt/debug builds briefly hang on startup"
+crash in OpenFile @ browserdefender with PerformerSoft's Browser Defender
+crash in ReadDir @ FindNextFileW mainly with DataMngr
+crash in (iobitapps|pdfforge)toolbarff.dll@0x82dfd with IObit Apps or pdfforge Toolbar 7.3
+Firefox 22 crash in LogMessage mainly with Bandoo's Data Manager
+crash in Dashlane_plugin_FF<n>.dylib with Dashlane extension
+"crash in nsTArray_Impl<nsHttpHeaderArray::nsEntry, nsTArrayInfallibleAllocator>::AppendElements(unsigned int) (Bandoo)"
+ssl_error_illegal_parameter_alert occuring intermittently with Firefox 26 due to Kaspersky Internet Security
+"ff26.0,since update to 26.0 ff crash with kde wallet plugin"
+Scriptish GM_* function stops working
+Firefox crashed on Windows 8.1 EXCEPTION_ACCESS_VIOLATION_READ
+Java Deployment Toolkit is labeled as known to be vulnerable. Use with caution.
+Turn on add-on interposition by default in Nightly
+[e10s] [meta] Fix add-ons that cause horrible performance for Firefox
+1password does not work for Firefox developer edition
+Japanese or Chinese characters In Firefox tabs with McAfee SiteAdvisor Add-On installed
+Silverlight plugin not loading after 34.0.5 update
+"[e10s] ""Configuration Mania"" add-on breaks LastPass add-on form fill when e10s is enabled"
+[e10s] web-developer addon regularly throwing a js exception in overlay.js ln 7333
+[e10s] Better Privacy addon regularly throws exceptions in bprivacy.jsm ln 93
+"[e10s] ""Translate This!"" addon regularly throws context-menu.js 690"
+"[e10s] ""YouTube High Definition"" addon regularly throwing at bootstrap.js ln 1105"
+"[e10s] ""Mozilla Archive Format"" addon regularly throws exceptions at mafContentPolicy.js line 87"
+TrackMeNot Extension hangs FF shutdown cycle
+RemoteAddonsParent should report add-on errors with semi-reasonable source locations
+"""InternalError: too much recursion"" in multiprocessShims.js upon calling nsIComponentRegistrar.registerFactory"
+Taskbar Icons are Reordered when opening from Session Restore when AutoCopy is installed
+"""After the Deadline"" add-on does not work with e10s"
+"Hamburger Menu ""Customize"": cannot have more than 2 icons in a row with Disconnect add-on's icon"
+makeContentSandbox should not anonymize add-ons
+"When running selenium automated test, a window pops up saying ""Firefox has stopped working"""
+"Since Firefox 37, Video DownloadHelper causes Firefox slowdown"
+Marketplace login does not work in Firefox Dev Edition 40.0a2 (2015-06-18) with Ghostery installed.
+"Gmail Service fails after 1-2 uses, generates 2 new background tabs, doesn't web share page by email"
+[e10s] Loading frame scripts in newly open tab is a frustrating exercise
+"Scriptify preferences dialog doesn't work, opens hidden window in Firefox"
+"With Better Privacy installed, Clear Recent History doesn't clear recent history"
+Dictionaries without type=64 in install.rdf are treated like regular extensions
+[e10s] Kaspersky Protection add-on compatibility tracker
+Logitech Setpoint 6.67.82 not supported by FF 41 beta
+Tracking bug for CCK2
+Firefox crashes with NoScript addon on youtube.com
+Location Guard extension can't show geolocation prompt from resource:// page
+"""FloatNotes"" add-on doesn't work with e10s"
+Bug 1182546 Breaks some add-ons
+Plugin freezes after show window (only in 43 beta)
+uBlock Origin makes the loading of a long page hang the content process
+Context Menu X options freezes Firefox
+Can't sign addon without an Internet connection.
+Vocabulary Highlighter extension creates many redundant instances of mozStorage
+"""Old Location Bar"" add-on always shows moz-action urls in Firefox 43, regardless of the settings"
+FireGestures open in a new tab/hybrid save as broken (
+ESET anti-virus breaks Firefox
+Youtube Downloader - 4K Download v7.1.0 Does not Download
+1-Click Dailymotion Video Download 1.0.6.1-signed addon does not work
+XPCOM extension global scope behavior change
+Continually Increases in RAM usage
+X-Notifier not working in FF 45 and higher.
+Slow web page doorhanger is underneath pinned tabs when using tree style tabs
+khb.hu ebanking addon fails on 64-bit Firefox.
+add-ons: Skip Cert Error now work after update to 46.0.1
+Browser does not respond correctly to this site
+work with telemetry on breaking down addons string to get more specific info
+Public Fox fails to lock the Firefox Options
+Unable to save pages as PDF with the Adobe Acrobat Create PDF extension on Firefox 48+ due to extension signing requirement
+"With the ""Walnut for Firefox"" theme installed, the basic actions only work on double click"
+"Stylish ""Preview"" option not working"
+"Work needed to remove shims from firefox, that had been there for add-on/e10s compatibility"
+Screengrab  (fix version)  v 0.99.06c & e10s/Shim Compatibility
+FireGestures 1.10.13 and Shim --- FireGestures - Options window to display
+No Script 2.9.0.14 CPOW messages seen and AddOn does not work with Shim
+"[e10s] ""YouTube High Definition: version 49""  video quality and size settings does not work in e10s"
+Saved Password Editor 2.10.1  - Saved Logins - New
+LeechBlock 1.0.5 does not Block the site when Shim value is False
+[e10s] ¡°Integrated Inbox for Gmail & Google Apps¡± UI issues
+Norton Security Toolbar does not install in Firefox
+10-20X regression in rule-processor-cache memory usage in ABP 2.8.0 compared to 2.7.3
+"""Skipping"" in video & animated gifs"
+Tab Counter extension: toolbaritem always appears in the end of tabs toolbar
+"Flash ""Ask to Activate"" bar is dismissed on all images from http://dagobah.net/ website when using specific complete themes"
+Firefox constantly uses 100% of one CPU core after updating DownThemAll *nightly* extension
+Sync icon is flickering on Mac when sync is initiated
+about-sync addon stops a first sync from starting automatically
+[meta] LastPass-related performance improvements
+Corrupted default theme with specific extensions enabled
+">=Firefox-51 location bar breaks extension compatibility (oldbar, et al.)"
+[Extension bug] EmojiOne Keyboard causes severe page load regression (multiple times longer + unresponsiveness until documentready)
+Content Script imports
+Set up support levels to help migrating and porting devs
+Ebay embedded Paypal Checkout fails to load (spins forever) with NoScript and e10s DISABLED
+No icon displayed for ¡°disallow Script Button¡± add-on
+Flash Video Downloader - YouTube HD Download [4K] doesn't work properly
+Loading Expensify brings the browser to a halt
+WebPageTest's migration from Addon to Web Extension regresses page load
+Reports of serious performance regression after AdblockPlus 2.9 update
+Firefox for Linux hangs indefinitely (100%) CPU when vistiting certain websites
+AdBlock Plus slows down Firefox for Android terribly
+Accessing Java package with LiveConnect fails on Firefox 3.6.17 under OS X (worked fine in 3.6.16)
+Remove add-on interposition
+Review process improvements and moving to post-review
+HTML Validator extension called DOM from the wrong thread [@ JS_RestoreFrameChain - XPCJSContextStack::Pop] crash
+Dev rel: Outreach to top Chrome extensions
+RemoteAddonsChild.jsm should not be loaded when shims aren't enabled
+Firefox 11 Crash [@ __security_check_cookie ] caused by IE Tab 3.6 on Zimbra
+Intermittent browser_addonShims.js | Test timed out | leaked window property: runAddonShimTests | Found a tab after previous test timed out: browser_addonShims_testpage.html
+"google keep, oops something went wrong, please click here to reload the page"
+"Intermittent OSX build failures make[2]: *** No rule to make target `/builds/slave/m-aurora-m64-d-000000000000000/build/src/toolkit/components/addoncompat/tests/Makefile.in', needed by `backend.RecursiveMakeBackend'. Stop."
+Investigate whether we can remove the Addons:Event:Run JS sync IPC
+Add-on Unconference
+list-style-image applied to context-openlinkintab appears black if not styled with !important
+"""incompatible items"" dialog has wrong icon for its ""close"" button"""
+NoScript remembering script settings from private browsing mode
+Add on not working - Copy Plain Text 2 1.3.2
+"Positioned elements using offsets of top, right, bottom, left of any value with viewport as containing block disables cursor actions like select or :hover"
+Repeatedly asked to restart to uninstall Java console 6.0.02
+qipcap.dll WebSense Content filtering dll crashes Firefox on launch
+"can't remove ""disabled"" extension after upgrading to a nightly that breaks that extension"
+"Cc[""@mozilla.org/preferences-service;1""].getService(Ci.nsIPrefBranch) returns nothing?"
+Some sites a user logs into will not render properly
+"Firefox crashes at [@ AddClassInfo ] with "" Tab Data (+Memory usage) "" extension"
+"The contents, i.e. web page, on a tabs are that for the tab opened lastly with Nightly Builds"
+Support for blocking and opening GET/POST requests in IE with WebExtension

@@ -1,0 +1,124 @@
+×Ö¶Î1_ÎÄ±¾
+"Valence just resets when turning on ""Safari on iOS"" runtime, never connects to plugged in iPad"
+Can't connect to WIFI remote debug on Android
+[meta] migrate webide features to about:debugging
+Investigate about:debugging service worker push test failing with Bug 1419771
+Fold the 'Connect¡­' screen into about:debugging.
+Add a button to stop a Service worker in about:debugging
+Add-on install support (esp. for devices)
+[meta] Enable remote debugging in about:debugging.
+about:debugging should allow lifecycle management of service workers
+Migrate about:serviceworkers to about:debugging.
+Allow manually triggering a push subscription change
+Should hide Firefox's workers unless show-platform-data is on
+Use actors to list and debug add-ons
+about:debugging#addons should automatically enable addons debugging
+Tab summary doesn't refresh automatically for new tabs in other windows
+File picker for temporary add-ons does not handle directories well
+about:debugging should indicate when an add-on is a system add-on
+Reloading an extension with changed ID doesn't remove the previous version
+about:debugging should display an error to a user if a reload fails
+[meta] aboutdebugging: service worker support
+aboutdebugging: better (UI) telemetry support
+about:debugging: show detailed service worker registration status
+Intermittent devtools/client/aboutdebugging/test/browser_service_workers_push_service.js | Test timed out -
+[meta] Top aboutdebugging bugs
+Fix 7 tests failures on devtools/client/aboutdebugging due the EventEmitter refactoring
+Add a warning when temporarily installing an extension over a permanently installed one
+"Warn developers who have opted out of multiple processes, and let them opt back in."
+Allow hotreloading stylesheets for temporary installed addons from about debugging
+Install addons permanently from about:debugging
+[devtools-addon] Add a shim landing page for about:debugging
+Improve error message styles in about:debugging
+"With the ADB Helper add-on, if 2 phones are connected, unplugging only one phone doesn't update the list of devices"
+[meta] Remote debugging
+[meta] Improve Fennec remote debugging
+Debounce discovery scan / updates
+WiFi device scan triggers firewall popup on Windows
+"Sometimes, we need to disable/enable the ADB Addon Helper to see the device"
+Lock down WiFi debugging to only external interface
+"Sometimes, device.shell(""getprop ro.product.model"") fails (WebIDE runtime panels show the ""adb devices"" name, not ""ro.product.model"")"
+WiFi discovery confused when primary interface changes
+Expose `adb logcat` in DevTools UI
+"""Operation failed: connecting to runtime: PROTOCOL_ERROR"" with multiple Android / FxOS devices plugged in"
+Focus remote tab when chosen from tab list
+Expose ADB Helper logs after connection error
+WebIDE unable to detect Android device until restart
+Support XPCShell as remote target
+Track Valence usage with telemetry
+adbhelper add-on should be more verbose (should not be silently installed and should provide more info)
+Reduce token length using base 36
+[meta] WiFi debugging follow ups
+Discovery UDP ports not open on some Linux distros
+Can't connect with WebIDE to FirefoxOS device using Wi-Fi/Wifi on Windows 8.1
+Add push notification count and last time in about:debugging
+[meta] WiFi Debugging for Fennec
+Clarify purpose of WiFi auth token
+Add some devtools for push notifications
+Display installed web apps in about:debugging.
+[meta] WiFi Debugging network issues
+about:debugging (and other 'about' URLs) should get custom favicon
+about:debugging items should include means to pause a worker on service worker load in debugger
+"Configured Firefox Android device not listed on ""Wi-fi devices"" section of WebIDE"
+[WebIDE] Stopping then refreshing an application breaks the devtools window.
+API for Add-ons to extend about:debugging
+Firefox keeps listening on UDP port 50625 when WebIDE is closed
+Intermittent browser_service_workers_start.js | Test timed out
+[UX] about:debugging worker layout
+about:debugging should provide a view source link to the worker script
+add mode that forces service worker update on refresh before document loads
+Better represent service worker ScriptURL vs Scope in about:debugging
+Improve UX for when an add-on fails to load
+about:debugging spawning child process in non-e10s mode
+Allow debugging on service worker scripts during install process
+"If two version of a WebExtensions with no id but the same name are loaded in about:debugging, it only appears once"
+about:debugging sidebar entries present a context-menu when right-clicked (unlike other similar about: pages)
+Move serviceworkers to a dedicated category
+aboutdebugging: select a debug tool from about:debugging#tabs
+Intermittent devtools/client/aboutdebugging/test/browser_service_workers_push.js | Test timed out -
+Consider listing what container the worker is in on about:debugging page
+Consider about:debugging client code to be in a child process
+Handle UDP socket creation failure for WIFI device discovery
+Valence not working for Safari on iOS 10 devices.
+Support multiple content processes when debugging service workers from about:debugging
+if 'localhost' is unset in /etc/hosts  about:debugging doesn't allow the debugging of an addon
+Open toolbox for debugging workers inside of the about:debugging window
+Intermittent devtools/client/aboutdebugging/test/browser_service_workers_fetch_flag.js | A promise chain failed to handle a rejection: - at resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491 - TypeError: this.tran
+Add about:debugging as a Devtools panel or menu
+Expose remote runtime on the target for low-level device access
+webextension sources should be refreshed in the debugger after reload
+Allow drag and dropping add-ons into about:debugging to temporarily install them
+[meta] WebIDE feature requests moved to about debugging
+Intermittent devtools/client/aboutdebugging/test/browser_addons_debug_webextension.js | Test timed out followed by more webextension failures
+"Closing the tab, browser or disconnecting the Android phone should not close the WebIDE debugging session."
+InvalidStateError errors logged when installing webextensions from aboutdebugging tests
+"Intermittent devtools/client/aboutdebugging/test/browser_addons_remove.js | This test exceeded the timeout threshold. It should be rewritten or split up. If that's not possible, use requestLongerTimeout(N), but only as a last resort. -"
+Temporary loading same WebExtension - while archived or not - will display different icon
+Addon install error string is not localized
+Uninstall temporary add-ons in closeAboutDebugging
+Add Reload to installed addons in about:debugging
+about:debugging#tabs does not display a valid icon for Gmail
+Broken image icon at about:debugging#tabs is non-retina
+No safe warning or sandbox when load an add-on from about:debugging#addons
+Viewing addon source from debug console does not work
+about:debugging#tabs actively loads all favicons
+Allow to install ADB helper from about:debugging connect screen
+List USB devices in about:debugging connect
+List WiFi devices in about:debugging connect
+Missing target-icon in about:debugging#tabs
+Remove code duplication in about:debugging tests
+Separate user add-ons and system add-ons
+Mirror device screen
+Workers in about:debugging could show their Start Time
+Intermittent devtools/client/aboutdebugging/test/browser_service_workers_multi_content_process.js | Test timed out -
+Add enable/disable to about:debugging
+Intermittent devtools/client/aboutdebugging/test/browser_addons_install.js | leaked 2 window(s) until shutdown [url = about:debugging#addons]
+Intermittent devtools/client/aboutdebugging/test/browser_tabs.js | application terminated with exit code 1
+Display tabs grouped by window
+about:debugging service worker start button always creates worker thread in parent process
+some favicons are missing on about:debugging / tabs
+Provide a link to a MDN Add-on Debugging doc page in the about:debugging page
+Expose a shortcut to reload addons from any firefox window
+open service worker tabs in background in about:debugging tests
+Intermittent browser_service_workers_start.js | Uncaught exception - TypeError: ServiceWorker script at empty-sw.js for scope service-workers/ encountered an error during installation.
+Intermittent devtools/client/aboutdebugging/test/browser_service_workers_status.js | Test timed out -
